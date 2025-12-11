@@ -1,0 +1,46 @@
+name: Update wildcards
+
+on:
+  schedule:
+    # Mỗi ngày 1 lần lúc 03:00 UTC (tuỳ bạn chỉnh)
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # Cho phép commit/push
+
+jobs:
+  update-wildcards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests publicsuffix2
+
+      - name: Update wildcards
+        run: |
+          python update_wildcards.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add wildcards.txt
+          git commit -m "chore: update wildcards $(date -u +'%Y-%m-%d')"
+          git push
