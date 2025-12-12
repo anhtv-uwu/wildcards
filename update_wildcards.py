@@ -215,5 +215,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write("test")
+    main()
