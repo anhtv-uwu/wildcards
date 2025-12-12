@@ -2,7 +2,7 @@ name: Update wildcards
 
 on:
   schedule:
-    # Mỗi ngày 1 lần lúc 03:00 UTC (tuỳ bạn chỉnh)
+    # Mỗi ngày 1 lần lúc 03:00 UTC (chỉnh giờ nếu muốn)
     - cron: "0 3 * * *"
   workflow_dispatch:
 
@@ -33,7 +33,11 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if git diff --quiet; then
+          # Đưa wildcards.txt vào staging (kể cả khi là file mới)
+          git add wildcards.txt || true
+
+          # Nếu sau khi add mà vẫn không có gì trong staging -> không commit
+          if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
@@ -41,6 +45,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add wildcards.txt
           git commit -m "chore: update wildcards $(date -u +'%Y-%m-%d')"
           git push
