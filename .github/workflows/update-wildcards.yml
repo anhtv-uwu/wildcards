@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # Cho phép commit/push
+  contents: write   # Cho phép commit/push code
 
 jobs:
   update-wildcards:
@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Để có thể commit/push lên branch hiện tại
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,14 +29,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests publicsuffix2
 
-      - name: Update wildcards
+      - name: Run wildcards update script
         run: |
           python update_wildcards.py
 
       - name: Commit and push if changed
         run: |
-          # Đưa wildcards.txt vào staging (kể cả khi là file mới)
-          git add wildcards.txt || true
+          # Đưa wildcards.txt & changelog.txt vào staging (kể cả là file mới)
+          git add wildcards.txt changelog.txt || true
 
           # Nếu sau khi add mà vẫn không có gì trong staging -> không commit
           if git diff --cached --quiet; then
