@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
+import os
 import socket
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 from typing import Iterable, Set, Tuple, Optional, List
 
 import requests
@@ -18,6 +20,7 @@ INSCOPE_URLS = [
 PUBLIC_SUFFIX_URL = "https://publicsuffix.org/list/public_suffix_list.dat"
 
 OUTPUT_PATH = "wildcards.txt"
+CHANGELOG_PATH = "changelog.txt"
 
 
 def fetch(url: str) -> str:
@@ -60,6 +63,53 @@ def fetch_public_suffix_data() -> Tuple[PublicSuffixList, List[str]]:
     # PublicSuffixList chấp nhận list các dòng PSL
     psl = PublicSuffixList(cleaned_lines)
     return psl, cleaned_lines
+
+
+def is_valid_hostname(host: str) -> bool:
+    """
+    Heuristic check domain hợp lệ:
+    - không rỗng, không chứa ký tự lạ, không còn '*'
+    - độ dài tổng <= 253
+    - mỗi label <= 63, chỉ [a-z0-9-], không bắt đầu/kết thúc bằng '-'
+    - yêu cầu ít nhất 1 dấu chấm (vd: example.com)
+    """
+    if not host:
+        return False
+
+    host = host.strip().lower()
+    if host.endswith("."):
+        host = host[:-1]
+
+    if not host:
+        return False
+
+    # Không chấp nhận wildcard, khoảng trắng, slash, hai chấm...
+    invalid_chars = set(" *\"'\\/@()[]{}:,;")
+    if any(c in invalid_chars for c in host):
+        return False
+
+    if len(host) > 253:
+        return False
+
+    labels = host.split(".")
+    if len(labels) < 2:
+        # Nếu muốn cho phép single-label như "localhost" thì bỏ check này,
+        # nhưng với scope bug bounty thì thường là domain thực sự.
+        return False
+
+    allowed = set("abcdefghijklmnopqrstuvwxyz0123456789-")
+
+    for label in labels:
+        if not label:
+            return False
+        if len(label) > 63:
+            return False
+        if not (label[0].isalnum() and label[-1].isalnum()):
+            return False
+        if any(ch not in allowed for ch in label):
+            return False
+
+    return True
 
 
 def normalize_host(
@@ -113,6 +163,9 @@ def normalize_host(
     if fuzzy:
         # ví dụ từ '*.askteamclean.*' => prefix = 'askteamclean'
         # hoặc 'cdn.askteamclean', v.v.
+        # Kiểm tra prefix không chứa ký tự lạ (ngoài a-z0-9-.)
+        if any(c not in "abcdefghijklmnopqrstuvwxyz0123456789-." for c in h):
+            return None, False, None
         return None, True, h
 
     # Lấy registrable domain (eTLD+1) từ public suffix list
@@ -121,14 +174,20 @@ def normalize_host(
     except Exception:
         base = h
 
-    return base.lower(), False, None
+    base = base.lower().rstrip(".")
+
+    if not is_valid_hostname(base):
+        return None, False, None
+
+    return base, False, None
 
 
 def expand_fuzzy(prefix: str, suffix_lines: Iterable[str]) -> Set[str]:
     """
     Từ prefix (vd: 'askteamclean'),
     duyệt qua toàn bộ public suffix list (đã bỏ comment),
-    ghép prefix.suffix, resolve DNS, nếu tồn tại thì giữ lại.
+    ghép prefix.suffix, lọc bằng is_valid_hostname,
+    rồi resolve DNS, nếu tồn tại thì giữ lại.
 
     Chạy song song bằng ThreadPoolExecutor để nhanh hơn.
     """
@@ -139,7 +198,10 @@ def expand_fuzzy(prefix: str, suffix_lines: Iterable[str]) -> Set[str]:
         suf = raw_suffix.lstrip("*.!")
         if not suf:
             continue
-        candidates.append(f"{prefix}.{suf}")
+        candidate = f"{prefix}.{suf}".lower().rstrip(".")
+        if not is_valid_hostname(candidate):
+            continue
+        candidates.append(candidate)
 
     results: Set[str] = set()
 
@@ -150,7 +212,10 @@ def expand_fuzzy(prefix: str, suffix_lines: Iterable[str]) -> Set[str]:
         except Exception:
             return None
 
-    # Số worker tuỳ bạn, 50–100 là hợp lý cho GH Actions
+    if not candidates:
+        return results
+
+    # Số worker tuỳ số lượng candidate
     max_workers = min(100, max(10, len(candidates) // 50 or 10))
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -163,6 +228,49 @@ def expand_fuzzy(prefix: str, suffix_lines: Iterable[str]) -> Set[str]:
                 results.add(dom)
 
     return results
+
+
+def load_existing(path: str) -> Set[str]:
+    """
+    Đọc wildcards.txt cũ (nếu có) để làm diff.
+    """
+    if not os.path.exists(path):
+        return set()
+
+    items: Set[str] = set()
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            d = line.strip().lower()
+            if not d or d.startswith("#"):
+                continue
+            if is_valid_hostname(d):
+                items.add(d)
+    return items
+
+
+def write_changelog(old: Set[str], new: Set[str]) -> None:
+    """
+    Ghi changelog.txt:
+    - domain mới (+)
+    - domain bị bỏ (-)
+    """
+    added = sorted(new - old)
+    removed = sorted(old - new)
+
+    if not added and not removed:
+        return
+
+    ts = datetime.now(timezone.utc).isoformat()
+
+    with open(CHANGELOG_PATH, "a", encoding="utf-8") as f:
+        f.write(f"=== {ts} ===\n")
+        f.write(f"Added ({len(added)}):\n")
+        for d in added:
+            f.write(f"+ {d}\n")
+        f.write(f"Removed ({len(removed)}):\n")
+        for d in removed:
+            f.write(f"- {d}\n")
+        f.write("\n")
 
 
 def main() -> None:
@@ -181,12 +289,16 @@ def main() -> None:
     print("[*] Downloading public suffix list for normalization & fuzzy expansion...")
     psl, suffix_lines = fetch_public_suffix_data()
 
+    # Load wildcards cũ để so sánh
+    old_set = load_existing(OUTPUT_PATH)
+    print(f"[*] Loaded {len(old_set)} existing entries from {OUTPUT_PATH}")
+
     normalized: Set[str] = set()
     fuzzy_prefixes: Set[str] = set()
 
     for raw in raw_items:
         base, is_fuzzy, prefix = normalize_host(raw, psl)
-        if base:
+        if base and is_valid_hostname(base):
             normalized.add(base)
         if is_fuzzy and prefix:
             fuzzy_prefixes.add(prefix)
@@ -206,12 +318,19 @@ def main() -> None:
         print(f"    -> {len(expanded)} valid domain(s)")
         normalized |= expanded
 
+    # Loại bỏ mọi domain không hợp lệ lần nữa cho chắc
+    normalized = {d for d in normalized if is_valid_hostname(d)}
+
     # Sort & ghi file
     cleaned = sorted(normalized)
     print(f"[*] Writing {len(cleaned)} normalized entries to {OUTPUT_PATH}")
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         for item in cleaned:
             f.write(item + "\n")
+
+    # Ghi changelog
+    write_changelog(old_set, set(cleaned))
+    print(f"[*] Changelog written to {CHANGELOG_PATH}")
 
 
 if __name__ == "__main__":
