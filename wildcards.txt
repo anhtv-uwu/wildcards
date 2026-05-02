@@ -400,6 +400,7 @@ aqora.naiad.deno.net
 aqora.naiad.deployagent.com
 aqora.naiad.deployagent.space
 aqora.naiad.deta.app
+aqora.naiad.deta.dev
 aqora.naiad.deus-canvas.com
 aqora.naiad.deuxfleurs.eu
 aqora.naiad.deuxfleurs.page
@@ -749,7 +750,6 @@ aqora.naiad.merck
 aqora.naiad.metaaiusercontent.com
 aqora.naiad.meteorapp.com
 aqora.naiad.mil.ph
-aqora.naiad.mil.tm
 aqora.naiad.minisite.ms
 aqora.naiad.mircloud.host
 aqora.naiad.mircloud.ru
@@ -1617,8 +1617,8 @@ askteamclean.analytics-gateway.us-east-1.amazonaws.com
 askteamclean.analytics-gateway.us-east-2.amazonaws.com
 askteamclean.analytics-gateway.us-west-2.amazonaws.com
 askteamclean.ap.ngrok.io
+askteamclean.api.lp.dev
 askteamclean.apigee.io
-askteamclean.app.os.fedoraproject.org
 askteamclean.app.render.com
 askteamclean.appchizi.com
 askteamclean.appengine.flow.ch
@@ -1632,7 +1632,6 @@ askteamclean.aquila.it
 askteamclean.archer.replit.dev
 askteamclean.art.ec
 askteamclean.art.pl
-askteamclean.arvanedge.ir
 askteamclean.assessments.cx
 askteamclean.atl.jelastic.vps-host.net
 askteamclean.au.ngrok.io
@@ -1695,7 +1694,6 @@ askteamclean.canvacode.com
 askteamclean.caracal.mythic-beasts.com
 askteamclean.carrd.co
 askteamclean.cdn.bubble.io
-askteamclean.cdn.prod.atlassian-dev.net
 askteamclean.centralus.azurestaticapps.net
 askteamclean.ch.trendhosting.cloud
 askteamclean.clan.rip
@@ -1759,6 +1757,7 @@ askteamclean.deno.net
 askteamclean.deployagent.com
 askteamclean.deployagent.space
 askteamclean.deta.app
+askteamclean.deta.dev
 askteamclean.deus-canvas.com
 askteamclean.deuxfleurs.eu
 askteamclean.deuxfleurs.page
@@ -1914,7 +1913,6 @@ askteamclean.ezproxy.kuleuven.be
 askteamclean.f5.si
 askteamclean.fashionstore.jp
 askteamclean.fastly-terrarium.com
-askteamclean.fedorapeople.org
 askteamclean.feedback.ac
 askteamclean.fentiger.mythic-beasts.com
 askteamclean.fh-muenster.io
@@ -2054,8 +2052,12 @@ askteamclean.lambda-url.ap-south-1.on.aws
 askteamclean.lambda-url.ap-southeast-1.on.aws
 askteamclean.lambda-url.ap-southeast-2.on.aws
 askteamclean.lambda-url.ap-southeast-3.on.aws
+askteamclean.lambda-url.ca-central-1.on.aws
+askteamclean.lambda-url.eu-central-1.on.aws
 askteamclean.lambda-url.eu-north-1.on.aws
+askteamclean.lambda-url.eu-south-1.on.aws
 askteamclean.lambda-url.eu-west-1.on.aws
+askteamclean.lambda-url.eu-west-2.on.aws
 askteamclean.lambda-url.eu-west-3.on.aws
 askteamclean.lambda-url.me-south-1.on.aws
 askteamclean.lambda-url.sa-east-1.on.aws
@@ -3126,6 +3128,7 @@ authenticbeautyconcept.deno.net
 authenticbeautyconcept.deployagent.com
 authenticbeautyconcept.deployagent.space
 authenticbeautyconcept.deta.app
+authenticbeautyconcept.deta.dev
 authenticbeautyconcept.deus-canvas.com
 authenticbeautyconcept.deuxfleurs.eu
 authenticbeautyconcept.deuxfleurs.page
@@ -4525,7 +4528,6 @@ bonderite.bookonline.app
 bonderite.boomla.net
 bonderite.botda.sh
 bonderite.botdash.app
-bonderite.botdash.dev
 bonderite.botdash.gg
 bonderite.botdash.net
 bonderite.botdash.xyz
@@ -4618,6 +4620,7 @@ bonderite.deno.net
 bonderite.deployagent.com
 bonderite.deployagent.space
 bonderite.deta.app
+bonderite.deta.dev
 bonderite.deus-canvas.com
 bonderite.deuxfleurs.eu
 bonderite.deuxfleurs.page
@@ -4996,7 +4999,6 @@ bonderite.my.canvasite.cn
 bonderite.myamaze.net
 bonderite.mybox.company
 bonderite.mybox.me
-bonderite.mybox.page
 bonderite.mydbserver.com
 bonderite.mydobiss.com
 bonderite.myforum.community
@@ -5056,8 +5058,6 @@ bonderite.notebook-fips.us-west-1.sagemaker.aws
 bonderite.notebook-fips.us-west-2.sagemaker.aws
 bonderite.notebook.af-south-1.sagemaker.aws
 bonderite.notebook.ap-east-1.sagemaker.aws
-bonderite.notebook.ap-northeast-1.sagemaker.aws
-bonderite.notebook.ap-northeast-2.sagemaker.aws
 bonderite.notebook.ap-northeast-3.sagemaker.aws
 bonderite.notebook.ap-south-1.sagemaker.aws
 bonderite.notebook.ap-south-2.sagemaker.aws
@@ -6026,6 +6026,7 @@ busch-jaeger.deno.net
 busch-jaeger.deployagent.com
 busch-jaeger.deployagent.space
 busch-jaeger.deta.app
+busch-jaeger.deta.dev
 busch-jaeger.deus-canvas.com
 busch-jaeger.deuxfleurs.eu
 busch-jaeger.deuxfleurs.page
@@ -6647,7 +6648,6 @@ busch-jaeger.s3-accesspoint.ap-southeast-4.amazonaws.com
 busch-jaeger.s3-accesspoint.ap-southeast-5.amazonaws.com
 busch-jaeger.s3-accesspoint.ca-central-1.amazonaws.com
 busch-jaeger.s3-accesspoint.ca-west-1.amazonaws.com
-busch-jaeger.s3-accesspoint.cn-north-1.amazonaws.com.cn
 busch-jaeger.s3-accesspoint.cn-northwest-1.amazonaws.com.cn
 busch-jaeger.s3-accesspoint.dualstack.af-south-1.amazonaws.com
 busch-jaeger.s3-accesspoint.dualstack.ap-east-1.amazonaws.com
@@ -7498,6 +7498,7 @@ cbre.deno.net
 cbre.deployagent.com
 cbre.deployagent.space
 cbre.deta.app
+cbre.deta.dev
 cbre.deus-canvas.com
 cbre.deuxfleurs.eu
 cbre.deuxfleurs.page
@@ -7555,6 +7556,7 @@ cbre.emrappui-prod.cn-north-1.amazonaws.com.cn
 cbre.emrappui-prod.cn-northwest-1.amazonaws.com.cn
 cbre.emrappui-prod.eu-central-1.amazonaws.com
 cbre.emrappui-prod.eu-central-2.amazonaws.com
+cbre.emrappui-prod.eu-north-1.amazonaws.com
 cbre.emrappui-prod.eu-south-1.amazonaws.com
 cbre.emrappui-prod.eu-south-2.amazonaws.com
 cbre.emrappui-prod.eu-west-1.amazonaws.com
@@ -7880,7 +7882,6 @@ cbre.merck
 cbre.metaaiusercontent.com
 cbre.meteorapp.com
 cbre.mil.ph
-cbre.mil.tm
 cbre.minisite.ms
 cbre.mircloud.host
 cbre.mircloud.ru
@@ -8973,6 +8974,7 @@ ceresit.deno.net
 ceresit.deployagent.com
 ceresit.deployagent.space
 ceresit.deta.app
+ceresit.deta.dev
 ceresit.deus-canvas.com
 ceresit.deuxfleurs.eu
 ceresit.deuxfleurs.page
@@ -9188,7 +9190,6 @@ ceresit.hackclub.app
 ceresit.handcrafted.jp
 ceresit.hasura.app
 ceresit.hateblo.jp
-ceresit.hatenablog.com
 ceresit.hatenablog.jp
 ceresit.hatenadiary.com
 ceresit.hatenadiary.jp
@@ -9411,14 +9412,10 @@ ceresit.noop.app
 ceresit.nordeste-idc.saveincloud.net
 ceresit.notebook-fips.ca-central-1.sagemaker.aws
 ceresit.notebook-fips.ca-west-1.sagemaker.aws
-ceresit.notebook-fips.us-east-1.sagemaker.aws
-ceresit.notebook-fips.us-east-2.sagemaker.aws
 ceresit.notebook-fips.us-gov-east-1.sagemaker.aws
 ceresit.notebook-fips.us-gov-west-1.sagemaker.aws
 ceresit.notebook-fips.us-west-1.sagemaker.aws
 ceresit.notebook-fips.us-west-2.sagemaker.aws
-ceresit.notebook.af-south-1.sagemaker.aws
-ceresit.notebook.ap-east-1.sagemaker.aws
 ceresit.notebook.ap-northeast-1.sagemaker.aws
 ceresit.notebook.ap-northeast-2.sagemaker.aws
 ceresit.notebook.ap-northeast-3.sagemaker.aws
@@ -9433,7 +9430,6 @@ ceresit.notebook.ca-west-1.sagemaker.aws
 ceresit.notebook.cn-north-1.sagemaker.com.cn
 ceresit.notebook.cn-northwest-1.sagemaker.com.cn
 ceresit.notebook.eu-central-1.sagemaker.aws
-ceresit.notebook.eu-central-2.sagemaker.aws
 ceresit.notebook.eu-north-1.sagemaker.aws
 ceresit.notebook.eu-south-1.sagemaker.aws
 ceresit.notebook.eu-south-2.sagemaker.aws
@@ -9442,11 +9438,8 @@ ceresit.notebook.eu-west-2.sagemaker.aws
 ceresit.notebook.eu-west-3.sagemaker.aws
 ceresit.notebook.il-central-1.sagemaker.aws
 ceresit.notebook.me-central-1.sagemaker.aws
-ceresit.notebook.me-south-1.sagemaker.aws
 ceresit.notebook.sa-east-1.sagemaker.aws
 ceresit.notebook.us-east-1.sagemaker.aws
-ceresit.notebook.us-east-2.sagemaker.aws
-ceresit.notebook.us-gov-east-1.sagemaker.aws
 ceresit.notebook.us-gov-west-1.sagemaker.aws
 ceresit.notebook.us-west-1.sagemaker.aws
 ceresit.notebook.us-west-2.sagemaker.aws
@@ -10439,6 +10432,7 @@ cpqcorp.deno.net
 cpqcorp.deployagent.com
 cpqcorp.deployagent.space
 cpqcorp.deta.app
+cpqcorp.deta.dev
 cpqcorp.deus-canvas.com
 cpqcorp.deuxfleurs.eu
 cpqcorp.deuxfleurs.page
@@ -11625,7 +11619,6 @@ damai.cn
 dancecentral.com
 das.eu
 dash-trade.com
-dash.ai
 dashbrokers.com
 dashexecution.com
 dashfinancial.biz
@@ -11708,7 +11701,6 @@ dm.gg
 dmcdn.net
 dmxleo.com
 dns.eu
-docsend.com
 docswallet.com
 docugest.it
 doj.io
@@ -11725,10 +11717,6 @@ drinkbrisk.com
 drinkevolve.com
 drogas.lt
 drogas.lv
-dropbox.com
-dropboxer.net
-dropboxforum.com
-dropboxpartners.com
 dropmix.com
 duckduckgo.com
 duogourmet.com.br
@@ -12087,10 +12075,7 @@ hartsystems.com
 hasmyidentitybeenstolen.com
 healthwarrior.com
 hedcor.com
-hellofax.com
 hellorory.com
-hellosign.com
-helloworks.com
 henkel-adhesives.cn
 henkel-adhesives.com
 henkel-cashback.de
@@ -12350,6 +12335,7 @@ hpecore.deno.net
 hpecore.deployagent.com
 hpecore.deployagent.space
 hpecore.deta.app
+hpecore.deta.dev
 hpecore.deus-canvas.com
 hpecore.deuxfleurs.eu
 hpecore.deuxfleurs.page
@@ -12963,6 +12949,7 @@ hpecore.s3-accesspoint.dualstack.ap-southeast-5.amazonaws.com
 hpecore.s3-accesspoint.dualstack.ca-central-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
+hpecore.s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
 hpecore.s3-accesspoint.dualstack.eu-central-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.eu-central-2.amazonaws.com
 hpecore.s3-accesspoint.dualstack.eu-north-1.amazonaws.com
@@ -13169,6 +13156,7 @@ hpecore.s3.ap-southeast-5.amazonaws.com
 hpecore.s3.ca-central-1.amazonaws.com
 hpecore.s3.ca-west-1.amazonaws.com
 hpecore.s3.cn-north-1.amazonaws.com.cn
+hpecore.s3.cn-northwest-1.amazonaws.com.cn
 hpecore.s3.dualstack.af-south-1.amazonaws.com
 hpecore.s3.dualstack.ap-east-1.amazonaws.com
 hpecore.s3.dualstack.ap-northeast-1.amazonaws.com
@@ -13680,6 +13668,7 @@ hpqcorp.deno.net
 hpqcorp.deployagent.com
 hpqcorp.deployagent.space
 hpqcorp.deta.app
+hpqcorp.deta.dev
 hpqcorp.deus-canvas.com
 hpqcorp.deuxfleurs.eu
 hpqcorp.deuxfleurs.page
@@ -13746,7 +13735,6 @@ hpqcorp.emrappui-prod.us-east-2.amazonaws.com
 hpqcorp.emrappui-prod.us-gov-east-1.amazonaws.com
 hpqcorp.emrappui-prod.us-gov-west-1.amazonaws.com
 hpqcorp.emrappui-prod.us-west-1.amazonaws.com
-hpqcorp.emrappui-prod.us-west-2.amazonaws.com
 hpqcorp.emrnotebooks-prod.af-south-1.amazonaws.com
 hpqcorp.emrnotebooks-prod.ap-east-1.amazonaws.com
 hpqcorp.emrnotebooks-prod.ap-northeast-1.amazonaws.com
@@ -13777,7 +13765,6 @@ hpqcorp.emrnotebooks-prod.us-east-1.amazonaws.com
 hpqcorp.emrnotebooks-prod.us-east-2.amazonaws.com
 hpqcorp.emrnotebooks-prod.us-gov-east-1.amazonaws.com
 hpqcorp.emrnotebooks-prod.us-gov-west-1.amazonaws.com
-hpqcorp.emrnotebooks-prod.us-west-1.amazonaws.com
 hpqcorp.emrnotebooks-prod.us-west-2.amazonaws.com
 hpqcorp.emrstudio-prod.af-south-1.amazonaws.com
 hpqcorp.emrstudio-prod.ap-east-1.amazonaws.com
@@ -15066,7 +15053,6 @@ indola.cust.dev.thingdust.io
 indola.cust.disrec.thingdust.io
 indola.cust.prod.thingdust.io
 indola.cust.testing.thingdust.io
-indola.cyon.link
 indola.cz
 indola.ddns-ip.net
 indola.de
@@ -15081,6 +15067,7 @@ indola.deno.net
 indola.deployagent.com
 indola.deployagent.space
 indola.deta.app
+indola.deta.dev
 indola.deus-canvas.com
 indola.deuxfleurs.eu
 indola.deuxfleurs.page
@@ -16622,7 +16609,6 @@ mediatonic.co.uk
 meetmynewpet.com
 megatix.be
 melonapp.com
-memorable.io
 mendix.com
 meraki.com
 mercadolibre.cl
@@ -16991,6 +16977,7 @@ natturalabs.deno.net
 natturalabs.deployagent.com
 natturalabs.deployagent.space
 natturalabs.deta.app
+natturalabs.deta.dev
 natturalabs.deus-canvas.com
 natturalabs.deuxfleurs.eu
 natturalabs.deuxfleurs.page
@@ -18122,6 +18109,7 @@ natturalabs.woltlab-demo.com
 natturalabs.worf.replit.dev
 natturalabs.wpenginepowered.com
 natturalabs.ws
+natturalabs.www.ck
 natturalabs.x443.pw
 natturalabs.xmit.co
 natturalabs.xmit.dev
@@ -18170,6 +18158,8 @@ nexuzhealth.4u.com
 nexuzhealth.5.azurestaticapps.net
 nexuzhealth.6.azurestaticapps.net
 nexuzhealth.7.azurestaticapps.net
+nexuzhealth.a.prod.fastly.net
+nexuzhealth.a.ssl.fastly.net
 nexuzhealth.aa.crm.dev
 nexuzhealth.ab.crm.dev
 nexuzhealth.abrdns.com
@@ -18222,6 +18212,7 @@ nexuzhealth.authgear-staging.com
 nexuzhealth.authgearapps.com
 nexuzhealth.azurefd.net
 nexuzhealth.azurestaticapps.net
+nexuzhealth.b.ssl.fastly.net
 nexuzhealth.balena-devices.com
 nexuzhealth.barsy.bg
 nexuzhealth.barsy.menu
@@ -18339,6 +18330,7 @@ nexuzhealth.deno.net
 nexuzhealth.deployagent.com
 nexuzhealth.deployagent.space
 nexuzhealth.deta.app
+nexuzhealth.deta.dev
 nexuzhealth.deus-canvas.com
 nexuzhealth.deuxfleurs.eu
 nexuzhealth.deuxfleurs.page
@@ -18537,6 +18529,7 @@ nexuzhealth.githubusercontent.com
 nexuzhealth.gitlab.io
 nexuzhealth.gitpage.si
 nexuzhealth.gl.srv.us
+nexuzhealth.global.prod.fastly.net
 nexuzhealth.global.ssl.fastly.net
 nexuzhealth.googleapis.com
 nexuzhealth.googlecode.com
@@ -19125,7 +19118,6 @@ nexuzhealth.s3-website.dualstack.us-gov-east-1.amazonaws.com
 nexuzhealth.s3-website.dualstack.us-gov-west-1.amazonaws.com
 nexuzhealth.s3-website.dualstack.us-west-1.amazonaws.com
 nexuzhealth.s3-website.dualstack.us-west-2.amazonaws.com
-nexuzhealth.s3-website.eu-central-1.amazonaws.com
 nexuzhealth.s3-website.eu-central-2.amazonaws.com
 nexuzhealth.s3-website.eu-north-1.amazonaws.com
 nexuzhealth.s3-website.eu-south-1.amazonaws.com
@@ -19689,6 +19681,7 @@ nimblestorage.deno.net
 nimblestorage.deployagent.com
 nimblestorage.deployagent.space
 nimblestorage.deta.app
+nimblestorage.deta.dev
 nimblestorage.deus-canvas.com
 nimblestorage.deuxfleurs.eu
 nimblestorage.deuxfleurs.page
@@ -19728,6 +19721,8 @@ nimblestorage.emrappui-prod.ap-east-1.amazonaws.com
 nimblestorage.emrappui-prod.ap-northeast-1.amazonaws.com
 nimblestorage.emrappui-prod.ap-northeast-2.amazonaws.com
 nimblestorage.emrappui-prod.ap-northeast-3.amazonaws.com
+nimblestorage.emrappui-prod.ap-south-1.amazonaws.com
+nimblestorage.emrappui-prod.ap-south-2.amazonaws.com
 nimblestorage.emrappui-prod.ap-southeast-1.amazonaws.com
 nimblestorage.emrappui-prod.ap-southeast-2.amazonaws.com
 nimblestorage.emrappui-prod.ap-southeast-3.amazonaws.com
@@ -19759,6 +19754,7 @@ nimblestorage.emrnotebooks-prod.ap-east-1.amazonaws.com
 nimblestorage.emrnotebooks-prod.ap-northeast-1.amazonaws.com
 nimblestorage.emrnotebooks-prod.ap-northeast-2.amazonaws.com
 nimblestorage.emrnotebooks-prod.ap-northeast-3.amazonaws.com
+nimblestorage.emrnotebooks-prod.ap-south-1.amazonaws.com
 nimblestorage.emrnotebooks-prod.ap-south-2.amazonaws.com
 nimblestorage.emrnotebooks-prod.ap-southeast-1.amazonaws.com
 nimblestorage.emrnotebooks-prod.ap-southeast-2.amazonaws.com
@@ -19789,6 +19785,8 @@ nimblestorage.emrstudio-prod.af-south-1.amazonaws.com
 nimblestorage.emrstudio-prod.ap-east-1.amazonaws.com
 nimblestorage.emrstudio-prod.ap-northeast-1.amazonaws.com
 nimblestorage.emrstudio-prod.ap-northeast-2.amazonaws.com
+nimblestorage.emrstudio-prod.ap-northeast-3.amazonaws.com
+nimblestorage.emrstudio-prod.ap-south-1.amazonaws.com
 nimblestorage.emrstudio-prod.ap-south-2.amazonaws.com
 nimblestorage.emrstudio-prod.ap-southeast-1.amazonaws.com
 nimblestorage.emrstudio-prod.ap-southeast-2.amazonaws.com
@@ -20035,7 +20033,6 @@ nimblestorage.merck
 nimblestorage.metaaiusercontent.com
 nimblestorage.meteorapp.com
 nimblestorage.mil.ph
-nimblestorage.mil.tm
 nimblestorage.minisite.ms
 nimblestorage.mircloud.host
 nimblestorage.mircloud.ru
@@ -20531,7 +20528,6 @@ nimblestorage.s3.dualstack.eu-central-1.amazonaws.com
 nimblestorage.s3.dualstack.eu-central-2.amazonaws.com
 nimblestorage.s3.dualstack.eu-north-1.amazonaws.com
 nimblestorage.s3.dualstack.eu-south-1.amazonaws.com
-nimblestorage.s3.dualstack.eu-south-2.amazonaws.com
 nimblestorage.s3.dualstack.eu-west-1.amazonaws.com
 nimblestorage.s3.dualstack.eu-west-2.amazonaws.com
 nimblestorage.s3.dualstack.eu-west-3.amazonaws.com
@@ -20546,10 +20542,8 @@ nimblestorage.s3.dualstack.us-gov-west-1.amazonaws.com
 nimblestorage.s3.dualstack.us-west-1.amazonaws.com
 nimblestorage.s3.dualstack.us-west-2.amazonaws.com
 nimblestorage.s3.eu-central-1.amazonaws.com
-nimblestorage.s3.eu-central-2.amazonaws.com
 nimblestorage.s3.eu-north-1.amazonaws.com
 nimblestorage.s3.eu-south-1.amazonaws.com
-nimblestorage.s3.eu-south-2.amazonaws.com
 nimblestorage.s3.eu-west-1.amazonaws.com
 nimblestorage.s3.eu-west-2.amazonaws.com
 nimblestorage.s3.eu-west-3.amazonaws.com
@@ -21153,9 +21147,6 @@ pattex.com.tr
 pattex.com.ws
 pattex.community-pro.de
 pattex.community-pro.net
-pattex.convex.app
-pattex.convex.cloud
-pattex.convex.site
 pattex.corespeed.app
 pattex.cr
 pattex.craft.me
@@ -21183,6 +21174,7 @@ pattex.deno.net
 pattex.deployagent.com
 pattex.deployagent.space
 pattex.deta.app
+pattex.deta.dev
 pattex.deus-canvas.com
 pattex.deuxfleurs.eu
 pattex.deuxfleurs.page
@@ -21544,7 +21536,6 @@ pattex.merck
 pattex.metaaiusercontent.com
 pattex.meteorapp.com
 pattex.mil.ph
-pattex.mil.tm
 pattex.minisite.ms
 pattex.mircloud.host
 pattex.mircloud.ru
@@ -22215,8 +22206,6 @@ pattex.us
 pattex.us-1.evennode.com
 pattex.us-2.evennode.com
 pattex.us-3.evennode.com
-pattex.us-east-1.convex.cloud
-pattex.us-east-1.convex.site
 pattex.us.ngrok.io
 pattex.us.platform.sh
 pattex.us.reclaim.cloud
@@ -22343,6 +22332,7 @@ pattex.woltlab-demo.com
 pattex.worf.replit.dev
 pattex.wpenginepowered.com
 pattex.ws
+pattex.www.ck
 pattex.x443.pw
 pattex.xmit.co
 pattex.xmit.dev
@@ -22505,7 +22495,6 @@ perwoll.botdash.net
 perwoll.botdash.xyz
 perwoll.boutir.com
 perwoll.bplaced.com
-perwoll.bplaced.de
 perwoll.bplaced.net
 perwoll.browsersafetymark.io
 perwoll.bss.design
@@ -22596,6 +22585,7 @@ perwoll.deno.net
 perwoll.deployagent.com
 perwoll.deployagent.space
 perwoll.deta.app
+perwoll.deta.dev
 perwoll.deus-canvas.com
 perwoll.deuxfleurs.eu
 perwoll.deuxfleurs.page
@@ -22613,7 +22603,6 @@ perwoll.dns-cloud.net
 perwoll.dns-dynamic.net
 perwoll.dnsabr.com
 perwoll.dnsup.net
-perwoll.drr.ac
 perwoll.duckdns.org
 perwoll.dyn.ddnss.de
 perwoll.dyndns1.de
@@ -23624,7 +23613,6 @@ perwoll.user.srcf.net
 perwoll.user.webaccel.jp
 perwoll.usercontent.goog
 perwoll.utwente.io
-perwoll.uwu.ai
 perwoll.v0.build
 perwoll.val.run
 perwoll.vapor.cloud
@@ -23940,14 +23928,6 @@ plexxi.cloudns.cc
 plexxi.cloudns.ch
 plexxi.cloudns.cl
 plexxi.cloudns.club
-plexxi.cloudns.cx
-plexxi.cloudns.eu
-plexxi.cloudns.in
-plexxi.cloudns.info
-plexxi.cloudns.org
-plexxi.cloudns.pro
-plexxi.cloudns.pw
-plexxi.cloudns.us
 plexxi.cn
 plexxi.co.com
 plexxi.co.de
@@ -23973,7 +23953,6 @@ plexxi.cust.disrec.thingdust.io
 plexxi.cust.prod.thingdust.io
 plexxi.cust.testing.thingdust.io
 plexxi.cyon.link
-plexxi.ddns-ip.net
 plexxi.de
 plexxi.de.cool
 plexxi.de.trendhosting.cloud
@@ -23986,6 +23965,7 @@ plexxi.deno.net
 plexxi.deployagent.com
 plexxi.deployagent.space
 plexxi.deta.app
+plexxi.deta.dev
 plexxi.deus-canvas.com
 plexxi.deuxfleurs.eu
 plexxi.deuxfleurs.page
@@ -23998,8 +23978,6 @@ plexxi.discordsays.com
 plexxi.discordsez.com
 plexxi.diskussionsbereich.de
 plexxi.dkonto.pl
-plexxi.dns-cloud.net
-plexxi.dns-dynamic.net
 plexxi.dnsabr.com
 plexxi.dnsup.net
 plexxi.drr.ac
@@ -24232,8 +24210,6 @@ plexxi.int.la
 plexxi.intouch.email
 plexxi.io.noc.ruhr-uni-bochum.de
 plexxi.iopsys.se
-plexxi.ip-ddns.com
-plexxi.ip-dynamic.org
 plexxi.ipfs.nftstorage.link
 plexxi.ipfs.storacha.link
 plexxi.ipfs.w3s.link
@@ -24334,6 +24310,7 @@ plexxi.merck
 plexxi.metaaiusercontent.com
 plexxi.meteorapp.com
 plexxi.mil.ph
+plexxi.mil.tm
 plexxi.minisite.ms
 plexxi.mircloud.host
 plexxi.mircloud.ru
@@ -25387,6 +25364,7 @@ prittworld.deno.net
 prittworld.deployagent.com
 prittworld.deployagent.space
 prittworld.deta.app
+prittworld.deta.dev
 prittworld.deus-canvas.com
 prittworld.deuxfleurs.eu
 prittworld.deuxfleurs.page
@@ -25650,6 +25628,7 @@ prittworld.is-a-fullstack.dev
 prittworld.is-a.dev
 prittworld.is-cool.dev
 prittworld.iservschule.de
+prittworld.it
 prittworld.it1.eur.aruba.jenv-aruba.cloud
 prittworld.it1.jenv-aruba.cloud
 prittworld.itcouldbewor.se
@@ -25744,6 +25723,7 @@ prittworld.merck
 prittworld.metaaiusercontent.com
 prittworld.meteorapp.com
 prittworld.mil.ph
+prittworld.mil.tm
 prittworld.minisite.ms
 prittworld.mircloud.host
 prittworld.mircloud.ru
@@ -25971,7 +25951,6 @@ prittworld.s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
 prittworld.s3-accesspoint-fips.dualstack.us-east-1.amazonaws.com
 prittworld.s3-accesspoint-fips.dualstack.us-east-2.amazonaws.com
 prittworld.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
-prittworld.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
 prittworld.s3-accesspoint-fips.dualstack.us-west-1.amazonaws.com
 prittworld.s3-accesspoint-fips.dualstack.us-west-2.amazonaws.com
 prittworld.s3-accesspoint-fips.us-east-1.amazonaws.com
@@ -26027,7 +26006,6 @@ prittworld.s3-accesspoint.dualstack.sa-east-1.amazonaws.com
 prittworld.s3-accesspoint.dualstack.us-east-1.amazonaws.com
 prittworld.s3-accesspoint.dualstack.us-east-2.amazonaws.com
 prittworld.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
-prittworld.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 prittworld.s3-accesspoint.dualstack.us-west-1.amazonaws.com
 prittworld.s3-accesspoint.dualstack.us-west-2.amazonaws.com
 prittworld.s3-accesspoint.eu-central-1.amazonaws.com
@@ -26143,7 +26121,6 @@ prittworld.s3-website.ap-northeast-2.amazonaws.com
 prittworld.s3-website.ap-northeast-3.amazonaws.com
 prittworld.s3-website.ap-south-1.amazonaws.com
 prittworld.s3-website.ap-south-2.amazonaws.com
-prittworld.s3-website.ap-southeast-1.amazonaws.com
 prittworld.s3-website.ap-southeast-2.amazonaws.com
 prittworld.s3-website.ap-southeast-3.amazonaws.com
 prittworld.s3-website.ap-southeast-4.amazonaws.com
@@ -26159,7 +26136,6 @@ prittworld.s3-website.dualstack.ap-northeast-3.amazonaws.com
 prittworld.s3-website.dualstack.ap-south-1.amazonaws.com
 prittworld.s3-website.dualstack.ap-south-2.amazonaws.com
 prittworld.s3-website.dualstack.ap-southeast-1.amazonaws.com
-prittworld.s3-website.dualstack.ap-southeast-2.amazonaws.com
 prittworld.s3-website.dualstack.ap-southeast-3.amazonaws.com
 prittworld.s3-website.dualstack.ap-southeast-4.amazonaws.com
 prittworld.s3-website.dualstack.ap-southeast-5.amazonaws.com
@@ -26227,7 +26203,6 @@ prittworld.s3.dualstack.ap-northeast-3.amazonaws.com
 prittworld.s3.dualstack.ap-south-1.amazonaws.com
 prittworld.s3.dualstack.ap-south-2.amazonaws.com
 prittworld.s3.dualstack.ap-southeast-1.amazonaws.com
-prittworld.s3.dualstack.ap-southeast-2.amazonaws.com
 prittworld.s3.dualstack.ap-southeast-3.amazonaws.com
 prittworld.s3.dualstack.ap-southeast-4.amazonaws.com
 prittworld.s3.dualstack.ap-southeast-5.amazonaws.com
@@ -26250,7 +26225,6 @@ prittworld.s3.dualstack.sa-east-1.amazonaws.com
 prittworld.s3.dualstack.us-east-1.amazonaws.com
 prittworld.s3.dualstack.us-east-2.amazonaws.com
 prittworld.s3.dualstack.us-gov-east-1.amazonaws.com
-prittworld.s3.dualstack.us-gov-west-1.amazonaws.com
 prittworld.s3.dualstack.us-west-1.amazonaws.com
 prittworld.s3.dualstack.us-west-2.amazonaws.com
 prittworld.s3.eu-central-1.amazonaws.com
@@ -26626,6 +26600,7 @@ randstad.adobeaemcloud.net
 randstad.adobeio-static.net
 randstad.adobeioruntime.net
 randstad.ae
+randstad.aem.live
 randstad.aem.network
 randstad.aem.page
 randstad.aem.reviews
@@ -26833,6 +26808,7 @@ randstad.deployagent.com
 randstad.deployagent.space
 randstad.design
 randstad.deta.app
+randstad.deta.dev
 randstad.deus-canvas.com
 randstad.deuxfleurs.eu
 randstad.deuxfleurs.page
@@ -27208,7 +27184,6 @@ randstad.merck
 randstad.metaaiusercontent.com
 randstad.meteorapp.com
 randstad.mil.ph
-randstad.mil.tm
 randstad.minisite.ms
 randstad.mircloud.host
 randstad.mircloud.ru
@@ -28249,6 +28224,7 @@ randstadrisesmart.deno.net
 randstadrisesmart.deployagent.com
 randstadrisesmart.deployagent.space
 randstadrisesmart.deta.app
+randstadrisesmart.deta.dev
 randstadrisesmart.deus-canvas.com
 randstadrisesmart.deuxfleurs.eu
 randstadrisesmart.deuxfleurs.page
@@ -29435,7 +29411,6 @@ realogy.com
 recko.io
 reckoproduction.com
 reckostaging.com
-reclaim.ai
 reddit.com
 redditblog.com
 reddithelp.com
@@ -29683,6 +29658,7 @@ risesmart.deno.net
 risesmart.deployagent.com
 risesmart.deployagent.space
 risesmart.deta.app
+risesmart.deta.dev
 risesmart.deus-canvas.com
 risesmart.deuxfleurs.eu
 risesmart.deuxfleurs.page
@@ -30305,6 +30281,7 @@ risesmart.s3-accesspoint.ca-west-1.amazonaws.com
 risesmart.s3-accesspoint.cn-north-1.amazonaws.com.cn
 risesmart.s3-accesspoint.cn-northwest-1.amazonaws.com.cn
 risesmart.s3-accesspoint.dualstack.af-south-1.amazonaws.com
+risesmart.s3-accesspoint.dualstack.ap-east-1.amazonaws.com
 risesmart.s3-accesspoint.dualstack.ap-northeast-1.amazonaws.com
 risesmart.s3-accesspoint.dualstack.ap-northeast-2.amazonaws.com
 risesmart.s3-accesspoint.dualstack.ap-northeast-3.amazonaws.com
@@ -31182,7 +31159,6 @@ schwarzkopf.cyon.link
 schwarzkopf.cz
 schwarzkopf.ddns-ip.net
 schwarzkopf.de
-schwarzkopf.de.com
 schwarzkopf.de.cool
 schwarzkopf.de.trendhosting.cloud
 schwarzkopf.definima.net
@@ -31194,6 +31170,7 @@ schwarzkopf.deno.net
 schwarzkopf.deployagent.com
 schwarzkopf.deployagent.space
 schwarzkopf.deta.app
+schwarzkopf.deta.dev
 schwarzkopf.deus-canvas.com
 schwarzkopf.deuxfleurs.eu
 schwarzkopf.deuxfleurs.page
@@ -31373,7 +31350,6 @@ schwarzkopf.firewall-gateway.de
 schwarzkopf.flutterflow.app
 schwarzkopf.forms.ac
 schwarzkopf.forumz.info
-schwarzkopf.fr
 schwarzkopf.fr-1.paas.massivegrid.net
 schwarzkopf.fra1-de.cloudjiffy.net
 schwarzkopf.framer.ai
@@ -32596,6 +32572,7 @@ schwarzkopfpalette.deno.net
 schwarzkopfpalette.deployagent.com
 schwarzkopfpalette.deployagent.space
 schwarzkopfpalette.deta.app
+schwarzkopfpalette.deta.dev
 schwarzkopfpalette.deus-canvas.com
 schwarzkopfpalette.deuxfleurs.eu
 schwarzkopfpalette.deuxfleurs.page
@@ -33725,7 +33702,6 @@ schwarzkopfpalette.woltlab-demo.com
 schwarzkopfpalette.worf.replit.dev
 schwarzkopfpalette.wpenginepowered.com
 schwarzkopfpalette.ws
-schwarzkopfpalette.www.ck
 schwarzkopfpalette.x443.pw
 schwarzkopfpalette.xmit.co
 schwarzkopfpalette.xmit.dev
@@ -33841,8 +33817,6 @@ silan.aem.page
 silan.aem.reviews
 silan.affinitylottery.org.uk
 silan.ai
-silan.akamaiorigin-staging.net
-silan.akamaiorigin.net
 silan.alp1.ae.flow.ch
 silan.analytics-gateway.ap-northeast-1.amazonaws.com
 silan.analytics-gateway.ap-northeast-2.amazonaws.com
@@ -33942,7 +33916,6 @@ silan.canvacode.com
 silan.caracal.mythic-beasts.com
 silan.carrd.co
 silan.cc
-silan.cdn.bubble.io
 silan.cdn.prod.atlassian-dev.net
 silan.centralus.azurestaticapps.net
 silan.ch.trendhosting.cloud
@@ -34016,6 +33989,7 @@ silan.deno.net
 silan.deployagent.com
 silan.deployagent.space
 silan.deta.app
+silan.deta.dev
 silan.deus-canvas.com
 silan.deuxfleurs.eu
 silan.deuxfleurs.page
@@ -34207,7 +34181,6 @@ silan.fspages.org
 silan.funnels.cx
 silan.futurecms.at
 silan.futuremailing.at
-silan.gadget.app
 silan.gadget.host
 silan.gateway.dev
 silan.gh.srv.us
@@ -34379,6 +34352,7 @@ silan.merck
 silan.metaaiusercontent.com
 silan.meteorapp.com
 silan.mil.ph
+silan.mil.tm
 silan.minisite.ms
 silan.mircloud.host
 silan.mircloud.ru
@@ -34966,7 +34940,6 @@ silan.staging.expo.app
 silan.static.hf.space
 silan.static.observableusercontent.com
 silan.statichost.page
-silan.statics.cloud
 silan.stg.dev
 silan.stgstage.dev
 silan.storage.supabase.co
@@ -35396,6 +35369,7 @@ simplivity.deno.net
 simplivity.deployagent.com
 simplivity.deployagent.space
 simplivity.deta.app
+simplivity.deta.dev
 simplivity.deus-canvas.com
 simplivity.deuxfleurs.eu
 simplivity.deuxfleurs.page
@@ -35452,9 +35426,7 @@ simplivity.emrappui-prod.eu-central-2.amazonaws.com
 simplivity.emrappui-prod.eu-north-1.amazonaws.com
 simplivity.emrappui-prod.eu-south-1.amazonaws.com
 simplivity.emrappui-prod.eu-south-2.amazonaws.com
-simplivity.emrappui-prod.eu-west-1.amazonaws.com
 simplivity.emrappui-prod.eu-west-2.amazonaws.com
-simplivity.emrappui-prod.eu-west-3.amazonaws.com
 simplivity.emrappui-prod.il-central-1.amazonaws.com
 simplivity.emrappui-prod.me-central-1.amazonaws.com
 simplivity.emrappui-prod.me-south-1.amazonaws.com
@@ -35508,7 +35480,6 @@ simplivity.emrstudio-prod.ap-southeast-1.amazonaws.com
 simplivity.emrstudio-prod.ap-southeast-2.amazonaws.com
 simplivity.emrstudio-prod.ap-southeast-3.amazonaws.com
 simplivity.emrstudio-prod.ap-southeast-4.amazonaws.com
-simplivity.emrstudio-prod.ca-central-1.amazonaws.com
 simplivity.emrstudio-prod.ca-west-1.amazonaws.com
 simplivity.emrstudio-prod.cn-north-1.amazonaws.com.cn
 simplivity.emrstudio-prod.cn-northwest-1.amazonaws.com.cn
@@ -35933,6 +35904,7 @@ simplivity.pley.games
 simplivity.pplx.app
 simplivity.prequalifyme.today
 simplivity.preview.csb.app
+simplivity.preview.emergentagent.com
 simplivity.preview.site
 simplivity.primetel.cloud
 simplivity.pro.typeform.com
@@ -36830,6 +36802,7 @@ somat.deno.net
 somat.deployagent.com
 somat.deployagent.space
 somat.deta.app
+somat.deta.dev
 somat.deus-canvas.com
 somat.deuxfleurs.eu
 somat.deuxfleurs.page
@@ -37469,7 +37442,6 @@ somat.s3-accesspoint.dualstack.eu-central-1.amazonaws.com
 somat.s3-accesspoint.dualstack.eu-central-2.amazonaws.com
 somat.s3-accesspoint.dualstack.eu-north-1.amazonaws.com
 somat.s3-accesspoint.dualstack.eu-south-1.amazonaws.com
-somat.s3-accesspoint.dualstack.eu-south-2.amazonaws.com
 somat.s3-accesspoint.dualstack.eu-west-1.amazonaws.com
 somat.s3-accesspoint.dualstack.eu-west-2.amazonaws.com
 somat.s3-accesspoint.dualstack.eu-west-3.amazonaws.com
@@ -37986,6 +37958,7 @@ somat.woltlab-demo.com
 somat.worf.replit.dev
 somat.wpenginepowered.com
 somat.ws
+somat.www.ck
 somat.x443.pw
 somat.xmit.co
 somat.xmit.dev
@@ -38254,6 +38227,7 @@ stmntgrooming.deno.net
 stmntgrooming.deployagent.com
 stmntgrooming.deployagent.space
 stmntgrooming.deta.app
+stmntgrooming.deta.dev
 stmntgrooming.deus-canvas.com
 stmntgrooming.deuxfleurs.eu
 stmntgrooming.deuxfleurs.page
@@ -38813,7 +38787,6 @@ stmntgrooming.rag-cloud-ch.hosteur.com
 stmntgrooming.rag-cloud.hosteur.com
 stmntgrooming.ravpage.co.il
 stmntgrooming.raw.icp0.io
-stmntgrooming.raw.icp1.io
 stmntgrooming.readthedocs-hosted.com
 stmntgrooming.readthedocs.io
 stmntgrooming.realtime.supabase.co
@@ -38840,7 +38813,6 @@ stmntgrooming.ryd.wafaicloud.com
 stmntgrooming.s3-1.amazonaws.com
 stmntgrooming.s3-accesspoint-fips.ca-central-1.amazonaws.com
 stmntgrooming.s3-accesspoint-fips.ca-west-1.amazonaws.com
-stmntgrooming.s3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com
 stmntgrooming.s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
 stmntgrooming.s3-accesspoint-fips.dualstack.us-east-1.amazonaws.com
 stmntgrooming.s3-accesspoint-fips.dualstack.us-east-2.amazonaws.com
@@ -38882,7 +38854,6 @@ stmntgrooming.s3-accesspoint.dualstack.ap-southeast-2.amazonaws.com
 stmntgrooming.s3-accesspoint.dualstack.ap-southeast-3.amazonaws.com
 stmntgrooming.s3-accesspoint.dualstack.ap-southeast-4.amazonaws.com
 stmntgrooming.s3-accesspoint.dualstack.ap-southeast-5.amazonaws.com
-stmntgrooming.s3-accesspoint.dualstack.ca-central-1.amazonaws.com
 stmntgrooming.s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 stmntgrooming.s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
 stmntgrooming.s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
@@ -39018,7 +38989,6 @@ stmntgrooming.s3-website.ap-northeast-3.amazonaws.com
 stmntgrooming.s3-website.ap-south-1.amazonaws.com
 stmntgrooming.s3-website.ap-south-2.amazonaws.com
 stmntgrooming.s3-website.ap-southeast-1.amazonaws.com
-stmntgrooming.s3-website.ap-southeast-2.amazonaws.com
 stmntgrooming.s3-website.ap-southeast-3.amazonaws.com
 stmntgrooming.s3-website.ap-southeast-4.amazonaws.com
 stmntgrooming.s3-website.ap-southeast-5.amazonaws.com
@@ -39037,7 +39007,6 @@ stmntgrooming.s3-website.dualstack.ap-southeast-2.amazonaws.com
 stmntgrooming.s3-website.dualstack.ap-southeast-3.amazonaws.com
 stmntgrooming.s3-website.dualstack.ap-southeast-4.amazonaws.com
 stmntgrooming.s3-website.dualstack.ap-southeast-5.amazonaws.com
-stmntgrooming.s3-website.dualstack.ca-central-1.amazonaws.com
 stmntgrooming.s3-website.dualstack.ca-west-1.amazonaws.com
 stmntgrooming.s3-website.dualstack.cn-north-1.amazonaws.com.cn
 stmntgrooming.s3-website.dualstack.eu-central-1.amazonaws.com
@@ -39619,6 +39588,7 @@ stopaq.deno.net
 stopaq.deployagent.com
 stopaq.deployagent.space
 stopaq.deta.app
+stopaq.deta.dev
 stopaq.deus-canvas.com
 stopaq.deuxfleurs.eu
 stopaq.deuxfleurs.page
@@ -41022,6 +40992,7 @@ syoss.deno.net
 syoss.deployagent.com
 syoss.deployagent.space
 syoss.deta.app
+syoss.deta.dev
 syoss.deus-canvas.com
 syoss.deuxfleurs.eu
 syoss.deuxfleurs.page
@@ -41287,7 +41258,6 @@ syoss.is-a-fullstack.dev
 syoss.is-a.dev
 syoss.is-cool.dev
 syoss.iservschule.de
-syoss.it
 syoss.it1.eur.aruba.jenv-aruba.cloud
 syoss.it1.jenv-aruba.cloud
 syoss.itcouldbewor.se
@@ -41384,6 +41354,7 @@ syoss.merck
 syoss.metaaiusercontent.com
 syoss.meteorapp.com
 syoss.mil.ph
+syoss.mil.tm
 syoss.minisite.ms
 syoss.mircloud.host
 syoss.mircloud.ru
@@ -42423,6 +42394,7 @@ taft.deployagent.com
 taft.deployagent.space
 taft.design
 taft.deta.app
+taft.deta.dev
 taft.deus-canvas.com
 taft.deuxfleurs.eu
 taft.deuxfleurs.page
@@ -42704,6 +42676,8 @@ taft.j.scaleforce.com.cy
 taft.j.scaleforce.net
 taft.janeway.replit.dev
 taft.jc.neen.it
+taft.jcloud-ver-jpc.ik-server.com
+taft.jcloud.ik-server.com
 taft.jcloud.kz
 taft.jed.wafaicloud.com
 taft.jelastic.dogado.eu
@@ -42942,6 +42916,7 @@ taft.oxa.cloud
 taft.pa.crm.dev
 taft.paas.beebyte.io
 taft.paas.datacenter.fi
+taft.paas.hosted-by-previder.com
 taft.paas.massivegrid.com
 taft.pages-research.it.hs-heilbronn.de
 taft.pages.gay
@@ -42984,6 +42959,8 @@ taft.quizzes.cx
 taft.r.appspot.com
 taft.r2.dev
 taft.raffleentry.org.uk
+taft.rag-cloud-ch.hosteur.com
+taft.rag-cloud.hosteur.com
 taft.ravpage.co.il
 taft.raw.icp0.io
 taft.raw.icp1.io
@@ -43686,6 +43663,7 @@ tangit.authgearapps.com
 tangit.azurefd.net
 tangit.azurestaticapps.net
 tangit.b.ssl.fastly.net
+tangit.balena-devices.com
 tangit.barsy.bg
 tangit.barsy.menu
 tangit.barsy.net
@@ -43696,6 +43674,7 @@ tangit.barsyonline.co.uk
 tangit.barsyonline.com
 tangit.barsyonline.menu
 tangit.barsyonline.shop
+tangit.base.ec
 tangit.base.shop
 tangit.base44-sandbox.com
 tangit.base44.app
@@ -43741,6 +43720,7 @@ tangit.canvacode.com
 tangit.caracal.mythic-beasts.com
 tangit.carrd.co
 tangit.cdn.bubble.io
+tangit.cdn.prod.atlassian-dev.net
 tangit.centralus.azurestaticapps.net
 tangit.ch
 tangit.ch.trendhosting.cloud
@@ -43807,6 +43787,7 @@ tangit.deno.net
 tangit.deployagent.com
 tangit.deployagent.space
 tangit.deta.app
+tangit.deta.dev
 tangit.deus-canvas.com
 tangit.deuxfleurs.eu
 tangit.deuxfleurs.page
@@ -43832,6 +43813,7 @@ tangit.e.id
 tangit.e2b.app
 tangit.eastasia.azurestaticapps.net
 tangit.eastus2.azurestaticapps.net
+tangit.ecommerce-shop.pl
 tangit.edgecompute.app
 tangit.editorx.io
 tangit.edu.ee
@@ -44161,6 +44143,7 @@ tangit.merck
 tangit.metaaiusercontent.com
 tangit.meteorapp.com
 tangit.mil.ph
+tangit.mil.tm
 tangit.minisite.ms
 tangit.mircloud.host
 tangit.mircloud.ru
@@ -44332,6 +44315,7 @@ tangit.picard.replit.dev
 tangit.piebox.site
 tangit.pike.replit.dev
 tangit.pixolino.com
+tangit.pl
 tangit.pley.games
 tangit.pplx.app
 tangit.prequalifyme.today
@@ -44658,7 +44642,6 @@ tangit.s3.dualstack.eu-central-2.amazonaws.com
 tangit.s3.dualstack.eu-north-1.amazonaws.com
 tangit.s3.dualstack.eu-south-1.amazonaws.com
 tangit.s3.dualstack.eu-south-2.amazonaws.com
-tangit.s3.dualstack.eu-west-1.amazonaws.com
 tangit.s3.dualstack.eu-west-2.amazonaws.com
 tangit.s3.dualstack.eu-west-3.amazonaws.com
 tangit.s3.dualstack.il-central-1.amazonaws.com
@@ -44828,6 +44811,7 @@ tangit.us.ngrok.io
 tangit.us.platform.sh
 tangit.us.reclaim.cloud
 tangit.user.fm
+tangit.user.party.eus
 tangit.user.srcf.net
 tangit.user.webaccel.jp
 tangit.usercontent.goog
@@ -45167,6 +45151,7 @@ technomelt.cs.keliweb.cloud
 technomelt.csb.app
 technomelt.ctfcloud.net
 technomelt.cust.dev.thingdust.io
+technomelt.cust.disrec.thingdust.io
 technomelt.cust.prod.thingdust.io
 technomelt.cust.testing.thingdust.io
 technomelt.cyon.link
@@ -45183,6 +45168,7 @@ technomelt.deno.net
 technomelt.deployagent.com
 technomelt.deployagent.space
 technomelt.deta.app
+technomelt.deta.dev
 technomelt.deus-canvas.com
 technomelt.deuxfleurs.eu
 technomelt.deuxfleurs.page
@@ -45532,6 +45518,7 @@ technomelt.merck
 technomelt.metaaiusercontent.com
 technomelt.meteorapp.com
 technomelt.mil.ph
+technomelt.mil.tm
 technomelt.minisite.ms
 technomelt.mircloud.host
 technomelt.mircloud.ru
@@ -45734,6 +45721,7 @@ technomelt.relay.evervault.dev
 technomelt.replit.app
 technomelt.researched.cx
 technomelt.reservd.com
+technomelt.reservd.disrec.thingdust.io
 technomelt.reservd.testing.thingdust.io
 technomelt.reserve-online.com
 technomelt.reserve-online.net
@@ -46315,6 +46303,7 @@ technomelt.woltlab-demo.com
 technomelt.worf.replit.dev
 technomelt.wpenginepowered.com
 technomelt.ws
+technomelt.www.ck
 technomelt.x443.pw
 technomelt.xmit.co
 technomelt.xmit.dev
@@ -46525,6 +46514,7 @@ tempo-team.deno.net
 tempo-team.deployagent.com
 tempo-team.deployagent.space
 tempo-team.deta.app
+tempo-team.deta.dev
 tempo-team.deus-canvas.com
 tempo-team.deuxfleurs.eu
 tempo-team.deuxfleurs.page
@@ -46775,6 +46765,7 @@ tempo-team.io.noc.ruhr-uni-bochum.de
 tempo-team.iopsys.se
 tempo-team.ip-ddns.com
 tempo-team.ip-dynamic.org
+tempo-team.ipfs.nftstorage.link
 tempo-team.ipfs.storacha.link
 tempo-team.ipfs.w3s.link
 tempo-team.iran.liara.run
@@ -46812,6 +46803,7 @@ tempo-team.kiloapps.ai
 tempo-team.kinghost.net
 tempo-team.kirk.replit.dev
 tempo-team.kunden.ortsinfo.at
+tempo-team.ladesk.com
 tempo-team.lambda-url.af-south-1.on.aws
 tempo-team.lambda-url.ap-east-1.on.aws
 tempo-team.lambda-url.ap-northeast-1.on.aws
@@ -46922,6 +46914,7 @@ tempo-team.myspreadshop.pl
 tempo-team.myspreadshop.se
 tempo-team.mytabit.co.il
 tempo-team.mytabit.com
+tempo-team.needle.run
 tempo-team.net.ph
 tempo-team.net.ws
 tempo-team.netlify.app
@@ -47538,6 +47531,7 @@ tempo-team.us.ngrok.io
 tempo-team.us.platform.sh
 tempo-team.us.reclaim.cloud
 tempo-team.user.fm
+tempo-team.user.party.eus
 tempo-team.user.srcf.net
 tempo-team.user.webaccel.jp
 tempo-team.usercontent.goog
@@ -47884,6 +47878,7 @@ teroson.deno.net
 teroson.deployagent.com
 teroson.deployagent.space
 teroson.deta.app
+teroson.deta.dev
 teroson.deus-canvas.com
 teroson.deuxfleurs.eu
 teroson.deuxfleurs.page
@@ -49479,6 +49474,7 @@ uzleuven.deno.net
 uzleuven.deployagent.com
 uzleuven.deployagent.space
 uzleuven.deta.app
+uzleuven.deta.dev
 uzleuven.deus-canvas.com
 uzleuven.deuxfleurs.eu
 uzleuven.deuxfleurs.page
@@ -51312,6 +51308,7 @@ www.amazon.deployagent.space
 www.amazon.desi
 www.amazon.design
 www.amazon.deta.app
+www.amazon.deta.dev
 www.amazon.deus-canvas.com
 www.amazon.deuxfleurs.eu
 www.amazon.deuxfleurs.page
@@ -51955,7 +51952,6 @@ www.amazon.myspreadshop.se
 www.amazon.mytabit.co.il
 www.amazon.mytabit.com
 www.amazon.nagoya
-www.amazon.name.tr
 www.amazon.navy
 www.amazon.nb.ca
 www.amazon.needle.run
@@ -52803,6 +52799,8 @@ www.amazon.university
 www.amazon.uno
 www.amazon.up.railway.app
 www.amazon.us
+www.amazon.us-1.evennode.com
+www.amazon.us-2.evennode.com
 www.amazon.us-3.evennode.com
 www.amazon.us-east-1.convex.cloud
 www.amazon.us-east-1.convex.site
