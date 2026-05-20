@@ -1110,7 +1110,6 @@ aqora.naiad.s3-object-lambda.ap-southeast-3.amazonaws.com
 aqora.naiad.s3-object-lambda.ap-southeast-4.amazonaws.com
 aqora.naiad.s3-object-lambda.ap-southeast-5.amazonaws.com
 aqora.naiad.s3-object-lambda.ca-central-1.amazonaws.com
-aqora.naiad.s3-object-lambda.ca-west-1.amazonaws.com
 aqora.naiad.s3-object-lambda.cn-north-1.amazonaws.com.cn
 aqora.naiad.s3-object-lambda.cn-northwest-1.amazonaws.com.cn
 aqora.naiad.s3-object-lambda.eu-central-1.amazonaws.com
@@ -1543,7 +1542,6 @@ aqora.naiad.woltlab-demo.com
 aqora.naiad.worf.replit.dev
 aqora.naiad.wpenginepowered.com
 aqora.naiad.ws
-aqora.naiad.www.ck
 aqora.naiad.x443.pw
 aqora.naiad.xmit.co
 aqora.naiad.xmit.dev
@@ -6005,7 +6003,6 @@ busch-jaeger.co.uk
 busch-jaeger.codeberg.page
 busch-jaeger.codespot.com
 busch-jaeger.com
-busch-jaeger.com.br
 busch-jaeger.com.mt
 busch-jaeger.com.ph
 busch-jaeger.com.ws
@@ -7473,6 +7470,7 @@ cbre.com.my
 cbre.com.pa
 cbre.com.pl
 cbre.com.qa
+cbre.com.sa
 cbre.com.sg
 cbre.com.tr
 cbre.com.tw
@@ -7893,7 +7891,6 @@ cbre.merck
 cbre.metaaiusercontent.com
 cbre.meteorapp.com
 cbre.mil.ph
-cbre.mil.tm
 cbre.minisite.ms
 cbre.mircloud.host
 cbre.mircloud.ru
@@ -9041,7 +9038,9 @@ ceresit.emrappui-prod.cn-northwest-1.amazonaws.com.cn
 ceresit.emrappui-prod.eu-central-1.amazonaws.com
 ceresit.emrappui-prod.eu-central-2.amazonaws.com
 ceresit.emrappui-prod.eu-north-1.amazonaws.com
+ceresit.emrappui-prod.eu-south-1.amazonaws.com
 ceresit.emrappui-prod.eu-south-2.amazonaws.com
+ceresit.emrappui-prod.eu-west-1.amazonaws.com
 ceresit.emrappui-prod.eu-west-2.amazonaws.com
 ceresit.emrappui-prod.eu-west-3.amazonaws.com
 ceresit.emrappui-prod.il-central-1.amazonaws.com
@@ -9071,6 +9070,7 @@ ceresit.emrnotebooks-prod.cn-northwest-1.amazonaws.com.cn
 ceresit.emrnotebooks-prod.eu-central-1.amazonaws.com
 ceresit.emrnotebooks-prod.eu-central-2.amazonaws.com
 ceresit.emrnotebooks-prod.eu-north-1.amazonaws.com
+ceresit.emrnotebooks-prod.eu-south-1.amazonaws.com
 ceresit.emrnotebooks-prod.eu-south-2.amazonaws.com
 ceresit.emrnotebooks-prod.eu-west-1.amazonaws.com
 ceresit.emrnotebooks-prod.eu-west-2.amazonaws.com
@@ -9102,6 +9102,8 @@ ceresit.emrstudio-prod.cn-north-1.amazonaws.com.cn
 ceresit.emrstudio-prod.cn-northwest-1.amazonaws.com.cn
 ceresit.emrstudio-prod.eu-central-1.amazonaws.com
 ceresit.emrstudio-prod.eu-central-2.amazonaws.com
+ceresit.emrstudio-prod.eu-north-1.amazonaws.com
+ceresit.emrstudio-prod.eu-south-1.amazonaws.com
 ceresit.emrstudio-prod.eu-south-2.amazonaws.com
 ceresit.emrstudio-prod.eu-west-1.amazonaws.com
 ceresit.emrstudio-prod.eu-west-2.amazonaws.com
@@ -10689,6 +10691,7 @@ cpqcorp.imagine-proxy.work
 cpqcorp.imagine.diy
 cpqcorp.in.futurecms.at
 cpqcorp.in.ngrok.io
+cpqcorp.inc.hk
 cpqcorp.int.la
 cpqcorp.intouch.email
 cpqcorp.io.noc.ruhr-uni-bochum.de
@@ -12339,6 +12342,7 @@ hpecore.com.ws
 hpecore.community-pro.de
 hpecore.community-pro.net
 hpecore.convex.app
+hpecore.convex.cloud
 hpecore.convex.site
 hpecore.corespeed.app
 hpecore.craft.me
@@ -13166,6 +13170,7 @@ hpecore.s3-website.us-gov-east-1.amazonaws.com
 hpecore.s3-website.us-gov-west-1.amazonaws.com
 hpecore.s3-website.us-west-1.amazonaws.com
 hpecore.s3-website.us-west-2.amazonaws.com
+hpecore.s3.af-south-1.amazonaws.com
 hpecore.s3.amazonaws.com
 hpecore.s3.ap-east-1.amazonaws.com
 hpecore.s3.ap-northeast-1.amazonaws.com
@@ -15454,6 +15459,7 @@ indola.merck
 indola.metaaiusercontent.com
 indola.meteorapp.com
 indola.mil.ph
+indola.mil.tm
 indola.minisite.ms
 indola.mircloud.host
 indola.mircloud.ru
@@ -15568,6 +15574,7 @@ indola.noticeable.news
 indola.notion.site
 indola.novecore.site
 indola.now-dns.net
+indola.now-dns.org
 indola.now.sh
 indola.ny-1.paas.massivegrid.net
 indola.ny-2.paas.massivegrid.net
@@ -16748,6 +16755,8 @@ mrjet.se
 msd.com
 msgsvc.io
 mtb.com
+mufg.jp
+mufgamericas.com
 muji.ae
 muji.bh
 muji.com.kw
@@ -18877,6 +18886,7 @@ nexuzhealth.prequalifyme.today
 nexuzhealth.preview.csb.app
 nexuzhealth.preview.emergentagent.com
 nexuzhealth.preview.site
+nexuzhealth.primetel.cloud
 nexuzhealth.pro
 nexuzhealth.pro.typeform.com
 nexuzhealth.protonet.io
@@ -19348,6 +19358,7 @@ nexuzhealth.transurl.nl
 nexuzhealth.tunnelmole.net
 nexuzhealth.tuxfamily.org
 nexuzhealth.typedream.app
+nexuzhealth.uk.oxa.cloud
 nexuzhealth.uk.primetel.cloud
 nexuzhealth.uk.reclaim.cloud
 nexuzhealth.umso.co
@@ -19995,6 +20006,7 @@ nimblestorage.lambda-url.af-south-1.on.aws
 nimblestorage.lambda-url.ap-east-1.on.aws
 nimblestorage.lambda-url.ap-northeast-1.on.aws
 nimblestorage.lambda-url.ap-northeast-2.on.aws
+nimblestorage.lambda-url.ap-northeast-3.on.aws
 nimblestorage.lambda-url.ap-south-1.on.aws
 nimblestorage.lambda-url.ap-southeast-1.on.aws
 nimblestorage.lambda-url.ap-southeast-2.on.aws
@@ -20337,7 +20349,6 @@ nimblestorage.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 nimblestorage.s3-accesspoint.dualstack.us-west-1.amazonaws.com
 nimblestorage.s3-accesspoint.dualstack.us-west-2.amazonaws.com
 nimblestorage.s3-accesspoint.eu-central-1.amazonaws.com
-nimblestorage.s3-accesspoint.eu-central-2.amazonaws.com
 nimblestorage.s3-accesspoint.eu-north-1.amazonaws.com
 nimblestorage.s3-accesspoint.eu-south-1.amazonaws.com
 nimblestorage.s3-accesspoint.eu-south-2.amazonaws.com
@@ -20410,7 +20421,6 @@ nimblestorage.s3-object-lambda.ca-west-1.amazonaws.com
 nimblestorage.s3-object-lambda.cn-north-1.amazonaws.com.cn
 nimblestorage.s3-object-lambda.cn-northwest-1.amazonaws.com.cn
 nimblestorage.s3-object-lambda.eu-central-1.amazonaws.com
-nimblestorage.s3-object-lambda.eu-central-2.amazonaws.com
 nimblestorage.s3-object-lambda.eu-north-1.amazonaws.com
 nimblestorage.s3-object-lambda.eu-south-1.amazonaws.com
 nimblestorage.s3-object-lambda.eu-south-2.amazonaws.com
@@ -21560,7 +21570,6 @@ pattex.merck
 pattex.metaaiusercontent.com
 pattex.meteorapp.com
 pattex.mil.ph
-pattex.mil.tm
 pattex.minisite.ms
 pattex.mircloud.host
 pattex.mircloud.ru
@@ -22440,7 +22449,6 @@ perwoll.abrdns.com
 perwoll.ac.crm.dev
 perwoll.activetrail.biz
 perwoll.adobeaemcloud.com
-perwoll.adobeaemcloud.net
 perwoll.adobeio-static.net
 perwoll.adobeioruntime.net
 perwoll.aem.live
@@ -22593,7 +22601,6 @@ perwoll.crd.co
 perwoll.cs.keliweb.cloud
 perwoll.csb.app
 perwoll.ctfcloud.net
-perwoll.cust.dev.thingdust.io
 perwoll.cust.disrec.thingdust.io
 perwoll.cust.prod.thingdust.io
 perwoll.cust.testing.thingdust.io
@@ -22633,7 +22640,6 @@ perwoll.drr.ac
 perwoll.duckdns.org
 perwoll.dyn.ddnss.de
 perwoll.dyndns1.de
-perwoll.dynserv.org
 perwoll.e.id
 perwoll.e2b.app
 perwoll.eastasia.azurestaticapps.net
@@ -22791,7 +22797,6 @@ perwoll.framer.photos
 perwoll.framer.website
 perwoll.framer.wiki
 perwoll.framercanvas.com
-perwoll.freeddns.us
 perwoll.freetls.fastly.net
 perwoll.frontend.encr.app
 perwoll.fspages.org
@@ -22840,7 +22845,6 @@ perwoll.heteml.net
 perwoll.heyflow.page
 perwoll.heyflow.site
 perwoll.hf.space
-perwoll.hicam.net
 perwoll.hlx.live
 perwoll.hlx.page
 perwoll.home-webserver.de
@@ -22992,7 +22996,6 @@ perwoll.mydobiss.com
 perwoll.myforum.community
 perwoll.myhome-server.de
 perwoll.myiphost.com
-perwoll.mypi.co
 perwoll.myshopblocks.com
 perwoll.myshopify.com
 perwoll.myspreadshop.at
@@ -23600,7 +23603,6 @@ perwoll.t3.storage.dev
 perwoll.t3.storageapi.dev
 perwoll.tabitorder.co.il
 perwoll.taveusercontent.com
-perwoll.tcp4.me
 perwoll.telebit.app
 perwoll.telebit.io
 perwoll.telebit.xyz
@@ -23760,7 +23762,6 @@ perwoll.worf.replit.dev
 perwoll.wpenginepowered.com
 perwoll.ws
 perwoll.www.ck
-perwoll.x443.pw
 perwoll.xmit.co
 perwoll.xmit.dev
 perwoll.yali.mythic-beasts.com
@@ -24170,7 +24171,6 @@ plexxi.filegear.me
 plexxi.firebaseapp.com
 plexxi.flutterflow.app
 plexxi.forms.ac
-plexxi.forumz.info
 plexxi.fr-1.paas.massivegrid.net
 plexxi.fra1-de.cloudjiffy.net
 plexxi.framer.ai
@@ -24228,7 +24228,6 @@ plexxi.heteml.net
 plexxi.heyflow.page
 plexxi.heyflow.site
 plexxi.hf.space
-plexxi.hicam.net
 plexxi.hlx.live
 plexxi.hlx.page
 plexxi.home-webserver.de
@@ -24621,6 +24620,7 @@ plexxi.s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
 plexxi.s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
 plexxi.s3-accesspoint.dualstack.eu-central-1.amazonaws.com
 plexxi.s3-accesspoint.dualstack.eu-central-2.amazonaws.com
+plexxi.s3-accesspoint.dualstack.eu-north-1.amazonaws.com
 plexxi.s3-accesspoint.dualstack.eu-south-1.amazonaws.com
 plexxi.s3-accesspoint.dualstack.eu-south-2.amazonaws.com
 plexxi.s3-accesspoint.dualstack.eu-west-1.amazonaws.com
@@ -24979,7 +24979,6 @@ plexxi.t3.storage.dev
 plexxi.t3.storageapi.dev
 plexxi.tabitorder.co.il
 plexxi.taveusercontent.com
-plexxi.tcp4.me
 plexxi.telebit.app
 plexxi.telebit.io
 plexxi.telebit.xyz
@@ -25056,7 +25055,6 @@ plexxi.vipsinaapp.com
 plexxi.vivenushop.com
 plexxi.vivenushop.dev
 plexxi.vp4.me
-plexxi.vpndns.net
 plexxi.vusercontent.net
 plexxi.w-corp-staticblitz.com
 plexxi.w-credentialless-staticblitz.com
@@ -25426,7 +25424,6 @@ prittworld.dnsup.net
 prittworld.drr.ac
 prittworld.dyn.ddnss.de
 prittworld.dyndns1.de
-prittworld.dynserv.org
 prittworld.e.id
 prittworld.e2b.app
 prittworld.eastasia.azurestaticapps.net
@@ -25765,7 +25762,6 @@ prittworld.merck
 prittworld.metaaiusercontent.com
 prittworld.meteorapp.com
 prittworld.mil.ph
-prittworld.mil.tm
 prittworld.minisite.ms
 prittworld.mircloud.host
 prittworld.mircloud.ru
@@ -25788,7 +25784,6 @@ prittworld.mydbserver.com
 prittworld.mydobiss.com
 prittworld.myforum.community
 prittworld.myhome-server.de
-prittworld.myiphost.com
 prittworld.mypi.co
 prittworld.myshopblocks.com
 prittworld.myshopify.com
@@ -26368,11 +26363,14 @@ prittworld.studio.ap-south-1.sagemaker.aws
 prittworld.studio.ap-southeast-1.sagemaker.aws
 prittworld.studio.ap-southeast-2.sagemaker.aws
 prittworld.studio.ap-southeast-3.sagemaker.aws
+prittworld.studio.ca-central-1.sagemaker.aws
 prittworld.studio.cn-north-1.sagemaker.com.cn
 prittworld.studio.cn-northwest-1.sagemaker.com.cn
 prittworld.studio.eu-central-1.sagemaker.aws
+prittworld.studio.eu-central-2.sagemaker.aws
 prittworld.studio.eu-north-1.sagemaker.aws
 prittworld.studio.eu-south-1.sagemaker.aws
+prittworld.studio.eu-south-2.sagemaker.aws
 prittworld.studio.eu-west-1.sagemaker.aws
 prittworld.studio.eu-west-2.sagemaker.aws
 prittworld.studio.eu-west-3.sagemaker.aws
@@ -26554,7 +26552,6 @@ prittworld.woltlab-demo.com
 prittworld.worf.replit.dev
 prittworld.wpenginepowered.com
 prittworld.ws
-prittworld.www.ck
 prittworld.x443.pw
 prittworld.xmit.co
 prittworld.xmit.dev
@@ -26875,7 +26872,6 @@ randstad.dnsup.net
 randstad.drr.ac
 randstad.dyn.ddnss.de
 randstad.dyndns1.de
-randstad.dynserv.org
 randstad.e.id
 randstad.e2b.app
 randstad.eastasia.azurestaticapps.net
@@ -27255,7 +27251,6 @@ randstad.mydobiss.com
 randstad.myforum.community
 randstad.myhome-server.de
 randstad.myiphost.com
-randstad.mypi.co
 randstad.myshopblocks.com
 randstad.myshopify.com
 randstad.myspreadshop.at
@@ -27381,7 +27376,6 @@ randstad.org.uk
 randstad.org.ws
 randstad.orsites.com
 randstad.outsystemscloud.com
-randstad.ownip.net
 randstad.owo.codes
 randstad.oxa.cloud
 randstad.pa.crm.dev
@@ -27967,7 +27961,6 @@ randstad.vipsinaapp.com
 randstad.vivenushop.com
 randstad.vivenushop.dev
 randstad.vp4.me
-randstad.vpndns.net
 randstad.vusercontent.net
 randstad.w-corp-staticblitz.com
 randstad.w-credentialless-staticblitz.com
@@ -28145,6 +28138,7 @@ randstadrisesmart.barsy.online
 randstadrisesmart.barsy.shop
 randstadrisesmart.barsy.store
 randstadrisesmart.barsyonline.co.uk
+randstadrisesmart.barsyonline.com
 randstadrisesmart.barsyonline.menu
 randstadrisesmart.barsyonline.shop
 randstadrisesmart.base.ec
@@ -28234,6 +28228,7 @@ randstadrisesmart.codespot.com
 randstadrisesmart.com
 randstadrisesmart.com.au
 randstadrisesmart.com.br
+randstadrisesmart.com.cn
 randstadrisesmart.com.hk
 randstadrisesmart.com.ng
 randstadrisesmart.com.ph
@@ -28282,7 +28277,6 @@ randstadrisesmart.dkonto.pl
 randstadrisesmart.dns-cloud.net
 randstadrisesmart.dns-dynamic.net
 randstadrisesmart.dnsabr.com
-randstadrisesmart.dnsup.net
 randstadrisesmart.drr.ac
 randstadrisesmart.dyn.ddnss.de
 randstadrisesmart.dyndns1.de
@@ -28437,7 +28431,6 @@ randstadrisesmart.filegear.me
 randstadrisesmart.firebaseapp.com
 randstadrisesmart.flutterflow.app
 randstadrisesmart.forms.ac
-randstadrisesmart.forumz.info
 randstadrisesmart.fr
 randstadrisesmart.fr-1.paas.massivegrid.net
 randstadrisesmart.fra1-de.cloudjiffy.net
@@ -28448,7 +28441,6 @@ randstadrisesmart.framer.photos
 randstadrisesmart.framer.website
 randstadrisesmart.framer.wiki
 randstadrisesmart.framercanvas.com
-randstadrisesmart.freeddns.us
 randstadrisesmart.freetls.fastly.net
 randstadrisesmart.frontend.encr.app
 randstadrisesmart.fspages.org
@@ -28497,7 +28489,6 @@ randstadrisesmart.heteml.net
 randstadrisesmart.heyflow.page
 randstadrisesmart.heyflow.site
 randstadrisesmart.hf.space
-randstadrisesmart.hicam.net
 randstadrisesmart.hk
 randstadrisesmart.hlx.live
 randstadrisesmart.hlx.page
@@ -28632,7 +28623,6 @@ randstadrisesmart.merck
 randstadrisesmart.metaaiusercontent.com
 randstadrisesmart.meteorapp.com
 randstadrisesmart.mil.ph
-randstadrisesmart.mil.tm
 randstadrisesmart.minisite.ms
 randstadrisesmart.mircloud.host
 randstadrisesmart.mircloud.ru
@@ -28657,7 +28647,6 @@ randstadrisesmart.mydobiss.com
 randstadrisesmart.myforum.community
 randstadrisesmart.myhome-server.de
 randstadrisesmart.myiphost.com
-randstadrisesmart.mypi.co
 randstadrisesmart.myshopblocks.com
 randstadrisesmart.myshopify.com
 randstadrisesmart.myspreadshop.at
@@ -28747,8 +28736,6 @@ randstadrisesmart.notebook.us-west-2.sagemaker.aws
 randstadrisesmart.noticeable.news
 randstadrisesmart.notion.site
 randstadrisesmart.novecore.site
-randstadrisesmart.now-dns.net
-randstadrisesmart.now-dns.org
 randstadrisesmart.now.sh
 randstadrisesmart.ny-1.paas.massivegrid.net
 randstadrisesmart.ny-2.paas.massivegrid.net
@@ -28779,7 +28766,6 @@ randstadrisesmart.org.ph
 randstadrisesmart.org.ws
 randstadrisesmart.orsites.com
 randstadrisesmart.outsystemscloud.com
-randstadrisesmart.ownip.net
 randstadrisesmart.owo.codes
 randstadrisesmart.oxa.cloud
 randstadrisesmart.pa.crm.dev
@@ -28977,6 +28963,7 @@ randstadrisesmart.s3-fips.dualstack.us-west-2.amazonaws.com
 randstadrisesmart.s3-fips.us-east-1.amazonaws.com
 randstadrisesmart.s3-fips.us-east-2.amazonaws.com
 randstadrisesmart.s3-fips.us-gov-east-1.amazonaws.com
+randstadrisesmart.s3-fips.us-gov-west-1.amazonaws.com
 randstadrisesmart.s3-fips.us-west-1.amazonaws.com
 randstadrisesmart.s3-fips.us-west-2.amazonaws.com
 randstadrisesmart.s3-me-south-1.amazonaws.com
@@ -29011,6 +28998,7 @@ randstadrisesmart.s3-object-lambda.sa-east-1.amazonaws.com
 randstadrisesmart.s3-object-lambda.us-east-1.amazonaws.com
 randstadrisesmart.s3-object-lambda.us-east-2.amazonaws.com
 randstadrisesmart.s3-object-lambda.us-gov-east-1.amazonaws.com
+randstadrisesmart.s3-object-lambda.us-gov-west-1.amazonaws.com
 randstadrisesmart.s3-object-lambda.us-west-1.amazonaws.com
 randstadrisesmart.s3-object-lambda.us-west-2.amazonaws.com
 randstadrisesmart.s3-sa-east-1.amazonaws.com
@@ -29143,6 +29131,7 @@ randstadrisesmart.s3.dualstack.us-east-1.amazonaws.com
 randstadrisesmart.s3.dualstack.us-east-2.amazonaws.com
 randstadrisesmart.s3.dualstack.us-gov-east-1.amazonaws.com
 randstadrisesmart.s3.dualstack.us-gov-west-1.amazonaws.com
+randstadrisesmart.s3.dualstack.us-west-1.amazonaws.com
 randstadrisesmart.s3.dualstack.us-west-2.amazonaws.com
 randstadrisesmart.s3.eu-central-1.amazonaws.com
 randstadrisesmart.s3.eu-central-2.amazonaws.com
@@ -29200,7 +29189,6 @@ randstadrisesmart.sinaapp.com
 randstadrisesmart.sisko.replit.dev
 randstadrisesmart.siteleaf.net
 randstadrisesmart.soc.srcf.net
-randstadrisesmart.soundcast.me
 randstadrisesmart.sourcecraft.site
 randstadrisesmart.sphinx.mythic-beasts.com
 randstadrisesmart.spock.replit.dev
@@ -29266,7 +29254,6 @@ randstadrisesmart.t3.storage.dev
 randstadrisesmart.t3.storageapi.dev
 randstadrisesmart.tabitorder.co.il
 randstadrisesmart.taveusercontent.com
-randstadrisesmart.tcp4.me
 randstadrisesmart.telebit.app
 randstadrisesmart.telebit.io
 randstadrisesmart.telebit.xyz
@@ -29346,7 +29333,6 @@ randstadrisesmart.vipsinaapp.com
 randstadrisesmart.vivenushop.com
 randstadrisesmart.vivenushop.dev
 randstadrisesmart.vp4.me
-randstadrisesmart.vpndns.net
 randstadrisesmart.vusercontent.net
 randstadrisesmart.w-corp-staticblitz.com
 randstadrisesmart.w-credentialless-staticblitz.com
@@ -29428,7 +29414,6 @@ randstadrisesmart.worf.replit.dev
 randstadrisesmart.wpenginepowered.com
 randstadrisesmart.ws
 randstadrisesmart.www.ck
-randstadrisesmart.x443.pw
 randstadrisesmart.xmit.co
 randstadrisesmart.xmit.dev
 randstadrisesmart.yali.mythic-beasts.com
@@ -29715,11 +29700,9 @@ risesmart.dkonto.pl
 risesmart.dns-cloud.net
 risesmart.dns-dynamic.net
 risesmart.dnsabr.com
-risesmart.dnsup.net
 risesmart.drr.ac
 risesmart.dyn.ddnss.de
 risesmart.dyndns1.de
-risesmart.dynserv.org
 risesmart.e.id
 risesmart.e2b.app
 risesmart.eastasia.azurestaticapps.net
@@ -29880,7 +29863,6 @@ risesmart.framer.photos
 risesmart.framer.website
 risesmart.framer.wiki
 risesmart.framercanvas.com
-risesmart.freeddns.us
 risesmart.freetls.fastly.net
 risesmart.frontend.encr.app
 risesmart.fspages.org
@@ -30088,8 +30070,6 @@ risesmart.mydbserver.com
 risesmart.mydobiss.com
 risesmart.myforum.community
 risesmart.myhome-server.de
-risesmart.myiphost.com
-risesmart.mypi.co
 risesmart.myshopblocks.com
 risesmart.myshopify.com
 risesmart.myspreadshop.at
@@ -30178,8 +30158,6 @@ risesmart.notebook.us-west-2.sagemaker.aws
 risesmart.noticeable.news
 risesmart.notion.site
 risesmart.novecore.site
-risesmart.now-dns.net
-risesmart.now-dns.org
 risesmart.now.sh
 risesmart.ny-1.paas.massivegrid.net
 risesmart.ny-2.paas.massivegrid.net
@@ -30210,7 +30188,6 @@ risesmart.org.ph
 risesmart.org.ws
 risesmart.orsites.com
 risesmart.outsystemscloud.com
-risesmart.ownip.net
 risesmart.owo.codes
 risesmart.oxa.cloud
 risesmart.pa.crm.dev
@@ -30633,7 +30610,6 @@ risesmart.sisko.replit.dev
 risesmart.site
 risesmart.siteleaf.net
 risesmart.soc.srcf.net
-risesmart.soundcast.me
 risesmart.sourcecraft.site
 risesmart.sphinx.mythic-beasts.com
 risesmart.spock.replit.dev
@@ -30700,7 +30676,6 @@ risesmart.t3.storage.dev
 risesmart.t3.storageapi.dev
 risesmart.tabitorder.co.il
 risesmart.taveusercontent.com
-risesmart.tcp4.me
 risesmart.telebit.app
 risesmart.telebit.io
 risesmart.telebit.xyz
@@ -30781,7 +30756,6 @@ risesmart.vipsinaapp.com
 risesmart.vivenushop.com
 risesmart.vivenushop.dev
 risesmart.vp4.me
-risesmart.vpndns.net
 risesmart.vusercontent.net
 risesmart.w-corp-staticblitz.com
 risesmart.w-credentialless-staticblitz.com
@@ -30863,7 +30837,6 @@ risesmart.worf.replit.dev
 risesmart.wpenginepowered.com
 risesmart.ws
 risesmart.www.ck
-risesmart.x443.pw
 risesmart.xmit.co
 risesmart.xmit.dev
 risesmart.xyz
@@ -31230,13 +31203,11 @@ schwarzkopf.dkonto.pl
 schwarzkopf.dns-cloud.net
 schwarzkopf.dns-dynamic.net
 schwarzkopf.dnsabr.com
-schwarzkopf.dnsup.net
 schwarzkopf.drr.ac
 schwarzkopf.duckdns.org
 schwarzkopf.dyn.ddnss.de
 schwarzkopf.dyndns-ip.com
 schwarzkopf.dyndns1.de
-schwarzkopf.dynserv.org
 schwarzkopf.e.id
 schwarzkopf.e2b.app
 schwarzkopf.eastasia.azurestaticapps.net
@@ -31710,7 +31681,6 @@ schwarzkopf.noticeable.news
 schwarzkopf.notion.site
 schwarzkopf.novecore.site
 schwarzkopf.now-dns.net
-schwarzkopf.now-dns.org
 schwarzkopf.now.sh
 schwarzkopf.ny-1.paas.massivegrid.net
 schwarzkopf.ny-2.paas.massivegrid.net
@@ -32487,7 +32457,6 @@ schwarzkopfpalette.appwrite.global
 schwarzkopfpalette.appwrite.network
 schwarzkopfpalette.aquila.it
 schwarzkopfpalette.archer.replit.dev
-schwarzkopfpalette.art.ec
 schwarzkopfpalette.art.pl
 schwarzkopfpalette.arvanedge.ir
 schwarzkopfpalette.assessments.cx
@@ -34393,7 +34362,6 @@ silan.merck
 silan.metaaiusercontent.com
 silan.meteorapp.com
 silan.mil.ph
-silan.mil.tm
 silan.minisite.ms
 silan.mircloud.host
 silan.mircloud.ru
@@ -35285,6 +35253,7 @@ simplivity.authgearapps.com
 simplivity.azurefd.net
 simplivity.azurestaticapps.net
 simplivity.b.ssl.fastly.net
+simplivity.balena-devices.com
 simplivity.barsy.bg
 simplivity.barsy.menu
 simplivity.barsy.net
@@ -36282,6 +36251,7 @@ simplivity.s3.dualstack.us-gov-east-1.amazonaws.com
 simplivity.s3.dualstack.us-gov-west-1.amazonaws.com
 simplivity.s3.dualstack.us-west-1.amazonaws.com
 simplivity.s3.dualstack.us-west-2.amazonaws.com
+simplivity.s3.eu-central-1.amazonaws.com
 simplivity.s3.eu-central-2.amazonaws.com
 simplivity.s3.eu-north-1.amazonaws.com
 simplivity.s3.eu-south-1.amazonaws.com
@@ -36564,7 +36534,6 @@ simplivity.woltlab-demo.com
 simplivity.worf.replit.dev
 simplivity.wpenginepowered.com
 simplivity.ws
-simplivity.www.ck
 simplivity.x443.pw
 simplivity.xmit.co
 simplivity.xmit.dev
@@ -36736,7 +36705,6 @@ somat.bearblog.dev
 somat.beta.wmcloud.org
 somat.bg
 somat.bitbucket.io
-somat.biz
 somat.blogspot.com
 somat.bluebite.io
 somat.bmoattachments.org
@@ -37091,7 +37059,6 @@ somat.icp0.io
 somat.icp1.io
 somat.imagine-proxy.work
 somat.imagine.diy
-somat.in
 somat.in.futurecms.at
 somat.in.ngrok.io
 somat.inc.hk
@@ -37206,6 +37173,7 @@ somat.merck
 somat.metaaiusercontent.com
 somat.meteorapp.com
 somat.mil.ph
+somat.mil.tm
 somat.minisite.ms
 somat.mircloud.host
 somat.mircloud.ru
@@ -38555,6 +38523,7 @@ stmntgrooming.jelastic.saveincloud.net
 stmntgrooming.jls-sto1.elastx.net
 stmntgrooming.jls-sto2.elastx.net
 stmntgrooming.jls-sto3.elastx.net
+stmntgrooming.joinmc.link
 stmntgrooming.jouwweb.site
 stmntgrooming.jp.net
 stmntgrooming.jp.ngrok.io
@@ -38632,7 +38601,6 @@ stmntgrooming.merck
 stmntgrooming.metaaiusercontent.com
 stmntgrooming.meteorapp.com
 stmntgrooming.mil.ph
-stmntgrooming.mil.tm
 stmntgrooming.minisite.ms
 stmntgrooming.mircloud.host
 stmntgrooming.mircloud.ru
@@ -39916,6 +39884,7 @@ stopaq.jelastic.saveincloud.net
 stopaq.jls-sto1.elastx.net
 stopaq.jls-sto2.elastx.net
 stopaq.jls-sto3.elastx.net
+stopaq.joinmc.link
 stopaq.jouwweb.site
 stopaq.jp.net
 stopaq.jp.ngrok.io
@@ -39990,6 +39959,7 @@ stopaq.merck
 stopaq.metaaiusercontent.com
 stopaq.meteorapp.com
 stopaq.mil.ph
+stopaq.mil.tm
 stopaq.minisite.ms
 stopaq.mircloud.host
 stopaq.mircloud.ru
@@ -40643,7 +40613,6 @@ stopaq.tuxfamily.org
 stopaq.typedream.app
 stopaq.uk.oxa.cloud
 stopaq.uk.primetel.cloud
-stopaq.uk.reclaim.cloud
 stopaq.umso.co
 stopaq.unicloud.pl
 stopaq.unison-services.cloud
@@ -40779,7 +40748,6 @@ stopaq.woltlab-demo.com
 stopaq.worf.replit.dev
 stopaq.wpenginepowered.com
 stopaq.ws
-stopaq.www.ck
 stopaq.x443.pw
 stopaq.xmit.co
 stopaq.xmit.dev
@@ -41305,10 +41273,10 @@ syoss.is-a-fullstack.dev
 syoss.is-a.dev
 syoss.is-cool.dev
 syoss.iservschule.de
-syoss.it
 syoss.it1.eur.aruba.jenv-aruba.cloud
 syoss.it1.jenv-aruba.cloud
 syoss.itcouldbewor.se
+syoss.j.layershift.co.uk
 syoss.j.scaleforce.com.cy
 syoss.j.scaleforce.net
 syoss.janeway.replit.dev
@@ -41322,6 +41290,7 @@ syoss.jelastic.saveincloud.net
 syoss.jls-sto1.elastx.net
 syoss.jls-sto2.elastx.net
 syoss.jls-sto3.elastx.net
+syoss.joinmc.link
 syoss.jouwweb.site
 syoss.jp
 syoss.jp.net
@@ -41400,6 +41369,7 @@ syoss.merck
 syoss.metaaiusercontent.com
 syoss.meteorapp.com
 syoss.mil.ph
+syoss.mil.tm
 syoss.minisite.ms
 syoss.mircloud.host
 syoss.mircloud.ru
@@ -41539,6 +41509,7 @@ syoss.onid.ca
 syoss.onrender.com
 syoss.onza.mythic-beasts.com
 syoss.operaunite.com
+syoss.orangecloud.tn
 syoss.org
 syoss.org.ee
 syoss.org.ph
@@ -41659,6 +41630,7 @@ syoss.s3-accesspoint.ca-west-1.amazonaws.com
 syoss.s3-accesspoint.cn-north-1.amazonaws.com.cn
 syoss.s3-accesspoint.cn-northwest-1.amazonaws.com.cn
 syoss.s3-accesspoint.dualstack.af-south-1.amazonaws.com
+syoss.s3-accesspoint.dualstack.ap-east-1.amazonaws.com
 syoss.s3-accesspoint.dualstack.ap-northeast-1.amazonaws.com
 syoss.s3-accesspoint.dualstack.ap-northeast-2.amazonaws.com
 syoss.s3-accesspoint.dualstack.ap-northeast-3.amazonaws.com
@@ -41797,6 +41769,7 @@ syoss.s3-website-us-east-1.amazonaws.com
 syoss.s3-website-us-gov-west-1.amazonaws.com
 syoss.s3-website-us-west-1.amazonaws.com
 syoss.s3-website-us-west-2.amazonaws.com
+syoss.s3-website.af-south-1.amazonaws.com
 syoss.s3-website.ap-east-1.amazonaws.com
 syoss.s3-website.ap-northeast-1.amazonaws.com
 syoss.s3-website.ap-northeast-2.amazonaws.com
@@ -42226,6 +42199,7 @@ taft.2ix.at
 taft.2ix.ch
 taft.2ix.de
 taft.3.azurestaticapps.net
+taft.4.azurestaticapps.net
 taft.4lima.at
 taft.4lima.ch
 taft.4lima.de
@@ -42316,6 +42290,7 @@ taft.bg
 taft.bitbucket.io
 taft.biz
 taft.biz.id
+taft.blob.core.windows.net
 taft.blogspot.com
 taft.bluebite.io
 taft.bmoattachments.org
@@ -42355,6 +42330,7 @@ taft.cc
 taft.cdn.bubble.io
 taft.cdn.prod.atlassian-dev.net
 taft.center
+taft.centralus.azurestaticapps.net
 taft.ch
 taft.ch.trendhosting.cloud
 taft.cl
@@ -42456,6 +42432,8 @@ taft.dyndns1.de
 taft.dynserv.org
 taft.e.id
 taft.e2b.app
+taft.eastasia.azurestaticapps.net
+taft.eastus2.azurestaticapps.net
 taft.ecommerce-shop.pl
 taft.edgecompute.app
 taft.editorx.io
@@ -42721,6 +42699,7 @@ taft.jelastic.saveincloud.net
 taft.jls-sto1.elastx.net
 taft.jls-sto2.elastx.net
 taft.jls-sto3.elastx.net
+taft.joinmc.link
 taft.jouwweb.site
 taft.jp
 taft.jp.net
@@ -42797,7 +42776,6 @@ taft.merck
 taft.metaaiusercontent.com
 taft.meteorapp.com
 taft.mil.ph
-taft.mil.tm
 taft.minisite.ms
 taft.mircloud.host
 taft.mircloud.ru
@@ -43443,7 +43421,6 @@ taft.t3.storageapi.dev
 taft.tabitorder.co.il
 taft.taveusercontent.com
 taft.tcp4.me
-taft.tech
 taft.telebit.app
 taft.telebit.io
 taft.telebit.xyz
@@ -43595,6 +43572,8 @@ taft.webview-assets.cloud9.us-west-2.amazonaws.com
 taft.weeklylottery.org.uk
 taft.wesley.replit.dev
 taft.west1-us.cloudjiffy.net
+taft.westeurope.azurestaticapps.net
+taft.westus2.azurestaticapps.net
 taft.withgoogle.com
 taft.withyoutube.com
 taft.wix.run
@@ -44079,7 +44058,6 @@ tangit.ip-dynamic.org
 tangit.ipfs.nftstorage.link
 tangit.ipfs.storacha.link
 tangit.ipfs.w3s.link
-tangit.ir
 tangit.iran.liara.run
 tangit.is-a-fullstack.dev
 tangit.is-a.dev
@@ -44103,6 +44081,7 @@ tangit.jelastic.saveincloud.net
 tangit.jls-sto1.elastx.net
 tangit.jls-sto2.elastx.net
 tangit.jls-sto3.elastx.net
+tangit.joinmc.link
 tangit.jouwweb.site
 tangit.jp.net
 tangit.jp.ngrok.io
@@ -44151,6 +44130,8 @@ tangit.lima-city.de
 tangit.lima-city.rocks
 tangit.lima.zone
 tangit.localto.net
+tangit.loginline.app
+tangit.loginline.dev
 tangit.lolipop.io
 tangit.lolipopmc.jp
 tangit.lon-1.paas.massivegrid.net
@@ -44175,7 +44156,6 @@ tangit.merck
 tangit.metaaiusercontent.com
 tangit.meteorapp.com
 tangit.mil.ph
-tangit.mil.tm
 tangit.minisite.ms
 tangit.mircloud.host
 tangit.mircloud.ru
@@ -45215,6 +45195,7 @@ technomelt.diskussionsbereich.de
 technomelt.dkonto.pl
 technomelt.dns-cloud.net
 technomelt.dns-dynamic.net
+technomelt.dnsabr.com
 technomelt.dnsup.net
 technomelt.drr.ac
 technomelt.dyn.ddnss.de
@@ -45447,6 +45428,7 @@ technomelt.int.la
 technomelt.intouch.email
 technomelt.io.noc.ruhr-uni-bochum.de
 technomelt.iopsys.se
+technomelt.ip-ddns.com
 technomelt.ip-dynamic.org
 technomelt.ipfs.nftstorage.link
 technomelt.ipfs.storacha.link
@@ -45474,6 +45456,7 @@ technomelt.jelastic.saveincloud.net
 technomelt.jls-sto1.elastx.net
 technomelt.jls-sto2.elastx.net
 technomelt.jls-sto3.elastx.net
+technomelt.joinmc.link
 technomelt.jouwweb.site
 technomelt.jp.net
 technomelt.jp.ngrok.io
@@ -45548,7 +45531,6 @@ technomelt.merck
 technomelt.metaaiusercontent.com
 technomelt.meteorapp.com
 technomelt.mil.ph
-technomelt.mil.tm
 technomelt.minisite.ms
 technomelt.mircloud.host
 technomelt.mircloud.ru
@@ -46418,6 +46400,7 @@ tempo-team.art.ec
 tempo-team.art.pl
 tempo-team.arvanedge.ir
 tempo-team.assessments.cx
+tempo-team.at.ply.gg
 tempo-team.atl.jelastic.vps-host.net
 tempo-team.au.ngrok.io
 tempo-team.authgear-staging.com
@@ -46819,6 +46802,7 @@ tempo-team.jelastic.saveincloud.net
 tempo-team.jls-sto1.elastx.net
 tempo-team.jls-sto2.elastx.net
 tempo-team.jls-sto3.elastx.net
+tempo-team.joinmc.link
 tempo-team.jouwweb.site
 tempo-team.jp.net
 tempo-team.jp.ngrok.io
@@ -46894,7 +46878,6 @@ tempo-team.merck
 tempo-team.metaaiusercontent.com
 tempo-team.meteorapp.com
 tempo-team.mil.ph
-tempo-team.mil.tm
 tempo-team.minisite.ms
 tempo-team.mircloud.host
 tempo-team.mircloud.ru
@@ -47671,6 +47654,7 @@ tempo-team.wesley.replit.dev
 tempo-team.west1-us.cloudjiffy.net
 tempo-team.westeurope.azurestaticapps.net
 tempo-team.westus2.azurestaticapps.net
+tempo-team.with.playit.plus
 tempo-team.withgoogle.com
 tempo-team.withyoutube.com
 tempo-team.wix.run
@@ -47682,7 +47666,6 @@ tempo-team.woltlab-demo.com
 tempo-team.worf.replit.dev
 tempo-team.wpenginepowered.com
 tempo-team.ws
-tempo-team.www.ck
 tempo-team.x443.pw
 tempo-team.xmit.co
 tempo-team.xmit.dev
@@ -48187,6 +48170,7 @@ teroson.jelastic.saveincloud.net
 teroson.jls-sto1.elastx.net
 teroson.jls-sto2.elastx.net
 teroson.jls-sto3.elastx.net
+teroson.joinmc.link
 teroson.jouwweb.site
 teroson.jp.net
 teroson.jp.ngrok.io
@@ -48265,7 +48249,6 @@ teroson.merck
 teroson.metaaiusercontent.com
 teroson.meteorapp.com
 teroson.mil.ph
-teroson.mil.tm
 teroson.minisite.ms
 teroson.mircloud.host
 teroson.mircloud.ru
@@ -48753,6 +48736,7 @@ teroson.s3.dualstack.ap-south-1.amazonaws.com
 teroson.s3.dualstack.ap-south-2.amazonaws.com
 teroson.s3.dualstack.ap-southeast-1.amazonaws.com
 teroson.s3.dualstack.ap-southeast-2.amazonaws.com
+teroson.s3.dualstack.ap-southeast-3.amazonaws.com
 teroson.s3.dualstack.ap-southeast-4.amazonaws.com
 teroson.s3.dualstack.ap-southeast-5.amazonaws.com
 teroson.s3.dualstack.ca-central-1.amazonaws.com
@@ -49777,6 +49761,7 @@ uzleuven.jelastic.saveincloud.net
 uzleuven.jls-sto1.elastx.net
 uzleuven.jls-sto2.elastx.net
 uzleuven.jls-sto3.elastx.net
+uzleuven.joinmc.link
 uzleuven.jouwweb.site
 uzleuven.jp.net
 uzleuven.jp.ngrok.io
@@ -49851,6 +49836,7 @@ uzleuven.merck
 uzleuven.metaaiusercontent.com
 uzleuven.meteorapp.com
 uzleuven.mil.ph
+uzleuven.mil.tm
 uzleuven.minisite.ms
 uzleuven.mircloud.host
 uzleuven.mircloud.ru
@@ -50674,6 +50660,8 @@ vernel.com
 vestolit.com
 vetschoice.co.za
 vetsource.com
+vfc-int.com
+vfc.com
 vfpt.pt
 vfsai.com
 vfsevisa.com
@@ -50737,8 +50725,6 @@ vodafoneinnovus.com
 vodafonemail.de
 vodafonepark.com.tr
 vodafonepay.com.tr
-voi.com
-voiscooters.com
 volkskrant.nl
 volkswagen.de
 vorexlogin.com
@@ -50813,6 +50799,7 @@ wimpmusic.com
 windstream.com
 windstream.net
 wippexpress.es
+wise-sandbox.com
 wise.com
 wissen-sie-mehr.de
 withairbnb.com
@@ -50943,7 +50930,6 @@ www.amazon.archer.replit.dev
 www.amazon.archi
 www.amazon.army
 www.amazon.art
-www.amazon.art.br
 www.amazon.art.ec
 www.amazon.art.pl
 www.amazon.arvanedge.ir
@@ -51319,9 +51305,6 @@ www.amazon.ddnss.de
 www.amazon.de
 www.amazon.de.cool
 www.amazon.de.trendhosting.cloud
-www.amazon.deal
-www.amazon.dealer
-www.amazon.deals
 www.amazon.definima.net
 www.amazon.degree
 www.amazon.delivery
@@ -51764,6 +51747,7 @@ www.amazon.jls-sto2.elastx.net
 www.amazon.jls-sto3.elastx.net
 www.amazon.jobs
 www.amazon.joburg
+www.amazon.joinmc.link
 www.amazon.jouwweb.site
 www.amazon.jp
 www.amazon.jp.ngrok.io
