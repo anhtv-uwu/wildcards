@@ -745,6 +745,7 @@ aqora.naiad.merck
 aqora.naiad.metaaiusercontent.com
 aqora.naiad.meteorapp.com
 aqora.naiad.mil.ph
+aqora.naiad.mil.tm
 aqora.naiad.minisite.ms
 aqora.naiad.mircloud.host
 aqora.naiad.mircloud.ru
@@ -869,9 +870,9 @@ aqora.naiad.observablehq.cloud
 aqora.naiad.ocelot.mythic-beasts.com
 aqora.naiad.official.academy
 aqora.naiad.official.ec
-aqora.naiad.omg.lol
 aqora.naiad.omniwe.site
 aqora.naiad.on-fleek.app
+aqora.naiad.on-web.fr
 aqora.naiad.on.expo.app
 aqora.naiad.on.staging.expo.app
 aqora.naiad.oncilla.mythic-beasts.com
@@ -3605,6 +3606,7 @@ authenticbeautyconcept.official.ec
 authenticbeautyconcept.omg.lol
 authenticbeautyconcept.omniwe.site
 authenticbeautyconcept.on-fleek.app
+authenticbeautyconcept.on-web.fr
 authenticbeautyconcept.on.expo.app
 authenticbeautyconcept.on.staging.expo.app
 authenticbeautyconcept.oncilla.mythic-beasts.com
@@ -4523,7 +4525,6 @@ bonderite.bolt.host
 bonderite.book.online
 bonderite.boomla.net
 bonderite.boutir.com
-bonderite.bplaced.com
 bonderite.bplaced.de
 bonderite.bplaced.net
 bonderite.browsersafetymark.io
@@ -4972,7 +4973,6 @@ bonderite.merck
 bonderite.metaaiusercontent.com
 bonderite.meteorapp.com
 bonderite.mil.ph
-bonderite.mil.tm
 bonderite.minisite.ms
 bonderite.mircloud.host
 bonderite.mircloud.ru
@@ -5774,6 +5774,7 @@ bonderite.www.ck
 bonderite.x443.pw
 bonderite.xmit.co
 bonderite.xmit.dev
+bonderite.xyz
 bonderite.yali.mythic-beasts.com
 bonderite.yolasite.com
 bonderite.you2.pl
@@ -7870,6 +7871,7 @@ cbre.merck
 cbre.metaaiusercontent.com
 cbre.meteorapp.com
 cbre.mil.ph
+cbre.mil.tm
 cbre.minisite.ms
 cbre.mircloud.host
 cbre.mircloud.ru
@@ -8292,6 +8294,7 @@ cbre.s3-website-us-west-2.amazonaws.com
 cbre.s3-website.af-south-1.amazonaws.com
 cbre.s3-website.ap-east-1.amazonaws.com
 cbre.s3-website.ap-northeast-1.amazonaws.com
+cbre.s3-website.ap-northeast-2.amazonaws.com
 cbre.s3-website.ap-northeast-3.amazonaws.com
 cbre.s3-website.ap-south-1.amazonaws.com
 cbre.s3-website.ap-south-2.amazonaws.com
@@ -8358,6 +8361,7 @@ cbre.s3.af-south-1.amazonaws.com
 cbre.s3.amazonaws.com
 cbre.s3.ap-east-1.amazonaws.com
 cbre.s3.ap-northeast-1.amazonaws.com
+cbre.s3.ap-northeast-2.amazonaws.com
 cbre.s3.ap-northeast-3.amazonaws.com
 cbre.s3.ap-south-1.amazonaws.com
 cbre.s3.ap-south-2.amazonaws.com
@@ -9323,7 +9327,6 @@ ceresit.merck
 ceresit.metaaiusercontent.com
 ceresit.meteorapp.com
 ceresit.mil.ph
-ceresit.mil.tm
 ceresit.minisite.ms
 ceresit.mircloud.host
 ceresit.mircloud.ru
@@ -9454,6 +9457,7 @@ ceresit.official.ec
 ceresit.omg.lol
 ceresit.omniwe.site
 ceresit.on-fleek.app
+ceresit.on-web.fr
 ceresit.on.expo.app
 ceresit.on.staging.expo.app
 ceresit.oncilla.mythic-beasts.com
@@ -10771,7 +10775,6 @@ cpqcorp.merck
 cpqcorp.metaaiusercontent.com
 cpqcorp.meteorapp.com
 cpqcorp.mil.ph
-cpqcorp.mil.tm
 cpqcorp.minisite.ms
 cpqcorp.mircloud.host
 cpqcorp.mircloud.ru
@@ -12110,6 +12113,7 @@ henkel-researchers-world.cn
 henkel-researchers-world.kr
 henkel.cn
 henkel.com
+henkeldx.com
 henkelgroup.cloud
 henkelgroup.net
 henkelhomecare.co.kr
@@ -12618,8 +12622,10 @@ hpecore.j.layershift.co.uk
 hpecore.j.scaleforce.com.cy
 hpecore.j.scaleforce.net
 hpecore.janeway.replit.dev
+hpecore.jc.neen.it
 hpecore.jcloud-ver-jpc.ik-server.com
 hpecore.jcloud.ik-server.com
+hpecore.jcloud.kz
 hpecore.jed.wafaicloud.com
 hpecore.jelastic.dogado.eu
 hpecore.jelastic.saveincloud.net
@@ -12645,12 +12651,8 @@ hpecore.ladesk.com
 hpecore.lambda-url.af-south-1.on.aws
 hpecore.lambda-url.ap-east-1.on.aws
 hpecore.lambda-url.ap-northeast-1.on.aws
-hpecore.lambda-url.ap-northeast-2.on.aws
-hpecore.lambda-url.ap-northeast-3.on.aws
-hpecore.lambda-url.ap-south-1.on.aws
 hpecore.lambda-url.ap-southeast-1.on.aws
 hpecore.lambda-url.ap-southeast-2.on.aws
-hpecore.lambda-url.ap-southeast-3.on.aws
 hpecore.lambda-url.ca-central-1.on.aws
 hpecore.lambda-url.eu-central-1.on.aws
 hpecore.lambda-url.eu-north-1.on.aws
@@ -13544,6 +13546,10 @@ hpqcorp.analytics-gateway.ap-south-1.amazonaws.com
 hpqcorp.analytics-gateway.ap-southeast-1.amazonaws.com
 hpqcorp.analytics-gateway.ap-southeast-2.amazonaws.com
 hpqcorp.analytics-gateway.eu-central-1.amazonaws.com
+hpqcorp.analytics-gateway.eu-west-1.amazonaws.com
+hpqcorp.analytics-gateway.us-east-1.amazonaws.com
+hpqcorp.analytics-gateway.us-east-2.amazonaws.com
+hpqcorp.analytics-gateway.us-west-2.amazonaws.com
 hpqcorp.ap.ngrok.io
 hpqcorp.api.lp.dev
 hpqcorp.apigee.io
@@ -14027,7 +14033,6 @@ hpqcorp.merck
 hpqcorp.metaaiusercontent.com
 hpqcorp.meteorapp.com
 hpqcorp.mil.ph
-hpqcorp.mil.tm
 hpqcorp.minisite.ms
 hpqcorp.mircloud.host
 hpqcorp.mircloud.ru
@@ -14247,7 +14252,6 @@ hpqcorp.ryd.wafaicloud.com
 hpqcorp.s3-1.amazonaws.com
 hpqcorp.s3-accesspoint-fips.ca-central-1.amazonaws.com
 hpqcorp.s3-accesspoint-fips.ca-west-1.amazonaws.com
-hpqcorp.s3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com
 hpqcorp.s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
 hpqcorp.s3-accesspoint-fips.dualstack.us-east-1.amazonaws.com
 hpqcorp.s3-accesspoint-fips.dualstack.us-east-2.amazonaws.com
@@ -14273,7 +14277,6 @@ hpqcorp.s3-accesspoint.ap-southeast-2.amazonaws.com
 hpqcorp.s3-accesspoint.ap-southeast-3.amazonaws.com
 hpqcorp.s3-accesspoint.ap-southeast-4.amazonaws.com
 hpqcorp.s3-accesspoint.ap-southeast-5.amazonaws.com
-hpqcorp.s3-accesspoint.ca-central-1.amazonaws.com
 hpqcorp.s3-accesspoint.ca-west-1.amazonaws.com
 hpqcorp.s3-accesspoint.cn-north-1.amazonaws.com.cn
 hpqcorp.s3-accesspoint.cn-northwest-1.amazonaws.com.cn
@@ -14380,7 +14383,6 @@ hpqcorp.s3-object-lambda.ap-southeast-2.amazonaws.com
 hpqcorp.s3-object-lambda.ap-southeast-3.amazonaws.com
 hpqcorp.s3-object-lambda.ap-southeast-4.amazonaws.com
 hpqcorp.s3-object-lambda.ap-southeast-5.amazonaws.com
-hpqcorp.s3-object-lambda.ca-central-1.amazonaws.com
 hpqcorp.s3-object-lambda.ca-west-1.amazonaws.com
 hpqcorp.s3-object-lambda.cn-north-1.amazonaws.com.cn
 hpqcorp.s3-object-lambda.cn-northwest-1.amazonaws.com.cn
@@ -14496,7 +14498,6 @@ hpqcorp.s3.ap-southeast-2.amazonaws.com
 hpqcorp.s3.ap-southeast-3.amazonaws.com
 hpqcorp.s3.ap-southeast-4.amazonaws.com
 hpqcorp.s3.ap-southeast-5.amazonaws.com
-hpqcorp.s3.ca-central-1.amazonaws.com
 hpqcorp.s3.ca-west-1.amazonaws.com
 hpqcorp.s3.cn-north-1.amazonaws.com.cn
 hpqcorp.s3.cn-northwest-1.amazonaws.com.cn
@@ -14701,7 +14702,11 @@ hpqcorp.val.run
 hpqcorp.vercel.app
 hpqcorp.vercel.dev
 hpqcorp.vercel.run
+hpqcorp.vfs.cloud9.af-south-1.amazonaws.com
 hpqcorp.vfs.cloud9.ap-east-1.amazonaws.com
+hpqcorp.vfs.cloud9.ap-northeast-1.amazonaws.com
+hpqcorp.vfs.cloud9.ap-northeast-2.amazonaws.com
+hpqcorp.vfs.cloud9.ap-northeast-3.amazonaws.com
 hpqcorp.vfs.cloud9.ap-south-1.amazonaws.com
 hpqcorp.vfs.cloud9.ap-southeast-1.amazonaws.com
 hpqcorp.vfs.cloud9.ap-southeast-2.amazonaws.com
@@ -14750,6 +14755,11 @@ hpqcorp.website.ru-msk.k2.cloud
 hpqcorp.website.ru-spb.k2.cloud
 hpqcorp.website.yandexcloud.net
 hpqcorp.webspace.rocks
+hpqcorp.webview-assets.aws-cloud9.af-south-1.amazonaws.com
+hpqcorp.webview-assets.aws-cloud9.ap-east-1.amazonaws.com
+hpqcorp.webview-assets.aws-cloud9.ap-northeast-1.amazonaws.com
+hpqcorp.webview-assets.aws-cloud9.ap-northeast-2.amazonaws.com
+hpqcorp.webview-assets.aws-cloud9.ap-northeast-3.amazonaws.com
 hpqcorp.webview-assets.aws-cloud9.ap-south-1.amazonaws.com
 hpqcorp.webview-assets.aws-cloud9.ap-southeast-1.amazonaws.com
 hpqcorp.webview-assets.aws-cloud9.ap-southeast-2.amazonaws.com
@@ -14767,6 +14777,10 @@ hpqcorp.webview-assets.aws-cloud9.us-east-1.amazonaws.com
 hpqcorp.webview-assets.aws-cloud9.us-east-2.amazonaws.com
 hpqcorp.webview-assets.aws-cloud9.us-west-1.amazonaws.com
 hpqcorp.webview-assets.aws-cloud9.us-west-2.amazonaws.com
+hpqcorp.webview-assets.cloud9.af-south-1.amazonaws.com
+hpqcorp.webview-assets.cloud9.ap-east-1.amazonaws.com
+hpqcorp.webview-assets.cloud9.ap-northeast-1.amazonaws.com
+hpqcorp.webview-assets.cloud9.ap-northeast-2.amazonaws.com
 hpqcorp.webview-assets.cloud9.ap-northeast-3.amazonaws.com
 hpqcorp.webview-assets.cloud9.ap-south-1.amazonaws.com
 hpqcorp.webview-assets.cloud9.ap-southeast-1.amazonaws.com
@@ -14927,7 +14941,6 @@ indola.art.ec
 indola.art.pl
 indola.arvanedge.ir
 indola.assessments.cx
-indola.at
 indola.atl.jelastic.vps-host.net
 indola.au.ngrok.io
 indola.authgear-staging.com
@@ -15422,6 +15435,7 @@ indola.merck
 indola.metaaiusercontent.com
 indola.meteorapp.com
 indola.mil.ph
+indola.mil.tm
 indola.minisite.ms
 indola.mircloud.host
 indola.mircloud.ru
@@ -16695,7 +16709,6 @@ moneymarketauction.com
 moneymarketauction.net
 mongodb.com
 monopoly-poker.com
-monzo.com
 moonpay.com
 moonpaycloud.com
 moralis-internal.io
@@ -17320,7 +17333,6 @@ natturalabs.merck
 natturalabs.metaaiusercontent.com
 natturalabs.meteorapp.com
 natturalabs.mil.ph
-natturalabs.mil.tm
 natturalabs.minisite.ms
 natturalabs.mircloud.host
 natturalabs.mircloud.ru
@@ -19966,6 +19978,8 @@ nimblestorage.kunden.ortsinfo.at
 nimblestorage.ladesk.com
 nimblestorage.lambda-url.af-south-1.on.aws
 nimblestorage.lambda-url.ap-east-1.on.aws
+nimblestorage.lambda-url.ap-northeast-1.on.aws
+nimblestorage.lambda-url.ap-northeast-2.on.aws
 nimblestorage.lambda-url.ap-northeast-3.on.aws
 nimblestorage.lambda-url.ap-south-1.on.aws
 nimblestorage.lambda-url.ap-southeast-1.on.aws
@@ -21537,7 +21551,6 @@ pattex.merck
 pattex.metaaiusercontent.com
 pattex.meteorapp.com
 pattex.mil.ph
-pattex.mil.tm
 pattex.minisite.ms
 pattex.mircloud.host
 pattex.mircloud.ru
@@ -23901,7 +23914,6 @@ plexxi.caffeine.xyz
 plexxi.cafjs.com
 plexxi.calculators.cx
 plexxi.campaign.gov.uk
-plexxi.canva-apps.cn
 plexxi.canva-apps.com
 plexxi.canva-hosted-embed.com
 plexxi.canva.link
@@ -24447,6 +24459,7 @@ plexxi.official.ec
 plexxi.omg.lol
 plexxi.omniwe.site
 plexxi.on-fleek.app
+plexxi.on-web.fr
 plexxi.on.expo.app
 plexxi.on.staging.expo.app
 plexxi.oncilla.mythic-beasts.com
@@ -26543,7 +26556,6 @@ privateequityeurope.com
 privateequityinsight.com
 privatefundreport.com
 privateinternetaccess.com
-prod-ffs.io
 productboard.com
 projectbaseline.com
 proloctite.com
@@ -26879,7 +26891,6 @@ schwarzkopf.canva.run
 schwarzkopf.canvacode.com
 schwarzkopf.capital
 schwarzkopf.caracal.mythic-beasts.com
-schwarzkopf.care
 schwarzkopf.carrd.co
 schwarzkopf.cc
 schwarzkopf.cdn.bubble.io
@@ -28852,7 +28863,6 @@ schwarzkopfpalette.official.ec
 schwarzkopfpalette.omg.lol
 schwarzkopfpalette.omniwe.site
 schwarzkopfpalette.on-fleek.app
-schwarzkopfpalette.on-web.fr
 schwarzkopfpalette.on.expo.app
 schwarzkopfpalette.on.staging.expo.app
 schwarzkopfpalette.oncilla.mythic-beasts.com
@@ -30283,6 +30293,7 @@ silan.official.ec
 silan.omg.lol
 silan.omniwe.site
 silan.on-fleek.app
+silan.on-web.fr
 silan.on.expo.app
 silan.on.staging.expo.app
 silan.oncilla.mythic-beasts.com
@@ -31528,6 +31539,7 @@ simplivity.merck
 simplivity.metaaiusercontent.com
 simplivity.meteorapp.com
 simplivity.mil.ph
+simplivity.mil.tm
 simplivity.minisite.ms
 simplivity.mircloud.host
 simplivity.mircloud.ru
@@ -32961,7 +32973,6 @@ somat.merck
 somat.metaaiusercontent.com
 somat.meteorapp.com
 somat.mil.ph
-somat.mil.tm
 somat.minisite.ms
 somat.mircloud.host
 somat.mircloud.ru
@@ -37150,7 +37161,6 @@ syoss.merck
 syoss.metaaiusercontent.com
 syoss.meteorapp.com
 syoss.mil.ph
-syoss.mil.tm
 syoss.minisite.ms
 syoss.mircloud.host
 syoss.mircloud.ru
@@ -38555,6 +38565,7 @@ taft.merck
 taft.metaaiusercontent.com
 taft.meteorapp.com
 taft.mil.ph
+taft.mil.tm
 taft.minisite.ms
 taft.mircloud.host
 taft.mircloud.ru
@@ -41303,6 +41314,7 @@ technomelt.merck
 technomelt.metaaiusercontent.com
 technomelt.meteorapp.com
 technomelt.mil.ph
+technomelt.mil.tm
 technomelt.minisite.ms
 technomelt.mircloud.host
 technomelt.mircloud.ru
@@ -42090,7 +42102,6 @@ technomelt.woltlab-demo.com
 technomelt.worf.replit.dev
 technomelt.wpenginepowered.com
 technomelt.ws
-technomelt.www.ck
 technomelt.x443.pw
 technomelt.xmit.co
 technomelt.xmit.dev
@@ -45629,7 +45640,6 @@ www.amazon.com.ci
 www.amazon.com.cm
 www.amazon.com.cn
 www.amazon.com.co
-www.amazon.com.cw
 www.amazon.com.cy
 www.amazon.com.do
 www.amazon.com.dz
@@ -45727,7 +45737,6 @@ www.amazon.cust.disrec.thingdust.io
 www.amazon.cust.prod.thingdust.io
 www.amazon.cust.testing.thingdust.io
 www.amazon.cv
-www.amazon.cx
 www.amazon.cymru
 www.amazon.cyon.link
 www.amazon.cyou
@@ -46283,6 +46292,7 @@ www.amazon.lolipop.io
 www.amazon.lolipopmc.jp
 www.amazon.lon-1.paas.massivegrid.net
 www.amazon.lon-2.paas.massivegrid.net
+www.amazon.london
 www.amazon.loseyourip.com
 www.amazon.lovable.app
 www.amazon.lovableproject.com
@@ -46292,16 +46302,24 @@ www.amazon.lpg.objectstorage.ch
 www.amazon.lpusercontent.com
 www.amazon.ls
 www.amazon.lt
+www.amazon.ltda
 www.amazon.lu
+www.amazon.luxury
 www.amazon.luyani.app
 www.amazon.lv
 www.amazon.lviv.ua
 www.amazon.ly
 www.amazon.lynx.mythic-beasts.com
 www.amazon.madethis.site
+www.amazon.madrid
 www.amazon.mafelo.net
 www.amazon.magicpatterns.app
 www.amazon.magicpatternsapp.com
+www.amazon.maison
+www.amazon.makeup
+www.amazon.management
+www.amazon.market
+www.amazon.marketing
 www.amazon.markets
 www.amazon.mb.ca
 www.amazon.mba
@@ -46395,7 +46413,6 @@ www.amazon.myspreadshop.se
 www.amazon.mytabit.co.il
 www.amazon.mytabit.com
 www.amazon.nagoya
-www.amazon.name.tr
 www.amazon.navy
 www.amazon.nb.ca
 www.amazon.needle.run
