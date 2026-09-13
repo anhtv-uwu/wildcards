@@ -683,7 +683,6 @@ aqora.naiad.jelastic.saveincloud.net
 aqora.naiad.jls-sto1.elastx.net
 aqora.naiad.jls-sto2.elastx.net
 aqora.naiad.jls-sto3.elastx.net
-aqora.naiad.joinmc.link
 aqora.naiad.jouwweb.site
 aqora.naiad.jp
 aqora.naiad.jp.net
@@ -2052,7 +2051,6 @@ askteamclean.jelastic.saveincloud.net
 askteamclean.jls-sto1.elastx.net
 askteamclean.jls-sto2.elastx.net
 askteamclean.jls-sto3.elastx.net
-askteamclean.joinmc.link
 askteamclean.jouwweb.site
 askteamclean.jp.net
 askteamclean.jp.ngrok.io
@@ -2127,7 +2125,6 @@ askteamclean.mel.cloudlets.com.au
 askteamclean.merck
 askteamclean.metaaiusercontent.com
 askteamclean.meteorapp.com
-askteamclean.mil.tm
 askteamclean.minisite.ms
 askteamclean.mircloud.host
 askteamclean.mkm.fan
@@ -3444,7 +3441,6 @@ authenticbeautyconcept.jelastic.saveincloud.net
 authenticbeautyconcept.jls-sto1.elastx.net
 authenticbeautyconcept.jls-sto2.elastx.net
 authenticbeautyconcept.jls-sto3.elastx.net
-authenticbeautyconcept.joinmc.link
 authenticbeautyconcept.jouwweb.site
 authenticbeautyconcept.jp
 authenticbeautyconcept.jp.net
@@ -4954,7 +4950,6 @@ bonderite.jelastic.saveincloud.net
 bonderite.jls-sto1.elastx.net
 bonderite.jls-sto2.elastx.net
 bonderite.jls-sto3.elastx.net
-bonderite.joinmc.link
 bonderite.jouwweb.site
 bonderite.jp
 bonderite.jp.net
@@ -5054,7 +5049,6 @@ bonderite.mydbserver.com
 bonderite.mydobiss.com
 bonderite.myforum.community
 bonderite.myhome-server.de
-bonderite.myiphost.com
 bonderite.mypi.co
 bonderite.myshopblocks.com
 bonderite.myshopify.com
@@ -6258,6 +6252,7 @@ busch-jaeger.firebaseapp.com
 busch-jaeger.flutterflow.app
 busch-jaeger.forms.ac
 busch-jaeger.forumz.info
+busch-jaeger.fr
 busch-jaeger.fr-1.paas.massivegrid.net
 busch-jaeger.fra1-de.cloudjiffy.net
 busch-jaeger.frame.claudeusercontent.com
@@ -6375,7 +6370,6 @@ busch-jaeger.jelastic.saveincloud.net
 busch-jaeger.jls-sto1.elastx.net
 busch-jaeger.jls-sto2.elastx.net
 busch-jaeger.jls-sto3.elastx.net
-busch-jaeger.joinmc.link
 busch-jaeger.jouwweb.site
 busch-jaeger.jp.net
 busch-jaeger.jp.ngrok.io
@@ -6454,6 +6448,7 @@ busch-jaeger.mel.cloudlets.com.au
 busch-jaeger.merck
 busch-jaeger.metaaiusercontent.com
 busch-jaeger.meteorapp.com
+busch-jaeger.mil.tm
 busch-jaeger.minisite.ms
 busch-jaeger.mircloud.host
 busch-jaeger.mkm.fan
@@ -7497,6 +7492,8 @@ cbre.club
 cbre.cn.com
 cbre.co
 cbre.co.at
+cbre.co.ca
+cbre.co.com
 cbre.co.de
 cbre.co.id
 cbre.co.il
@@ -7866,7 +7863,6 @@ cbre.jelastic.saveincloud.net
 cbre.jls-sto1.elastx.net
 cbre.jls-sto2.elastx.net
 cbre.jls-sto3.elastx.net
-cbre.joinmc.link
 cbre.jouwweb.site
 cbre.jp.net
 cbre.jp.ngrok.io
@@ -7931,6 +7927,7 @@ cbre.lovable.app
 cbre.lovableproject.com
 cbre.lp.dev
 cbre.lpages.co
+cbre.lpg.objectstorage.ch
 cbre.lpusercontent.com
 cbre.lt
 cbre.lu
@@ -8076,6 +8073,7 @@ cbre.ny-2.paas.massivegrid.net
 cbre.nz
 cbre.objects.lp.dev
 cbre.objects.lpg.cloudscale.ch
+cbre.objects.rma.cloudscale.ch
 cbre.observablehq.cloud
 cbre.ocelot.mythic-beasts.com
 cbre.official.academy
@@ -8183,6 +8181,7 @@ cbre.resindevice.io
 cbre.ric.jelastic.vps-host.net
 cbre.rice-labs.com
 cbre.riker.replit.dev
+cbre.rma.objectstorage.ch
 cbre.ro
 cbre.rocketpreview.app
 cbre.rocky.page
@@ -9330,7 +9329,6 @@ ceresit.jelastic.saveincloud.net
 ceresit.jls-sto1.elastx.net
 ceresit.jls-sto2.elastx.net
 ceresit.jls-sto3.elastx.net
-ceresit.joinmc.link
 ceresit.jouwweb.site
 ceresit.jp.net
 ceresit.jp.ngrok.io
@@ -10803,7 +10801,6 @@ cpqcorp.jelastic.saveincloud.net
 cpqcorp.jls-sto1.elastx.net
 cpqcorp.jls-sto2.elastx.net
 cpqcorp.jls-sto3.elastx.net
-cpqcorp.joinmc.link
 cpqcorp.jouwweb.site
 cpqcorp.jp.net
 cpqcorp.jp.ngrok.io
@@ -10878,6 +10875,7 @@ cpqcorp.mel.cloudlets.com.au
 cpqcorp.merck
 cpqcorp.metaaiusercontent.com
 cpqcorp.meteorapp.com
+cpqcorp.mil.tm
 cpqcorp.minisite.ms
 cpqcorp.mircloud.host
 cpqcorp.mkm.fan
@@ -11435,6 +11433,7 @@ cpqcorp.shopselect.net
 cpqcorp.shopware.store
 cpqcorp.siiites.com
 cpqcorp.simplesite.gr
+cpqcorp.sinaapp.com
 cpqcorp.sisko.replit.dev
 cpqcorp.siteleaf.net
 cpqcorp.soc.srcf.net
@@ -12760,7 +12759,6 @@ hpecore.jelastic.saveincloud.net
 hpecore.jls-sto1.elastx.net
 hpecore.jls-sto2.elastx.net
 hpecore.jls-sto3.elastx.net
-hpecore.joinmc.link
 hpecore.jouwweb.site
 hpecore.jp.net
 hpecore.jp.ngrok.io
@@ -12836,7 +12834,6 @@ hpecore.mel.cloudlets.com.au
 hpecore.merck
 hpecore.metaaiusercontent.com
 hpecore.meteorapp.com
-hpecore.mil.tm
 hpecore.minisite.ms
 hpecore.mircloud.host
 hpecore.mkm.fan
@@ -13101,7 +13098,6 @@ hpecore.s3-accesspoint.dualstack.ca-central-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
 hpecore.s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
-hpecore.s3-accesspoint.dualstack.eu-central-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.eu-central-2.amazonaws.com
 hpecore.s3-accesspoint.dualstack.eu-north-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.eu-south-1.amazonaws.com
@@ -13119,7 +13115,6 @@ hpecore.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.us-west-1.amazonaws.com
 hpecore.s3-accesspoint.dualstack.us-west-2.amazonaws.com
-hpecore.s3-accesspoint.eu-central-1.amazonaws.com
 hpecore.s3-accesspoint.eu-central-2.amazonaws.com
 hpecore.s3-accesspoint.eu-north-1.amazonaws.com
 hpecore.s3-accesspoint.eu-south-1.amazonaws.com
@@ -13160,7 +13155,6 @@ hpecore.s3-external-1.amazonaws.com
 hpecore.s3-fips-us-gov-east-1.amazonaws.com
 hpecore.s3-fips-us-gov-west-1.amazonaws.com
 hpecore.s3-fips.ca-central-1.amazonaws.com
-hpecore.s3-fips.ca-west-1.amazonaws.com
 hpecore.s3-fips.dualstack.ca-central-1.amazonaws.com
 hpecore.s3-fips.dualstack.ca-west-1.amazonaws.com
 hpecore.s3-fips.dualstack.us-east-1.amazonaws.com
@@ -13189,10 +13183,8 @@ hpecore.s3-object-lambda.ap-southeast-3.amazonaws.com
 hpecore.s3-object-lambda.ap-southeast-4.amazonaws.com
 hpecore.s3-object-lambda.ap-southeast-5.amazonaws.com
 hpecore.s3-object-lambda.ca-central-1.amazonaws.com
-hpecore.s3-object-lambda.ca-west-1.amazonaws.com
 hpecore.s3-object-lambda.cn-north-1.amazonaws.com.cn
 hpecore.s3-object-lambda.cn-northwest-1.amazonaws.com.cn
-hpecore.s3-object-lambda.eu-central-1.amazonaws.com
 hpecore.s3-object-lambda.eu-central-2.amazonaws.com
 hpecore.s3-object-lambda.eu-north-1.amazonaws.com
 hpecore.s3-object-lambda.eu-south-1.amazonaws.com
@@ -13238,7 +13230,6 @@ hpecore.s3-website.ap-southeast-3.amazonaws.com
 hpecore.s3-website.ap-southeast-4.amazonaws.com
 hpecore.s3-website.ap-southeast-5.amazonaws.com
 hpecore.s3-website.ca-central-1.amazonaws.com
-hpecore.s3-website.ca-west-1.amazonaws.com
 hpecore.s3-website.cn-north-1.amazonaws.com.cn
 hpecore.s3-website.cn-northwest-1.amazonaws.com.cn
 hpecore.s3-website.dualstack.af-south-1.amazonaws.com
@@ -13255,7 +13246,6 @@ hpecore.s3-website.dualstack.ap-southeast-5.amazonaws.com
 hpecore.s3-website.dualstack.ca-central-1.amazonaws.com
 hpecore.s3-website.dualstack.ca-west-1.amazonaws.com
 hpecore.s3-website.dualstack.cn-north-1.amazonaws.com.cn
-hpecore.s3-website.dualstack.eu-central-1.amazonaws.com
 hpecore.s3-website.dualstack.eu-central-2.amazonaws.com
 hpecore.s3-website.dualstack.eu-south-1.amazonaws.com
 hpecore.s3-website.dualstack.eu-south-2.amazonaws.com
@@ -13270,7 +13260,6 @@ hpecore.s3-website.dualstack.us-gov-east-1.amazonaws.com
 hpecore.s3-website.dualstack.us-gov-west-1.amazonaws.com
 hpecore.s3-website.dualstack.us-west-1.amazonaws.com
 hpecore.s3-website.dualstack.us-west-2.amazonaws.com
-hpecore.s3-website.eu-central-1.amazonaws.com
 hpecore.s3-website.eu-central-2.amazonaws.com
 hpecore.s3-website.eu-north-1.amazonaws.com
 hpecore.s3-website.eu-south-1.amazonaws.com
@@ -13324,8 +13313,6 @@ hpecore.s3.dualstack.ca-central-1.amazonaws.com
 hpecore.s3.dualstack.ca-west-1.amazonaws.com
 hpecore.s3.dualstack.cn-north-1.amazonaws.com.cn
 hpecore.s3.dualstack.cn-northwest-1.amazonaws.com.cn
-hpecore.s3.dualstack.eu-central-1.amazonaws.com
-hpecore.s3.dualstack.eu-central-2.amazonaws.com
 hpecore.s3.dualstack.eu-north-1.amazonaws.com
 hpecore.s3.dualstack.eu-south-1.amazonaws.com
 hpecore.s3.dualstack.eu-south-2.amazonaws.com
@@ -13342,7 +13329,6 @@ hpecore.s3.dualstack.us-gov-east-1.amazonaws.com
 hpecore.s3.dualstack.us-gov-west-1.amazonaws.com
 hpecore.s3.dualstack.us-west-1.amazonaws.com
 hpecore.s3.dualstack.us-west-2.amazonaws.com
-hpecore.s3.eu-central-1.amazonaws.com
 hpecore.s3.eu-central-2.amazonaws.com
 hpecore.s3.eu-north-1.amazonaws.com
 hpecore.s3.eu-south-1.amazonaws.com
@@ -14103,7 +14089,6 @@ hpqcorp.jelastic.saveincloud.net
 hpqcorp.jls-sto1.elastx.net
 hpqcorp.jls-sto2.elastx.net
 hpqcorp.jls-sto3.elastx.net
-hpqcorp.joinmc.link
 hpqcorp.jouwweb.site
 hpqcorp.jp.net
 hpqcorp.jp.ngrok.io
@@ -14179,6 +14164,7 @@ hpqcorp.mel.cloudlets.com.au
 hpqcorp.merck
 hpqcorp.metaaiusercontent.com
 hpqcorp.meteorapp.com
+hpqcorp.mil.tm
 hpqcorp.minisite.ms
 hpqcorp.mircloud.host
 hpqcorp.mkm.fan
@@ -15524,7 +15510,6 @@ indola.jelastic.saveincloud.net
 indola.jls-sto1.elastx.net
 indola.jls-sto2.elastx.net
 indola.jls-sto3.elastx.net
-indola.joinmc.link
 indola.jouwweb.site
 indola.jp.net
 indola.jp.ngrok.io
@@ -15594,6 +15579,7 @@ indola.mafelo.net
 indola.magicpatterns.app
 indola.magicpatternsapp.com
 indola.mcpre.ru
+indola.me
 indola.media.strapiapp.com
 indola.meinforum.net
 indola.mel.cloudlets.com.au
@@ -17449,7 +17435,6 @@ natturalabs.jelastic.saveincloud.net
 natturalabs.jls-sto1.elastx.net
 natturalabs.jls-sto2.elastx.net
 natturalabs.jls-sto3.elastx.net
-natturalabs.joinmc.link
 natturalabs.jouwweb.site
 natturalabs.jp.net
 natturalabs.jp.ngrok.io
@@ -17524,7 +17509,6 @@ natturalabs.mel.cloudlets.com.au
 natturalabs.merck
 natturalabs.metaaiusercontent.com
 natturalabs.meteorapp.com
-natturalabs.mil.tm
 natturalabs.minisite.ms
 natturalabs.mircloud.host
 natturalabs.mkm.fan
@@ -17987,6 +17971,7 @@ natturalabs.s3.ap-northeast-1.amazonaws.com
 natturalabs.s3.ap-northeast-2.amazonaws.com
 natturalabs.s3.ap-northeast-3.amazonaws.com
 natturalabs.s3.ap-south-1.amazonaws.com
+natturalabs.s3.ap-south-2.amazonaws.com
 natturalabs.s3.ap-southeast-1.amazonaws.com
 natturalabs.s3.ap-southeast-2.amazonaws.com
 natturalabs.s3.ap-southeast-3.amazonaws.com
@@ -18812,7 +18797,6 @@ nexuzhealth.jelastic.saveincloud.net
 nexuzhealth.jls-sto1.elastx.net
 nexuzhealth.jls-sto2.elastx.net
 nexuzhealth.jls-sto3.elastx.net
-nexuzhealth.joinmc.link
 nexuzhealth.jouwweb.site
 nexuzhealth.jp.net
 nexuzhealth.jp.ngrok.io
@@ -18888,6 +18872,7 @@ nexuzhealth.mel.cloudlets.com.au
 nexuzhealth.merck
 nexuzhealth.metaaiusercontent.com
 nexuzhealth.meteorapp.com
+nexuzhealth.mil.tm
 nexuzhealth.minisite.ms
 nexuzhealth.mircloud.host
 nexuzhealth.mkm.fan
@@ -19318,6 +19303,7 @@ nexuzhealth.s3-website.dualstack.eu-west-3.amazonaws.com
 nexuzhealth.s3-website.dualstack.il-central-1.amazonaws.com
 nexuzhealth.s3-website.dualstack.me-central-1.amazonaws.com
 nexuzhealth.s3-website.dualstack.sa-east-1.amazonaws.com
+nexuzhealth.s3-website.dualstack.us-east-1.amazonaws.com
 nexuzhealth.s3-website.dualstack.us-east-2.amazonaws.com
 nexuzhealth.s3-website.dualstack.us-gov-east-1.amazonaws.com
 nexuzhealth.s3-website.dualstack.us-gov-west-1.amazonaws.com
@@ -19885,7 +19871,6 @@ nimblestorage.cust.testing.thingdust.io
 nimblestorage.cyon.link
 nimblestorage.daemon.panel.gg
 nimblestorage.ddns-ip.net
-nimblestorage.de
 nimblestorage.de.cool
 nimblestorage.de.trendhosting.cloud
 nimblestorage.definima.net
@@ -20175,7 +20160,6 @@ nimblestorage.jelastic.saveincloud.net
 nimblestorage.jls-sto1.elastx.net
 nimblestorage.jls-sto2.elastx.net
 nimblestorage.jls-sto3.elastx.net
-nimblestorage.joinmc.link
 nimblestorage.jouwweb.site
 nimblestorage.jp.net
 nimblestorage.jp.ngrok.io
@@ -20251,7 +20235,6 @@ nimblestorage.mel.cloudlets.com.au
 nimblestorage.merck
 nimblestorage.metaaiusercontent.com
 nimblestorage.meteorapp.com
-nimblestorage.mil.tm
 nimblestorage.minisite.ms
 nimblestorage.mircloud.host
 nimblestorage.mkm.fan
@@ -21704,7 +21687,6 @@ pattex.jelastic.saveincloud.net
 pattex.jls-sto1.elastx.net
 pattex.jls-sto2.elastx.net
 pattex.jls-sto3.elastx.net
-pattex.joinmc.link
 pattex.jouwweb.site
 pattex.jp.net
 pattex.jp.ngrok.io
@@ -21783,6 +21765,7 @@ pattex.mel.cloudlets.com.au
 pattex.merck
 pattex.metaaiusercontent.com
 pattex.meteorapp.com
+pattex.mil.tm
 pattex.minisite.ms
 pattex.mircloud.host
 pattex.mkm.fan
@@ -22011,7 +21994,6 @@ pattex.s3-accesspoint-fips.ca-central-1.amazonaws.com
 pattex.s3-accesspoint-fips.ca-west-1.amazonaws.com
 pattex.s3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com
 pattex.s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
-pattex.s3-accesspoint-fips.dualstack.us-east-1.amazonaws.com
 pattex.s3-accesspoint-fips.dualstack.us-east-2.amazonaws.com
 pattex.s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 pattex.s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
@@ -22067,7 +22049,6 @@ pattex.s3-accesspoint.dualstack.il-central-1.amazonaws.com
 pattex.s3-accesspoint.dualstack.me-central-1.amazonaws.com
 pattex.s3-accesspoint.dualstack.me-south-1.amazonaws.com
 pattex.s3-accesspoint.dualstack.sa-east-1.amazonaws.com
-pattex.s3-accesspoint.dualstack.us-east-1.amazonaws.com
 pattex.s3-accesspoint.dualstack.us-east-2.amazonaws.com
 pattex.s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 pattex.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
@@ -23122,7 +23103,6 @@ perwoll.jelastic.saveincloud.net
 perwoll.jls-sto1.elastx.net
 perwoll.jls-sto2.elastx.net
 perwoll.jls-sto3.elastx.net
-perwoll.joinmc.link
 perwoll.jouwweb.site
 perwoll.jp.net
 perwoll.jp.ngrok.io
@@ -23200,6 +23180,7 @@ perwoll.mel.cloudlets.com.au
 perwoll.merck
 perwoll.metaaiusercontent.com
 perwoll.meteorapp.com
+perwoll.mil.tm
 perwoll.minisite.ms
 perwoll.mircloud.host
 perwoll.mkm.fan
@@ -24517,7 +24498,6 @@ plexxi.jelastic.saveincloud.net
 plexxi.jls-sto1.elastx.net
 plexxi.jls-sto2.elastx.net
 plexxi.jls-sto3.elastx.net
-plexxi.joinmc.link
 plexxi.jouwweb.site
 plexxi.jp.net
 plexxi.jp.ngrok.io
@@ -24592,6 +24572,7 @@ plexxi.mel.cloudlets.com.au
 plexxi.merck
 plexxi.metaaiusercontent.com
 plexxi.meteorapp.com
+plexxi.mil.tm
 plexxi.minisite.ms
 plexxi.mircloud.host
 plexxi.mkm.fan
@@ -25942,7 +25923,6 @@ prittworld.jelastic.saveincloud.net
 prittworld.jls-sto1.elastx.net
 prittworld.jls-sto2.elastx.net
 prittworld.jls-sto3.elastx.net
-prittworld.joinmc.link
 prittworld.jouwweb.site
 prittworld.jp.net
 prittworld.jp.ngrok.io
@@ -27417,7 +27397,6 @@ randstad.jelastic.saveincloud.net
 randstad.jls-sto1.elastx.net
 randstad.jls-sto2.elastx.net
 randstad.jls-sto3.elastx.net
-randstad.joinmc.link
 randstad.jouwweb.site
 randstad.jp
 randstad.jp.net
@@ -27432,6 +27411,7 @@ randstad.khsj.cn
 randstad.kiloapps.ai
 randstad.kinghost.net
 randstad.kira.replit.dev
+randstad.kirk.replit.dev
 randstad.kr
 randstad.kunden.ortsinfo.at
 randstad.ladesk.com
@@ -27499,7 +27479,6 @@ randstad.mel.cloudlets.com.au
 randstad.merck
 randstad.metaaiusercontent.com
 randstad.meteorapp.com
-randstad.mil.tm
 randstad.minisite.ms
 randstad.mircloud.host
 randstad.mkm.fan
@@ -28338,7 +28317,6 @@ randstadrisesmart.12hp.at
 randstadrisesmart.12hp.ch
 randstadrisesmart.12hp.de
 randstadrisesmart.1337.pictures
-randstadrisesmart.1kapp.com
 randstadrisesmart.2.azurestaticapps.net
 randstadrisesmart.2038.io
 randstadrisesmart.2ix.at
@@ -28832,7 +28810,6 @@ randstadrisesmart.jelastic.saveincloud.net
 randstadrisesmart.jls-sto1.elastx.net
 randstadrisesmart.jls-sto2.elastx.net
 randstadrisesmart.jls-sto3.elastx.net
-randstadrisesmart.joinmc.link
 randstadrisesmart.jouwweb.site
 randstadrisesmart.jp
 randstadrisesmart.jp.net
@@ -28848,6 +28825,7 @@ randstadrisesmart.khsj.cn
 randstadrisesmart.kiloapps.ai
 randstadrisesmart.kinghost.net
 randstadrisesmart.kira.replit.dev
+randstadrisesmart.kirk.replit.dev
 randstadrisesmart.kunden.ortsinfo.at
 randstadrisesmart.kz
 randstadrisesmart.ladesk.com
@@ -28913,7 +28891,6 @@ randstadrisesmart.mel.cloudlets.com.au
 randstadrisesmart.merck
 randstadrisesmart.metaaiusercontent.com
 randstadrisesmart.meteorapp.com
-randstadrisesmart.mil.tm
 randstadrisesmart.minisite.ms
 randstadrisesmart.mircloud.host
 randstadrisesmart.mkm.fan
@@ -30278,7 +30255,6 @@ risesmart.jelastic.saveincloud.net
 risesmart.jls-sto1.elastx.net
 risesmart.jls-sto2.elastx.net
 risesmart.jls-sto3.elastx.net
-risesmart.joinmc.link
 risesmart.jouwweb.site
 risesmart.jp
 risesmart.jp.net
@@ -31399,7 +31375,6 @@ schwarzkopf.book.online
 schwarzkopf.boomla.net
 schwarzkopf.boutir.com
 schwarzkopf.bplaced.com
-schwarzkopf.bplaced.de
 schwarzkopf.bplaced.net
 schwarzkopf.browsersafetymark.io
 schwarzkopf.bss.design
@@ -31788,7 +31763,6 @@ schwarzkopf.in
 schwarzkopf.in.futurecms.at
 schwarzkopf.in.ngrok.io
 schwarzkopf.inc.hk
-schwarzkopf.info
 schwarzkopf.int.la
 schwarzkopf.international
 schwarzkopf.intouch.email
@@ -31824,7 +31798,6 @@ schwarzkopf.jelastic.saveincloud.net
 schwarzkopf.jls-sto1.elastx.net
 schwarzkopf.jls-sto2.elastx.net
 schwarzkopf.jls-sto3.elastx.net
-schwarzkopf.joinmc.link
 schwarzkopf.jouwweb.site
 schwarzkopf.jp
 schwarzkopf.jp.net
@@ -31906,7 +31879,6 @@ schwarzkopf.mel.cloudlets.com.au
 schwarzkopf.merck
 schwarzkopf.metaaiusercontent.com
 schwarzkopf.meteorapp.com
-schwarzkopf.mil.tm
 schwarzkopf.minisite.ms
 schwarzkopf.mircloud.host
 schwarzkopf.mkm.fan
@@ -33147,11 +33119,7 @@ schwarzkopfpalette.grebedoc.dev
 schwarzkopfpalette.grok.me
 schwarzkopfpalette.hackclub.app
 schwarzkopfpalette.handcrafted.jp
-schwarzkopfpalette.hasura.app
-schwarzkopfpalette.hateblo.jp
-schwarzkopfpalette.hatenablog.com
 schwarzkopfpalette.hatenablog.jp
-schwarzkopfpalette.hatenadiary.com
 schwarzkopfpalette.hatenadiary.jp
 schwarzkopfpalette.hatenadiary.org
 schwarzkopfpalette.hb.cldmail.ru
@@ -33215,7 +33183,6 @@ schwarzkopfpalette.jelastic.saveincloud.net
 schwarzkopfpalette.jls-sto1.elastx.net
 schwarzkopfpalette.jls-sto2.elastx.net
 schwarzkopfpalette.jls-sto3.elastx.net
-schwarzkopfpalette.joinmc.link
 schwarzkopfpalette.jouwweb.site
 schwarzkopfpalette.jp.net
 schwarzkopfpalette.jp.ngrok.io
@@ -33290,7 +33257,6 @@ schwarzkopfpalette.mel.cloudlets.com.au
 schwarzkopfpalette.merck
 schwarzkopfpalette.metaaiusercontent.com
 schwarzkopfpalette.meteorapp.com
-schwarzkopfpalette.mil.tm
 schwarzkopfpalette.minisite.ms
 schwarzkopfpalette.mircloud.host
 schwarzkopfpalette.mkm.fan
@@ -34228,7 +34194,6 @@ silan.arvanedge.ir
 silan.asia
 silan.assessments.cx
 silan.at
-silan.atl.jelastic.vps-host.net
 silan.au.ngrok.io
 silan.authgear-staging.com
 silan.authgearapps.com
@@ -34361,6 +34326,7 @@ silan.de.cool
 silan.de.trendhosting.cloud
 silan.definima.net
 silan.demo.jelastic.com
+silan.deno.dev
 silan.deno.net
 silan.deployagent.com
 silan.deployagent.space
@@ -34653,7 +34619,6 @@ silan.jelastic.saveincloud.net
 silan.jls-sto1.elastx.net
 silan.jls-sto2.elastx.net
 silan.jls-sto3.elastx.net
-silan.joinmc.link
 silan.jouwweb.site
 silan.jp.net
 silan.jp.ngrok.io
@@ -35896,7 +35861,6 @@ simplivity.enscaled.sg
 simplivity.erp.dev
 simplivity.eth.limo
 simplivity.eth.link
-simplivity.eu
 simplivity.eu-1.evennode.com
 simplivity.eu-2.evennode.com
 simplivity.eu-3.evennode.com
@@ -36044,7 +36008,6 @@ simplivity.jelastic.saveincloud.net
 simplivity.jls-sto1.elastx.net
 simplivity.jls-sto2.elastx.net
 simplivity.jls-sto3.elastx.net
-simplivity.joinmc.link
 simplivity.jouwweb.site
 simplivity.jp.net
 simplivity.jp.ngrok.io
@@ -36121,6 +36084,7 @@ simplivity.mel.cloudlets.com.au
 simplivity.merck
 simplivity.metaaiusercontent.com
 simplivity.meteorapp.com
+simplivity.mil.tm
 simplivity.minisite.ms
 simplivity.mircloud.host
 simplivity.mkm.fan
@@ -37490,7 +37454,6 @@ somat.jelastic.saveincloud.net
 somat.jls-sto1.elastx.net
 somat.jls-sto2.elastx.net
 somat.jls-sto3.elastx.net
-somat.joinmc.link
 somat.jouwweb.site
 somat.jp.net
 somat.jp.ngrok.io
@@ -37569,6 +37532,7 @@ somat.mel.cloudlets.com.au
 somat.merck
 somat.metaaiusercontent.com
 somat.meteorapp.com
+somat.mil.tm
 somat.minisite.ms
 somat.mircloud.host
 somat.mkm.fan
@@ -38779,7 +38743,6 @@ stmntgrooming.erp.dev
 stmntgrooming.es
 stmntgrooming.eth.limo
 stmntgrooming.eth.link
-stmntgrooming.eu
 stmntgrooming.eu-1.evennode.com
 stmntgrooming.eu-2.evennode.com
 stmntgrooming.eu-3.evennode.com
@@ -38928,7 +38891,6 @@ stmntgrooming.jelastic.saveincloud.net
 stmntgrooming.jls-sto1.elastx.net
 stmntgrooming.jls-sto2.elastx.net
 stmntgrooming.jls-sto3.elastx.net
-stmntgrooming.joinmc.link
 stmntgrooming.jouwweb.site
 stmntgrooming.jp.net
 stmntgrooming.jp.ngrok.io
@@ -39006,6 +38968,7 @@ stmntgrooming.mel.cloudlets.com.au
 stmntgrooming.merck
 stmntgrooming.metaaiusercontent.com
 stmntgrooming.meteorapp.com
+stmntgrooming.mil.tm
 stmntgrooming.minisite.ms
 stmntgrooming.mircloud.host
 stmntgrooming.mk
@@ -39172,7 +39135,6 @@ stmntgrooming.ph
 stmntgrooming.phx.enscaled.us
 stmntgrooming.picard.replit.dev
 stmntgrooming.piebox.site
-stmntgrooming.pike.replit.dev
 stmntgrooming.pixolino.com
 stmntgrooming.pl
 stmntgrooming.playcode.site
@@ -40298,7 +40260,6 @@ stopaq.jelastic.saveincloud.net
 stopaq.jls-sto1.elastx.net
 stopaq.jls-sto2.elastx.net
 stopaq.jls-sto3.elastx.net
-stopaq.joinmc.link
 stopaq.jouwweb.site
 stopaq.jp.net
 stopaq.jp.ngrok.io
@@ -40373,6 +40334,7 @@ stopaq.mel.cloudlets.com.au
 stopaq.merck
 stopaq.metaaiusercontent.com
 stopaq.meteorapp.com
+stopaq.mil.tm
 stopaq.minisite.ms
 stopaq.mircloud.host
 stopaq.mkm.fan
@@ -41719,7 +41681,6 @@ syoss.jelastic.saveincloud.net
 syoss.jls-sto1.elastx.net
 syoss.jls-sto2.elastx.net
 syoss.jls-sto3.elastx.net
-syoss.joinmc.link
 syoss.jouwweb.site
 syoss.jp
 syoss.jp.net
@@ -41799,6 +41760,7 @@ syoss.mel.cloudlets.com.au
 syoss.merck
 syoss.metaaiusercontent.com
 syoss.meteorapp.com
+syoss.mil.tm
 syoss.minisite.ms
 syoss.mircloud.host
 syoss.mkm.fan
@@ -43097,7 +43059,6 @@ taft.icp0.io
 taft.icp1.io
 taft.imagine-proxy.work
 taft.imagine.diy
-taft.in
 taft.in.futurecms.at
 taft.in.ngrok.io
 taft.inc.hk
@@ -43137,7 +43098,6 @@ taft.jelastic.saveincloud.net
 taft.jls-sto1.elastx.net
 taft.jls-sto2.elastx.net
 taft.jls-sto3.elastx.net
-taft.joinmc.link
 taft.jouwweb.site
 taft.jp
 taft.jp.net
@@ -43215,7 +43175,6 @@ taft.mel.cloudlets.com.au
 taft.merck
 taft.metaaiusercontent.com
 taft.meteorapp.com
-taft.mil.tm
 taft.minisite.ms
 taft.mircloud.host
 taft.mkm.fan
@@ -44534,7 +44493,6 @@ tangit.jelastic.saveincloud.net
 tangit.jls-sto1.elastx.net
 tangit.jls-sto2.elastx.net
 tangit.jls-sto3.elastx.net
-tangit.joinmc.link
 tangit.jouwweb.site
 tangit.jp.net
 tangit.jp.ngrok.io
@@ -44609,7 +44567,6 @@ tangit.mel.cloudlets.com.au
 tangit.merck
 tangit.metaaiusercontent.com
 tangit.meteorapp.com
-tangit.mil.tm
 tangit.minisite.ms
 tangit.mircloud.host
 tangit.mkm.fan
@@ -45503,7 +45460,6 @@ technomelt.apps.fbsbx.com
 technomelt.apps.lair.io
 technomelt.appspot.com
 technomelt.appwrite.global
-technomelt.appwrite.network
 technomelt.archer.replit.dev
 technomelt.art.ec
 technomelt.art.pl
@@ -45788,7 +45744,6 @@ technomelt.ex.futurecms.at
 technomelt.ex.ortsinfo.at
 technomelt.expo.app
 technomelt.ezproxy.kuleuven.be
-technomelt.f5.si
 technomelt.fashionstore.jp
 technomelt.fastly-terrarium.com
 technomelt.fedorapeople.org
@@ -45916,7 +45871,6 @@ technomelt.jelastic.saveincloud.net
 technomelt.jls-sto1.elastx.net
 technomelt.jls-sto2.elastx.net
 technomelt.jls-sto3.elastx.net
-technomelt.joinmc.link
 technomelt.jouwweb.site
 technomelt.jp.net
 technomelt.jp.ngrok.io
@@ -46882,7 +46836,6 @@ tempo-team.art.ec
 tempo-team.art.pl
 tempo-team.arvanedge.ir
 tempo-team.assessments.cx
-tempo-team.at.ply.gg
 tempo-team.atl.jelastic.vps-host.net
 tempo-team.au.ngrok.io
 tempo-team.authgear-staging.com
@@ -47289,7 +47242,6 @@ tempo-team.jelastic.saveincloud.net
 tempo-team.jls-sto1.elastx.net
 tempo-team.jls-sto2.elastx.net
 tempo-team.jls-sto3.elastx.net
-tempo-team.joinmc.link
 tempo-team.jouwweb.site
 tempo-team.jp.net
 tempo-team.jp.ngrok.io
@@ -48146,7 +48098,6 @@ tempo-team.wesley.replit.dev
 tempo-team.west1-us.cloudjiffy.net
 tempo-team.westeurope.azurestaticapps.net
 tempo-team.westus2.azurestaticapps.net
-tempo-team.with.playit.plus
 tempo-team.withgoogle.com
 tempo-team.withyoutube.com
 tempo-team.wix.run
@@ -48669,7 +48620,6 @@ teroson.jelastic.saveincloud.net
 teroson.jls-sto1.elastx.net
 teroson.jls-sto2.elastx.net
 teroson.jls-sto3.elastx.net
-teroson.joinmc.link
 teroson.jouwweb.site
 teroson.jp.net
 teroson.jp.ngrok.io
@@ -50270,7 +50220,6 @@ uzleuven.jelastic.saveincloud.net
 uzleuven.jls-sto1.elastx.net
 uzleuven.jls-sto2.elastx.net
 uzleuven.jls-sto3.elastx.net
-uzleuven.joinmc.link
 uzleuven.jouwweb.site
 uzleuven.jp.net
 uzleuven.jp.ngrok.io
@@ -52492,7 +52441,6 @@ www.amazon.myspreadshop.se
 www.amazon.mytabit.co.il
 www.amazon.mytabit.com
 www.amazon.nagoya
-www.amazon.name.tr
 www.amazon.navy
 www.amazon.nb.ca
 www.amazon.needle.run
