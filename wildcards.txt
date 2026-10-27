@@ -237,6 +237,7 @@ amazon.appwrite.network
 amazon.archi
 amazon.army
 amazon.art
+amazon.art.br
 amazon.art.ec
 amazon.art.pl
 amazon.arvanedge.ir
@@ -410,6 +411,7 @@ amazon.city
 amazon.cl
 amazon.claims
 amazon.clan.rip
+amazon.claude.app
 amazon.claudeusercontent.com
 amazon.cleaning
 amazon.cleverapps.io
@@ -1289,6 +1291,7 @@ amazon.meteorapp.com
 amazon.mex.com
 amazon.mg
 amazon.miami
+amazon.mil.tm
 amazon.minisite.ms
 amazon.mk
 amazon.mk.ua
@@ -1363,7 +1366,6 @@ amazon.myspreadshop.se
 amazon.mytabit.co.il
 amazon.mytabit.com
 amazon.nagoya
-amazon.name.tr
 amazon.navy
 amazon.nb.ca
 amazon.needle.run
@@ -1389,6 +1391,7 @@ amazon.nett.to
 amazon.network
 amazon.news
 amazon.nf
+amazon.ng
 amazon.ngo.za
 amazon.ngrok-free.app
 amazon.ngrok-free.dev
@@ -2599,6 +2602,7 @@ aqora.naiad.centralus.azurestaticapps.net
 aqora.naiad.ch.trendhosting.cloud
 aqora.naiad.chatgpt.site
 aqora.naiad.clan.rip
+aqora.naiad.claude.app
 aqora.naiad.claudeusercontent.com
 aqora.naiad.cleverapps.io
 aqora.naiad.cloud
@@ -3274,7 +3278,6 @@ aqora.naiad.rma.objectstorage.ch
 aqora.naiad.rocketpreview.app
 aqora.naiad.rs.webaccel.jp
 aqora.naiad.rt.ht
-aqora.naiad.ru
 aqora.naiad.run.app
 aqora.naiad.ryd.wafaicloud.com
 aqora.naiad.s3-1.amazonaws.com
@@ -4013,6 +4016,7 @@ askteamclean.centralus.azurestaticapps.net
 askteamclean.ch.trendhosting.cloud
 askteamclean.chatgpt.site
 askteamclean.clan.rip
+askteamclean.claude.app
 askteamclean.claudeusercontent.com
 askteamclean.cleverapps.io
 askteamclean.cloud-ip.biz
@@ -4686,7 +4690,6 @@ askteamclean.run.app
 askteamclean.ryd.wafaicloud.com
 askteamclean.s3-1.amazonaws.com
 askteamclean.s3-accesspoint-fips.ca-central-1.amazonaws.com
-askteamclean.s3-accesspoint-fips.ca-west-1.amazonaws.com
 askteamclean.s3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com
 askteamclean.s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
 askteamclean.s3-accesspoint-fips.dualstack.us-east-1.amazonaws.com
@@ -4734,7 +4737,6 @@ askteamclean.s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 askteamclean.s3-accesspoint.dualstack.cn-north-1.amazonaws.com.cn
 askteamclean.s3-accesspoint.dualstack.cn-northwest-1.amazonaws.com.cn
 askteamclean.s3-accesspoint.dualstack.eu-central-1.amazonaws.com
-askteamclean.s3-accesspoint.dualstack.eu-central-2.amazonaws.com
 askteamclean.s3-accesspoint.dualstack.eu-north-1.amazonaws.com
 askteamclean.s3-accesspoint.dualstack.eu-south-1.amazonaws.com
 askteamclean.s3-accesspoint.dualstack.eu-south-2.amazonaws.com
@@ -4752,7 +4754,6 @@ askteamclean.s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
 askteamclean.s3-accesspoint.dualstack.us-west-1.amazonaws.com
 askteamclean.s3-accesspoint.dualstack.us-west-2.amazonaws.com
 askteamclean.s3-accesspoint.eu-central-1.amazonaws.com
-askteamclean.s3-accesspoint.eu-central-2.amazonaws.com
 askteamclean.s3-accesspoint.eu-north-1.amazonaws.com
 askteamclean.s3-accesspoint.eu-south-1.amazonaws.com
 askteamclean.s3-accesspoint.eu-south-2.amazonaws.com
@@ -4792,7 +4793,6 @@ askteamclean.s3-external-1.amazonaws.com
 askteamclean.s3-fips-us-gov-east-1.amazonaws.com
 askteamclean.s3-fips-us-gov-west-1.amazonaws.com
 askteamclean.s3-fips.ca-central-1.amazonaws.com
-askteamclean.s3-fips.ca-west-1.amazonaws.com
 askteamclean.s3-fips.dualstack.ca-central-1.amazonaws.com
 askteamclean.s3-fips.dualstack.ca-west-1.amazonaws.com
 askteamclean.s3-fips.dualstack.us-east-1.amazonaws.com
@@ -4824,8 +4824,6 @@ askteamclean.s3-object-lambda.ca-central-1.amazonaws.com
 askteamclean.s3-object-lambda.ca-west-1.amazonaws.com
 askteamclean.s3-object-lambda.cn-north-1.amazonaws.com.cn
 askteamclean.s3-object-lambda.cn-northwest-1.amazonaws.com.cn
-askteamclean.s3-object-lambda.eu-central-1.amazonaws.com
-askteamclean.s3-object-lambda.eu-central-2.amazonaws.com
 askteamclean.s3-object-lambda.eu-north-1.amazonaws.com
 askteamclean.s3-object-lambda.eu-south-1.amazonaws.com
 askteamclean.s3-object-lambda.eu-south-2.amazonaws.com
@@ -4890,7 +4888,6 @@ askteamclean.s3-website.dualstack.ca-central-1.amazonaws.com
 askteamclean.s3-website.dualstack.ca-west-1.amazonaws.com
 askteamclean.s3-website.dualstack.cn-north-1.amazonaws.com.cn
 askteamclean.s3-website.dualstack.eu-central-1.amazonaws.com
-askteamclean.s3-website.dualstack.eu-central-2.amazonaws.com
 askteamclean.s3-website.dualstack.eu-south-1.amazonaws.com
 askteamclean.s3-website.dualstack.eu-south-2.amazonaws.com
 askteamclean.s3-website.dualstack.eu-west-1.amazonaws.com
@@ -4904,8 +4901,6 @@ askteamclean.s3-website.dualstack.us-gov-east-1.amazonaws.com
 askteamclean.s3-website.dualstack.us-gov-west-1.amazonaws.com
 askteamclean.s3-website.dualstack.us-west-1.amazonaws.com
 askteamclean.s3-website.dualstack.us-west-2.amazonaws.com
-askteamclean.s3-website.eu-central-1.amazonaws.com
-askteamclean.s3-website.eu-central-2.amazonaws.com
 askteamclean.s3-website.eu-north-1.amazonaws.com
 askteamclean.s3-website.eu-south-1.amazonaws.com
 askteamclean.s3-website.eu-south-2.amazonaws.com
@@ -4965,8 +4960,6 @@ askteamclean.s3.dualstack.ca-west-1.amazonaws.com
 askteamclean.s3.dualstack.cn-north-1.amazonaws.com.cn
 askteamclean.s3.dualstack.cn-northwest-1.amazonaws.com.cn
 askteamclean.s3.dualstack.eu-central-1.amazonaws.com
-askteamclean.s3.dualstack.eu-central-2.amazonaws.com
-askteamclean.s3.dualstack.eu-north-1.amazonaws.com
 askteamclean.s3.dualstack.eu-south-1.amazonaws.com
 askteamclean.s3.dualstack.eu-south-2.amazonaws.com
 askteamclean.s3.dualstack.eu-west-1.amazonaws.com
@@ -4983,7 +4976,6 @@ askteamclean.s3.dualstack.us-gov-west-1.amazonaws.com
 askteamclean.s3.dualstack.us-west-1.amazonaws.com
 askteamclean.s3.dualstack.us-west-2.amazonaws.com
 askteamclean.s3.eu-central-1.amazonaws.com
-askteamclean.s3.eu-central-2.amazonaws.com
 askteamclean.s3.eu-north-1.amazonaws.com
 askteamclean.s3.eu-south-1.amazonaws.com
 askteamclean.s3.eu-south-2.amazonaws.com
@@ -5430,6 +5422,7 @@ authenticbeautyconcept.ch
 authenticbeautyconcept.ch.trendhosting.cloud
 authenticbeautyconcept.chatgpt.site
 authenticbeautyconcept.clan.rip
+authenticbeautyconcept.claude.app
 authenticbeautyconcept.claudeusercontent.com
 authenticbeautyconcept.cleverapps.io
 authenticbeautyconcept.cloud-ip.biz
@@ -5453,6 +5446,7 @@ authenticbeautyconcept.cloudns.org
 authenticbeautyconcept.cloudns.pro
 authenticbeautyconcept.cloudns.pw
 authenticbeautyconcept.cloudns.us
+authenticbeautyconcept.cn
 authenticbeautyconcept.cnpy.gdn
 authenticbeautyconcept.co
 authenticbeautyconcept.co.com
@@ -5907,6 +5901,7 @@ authenticbeautyconcept.mel.cloudlets.com.au
 authenticbeautyconcept.merck
 authenticbeautyconcept.metaaiusercontent.com
 authenticbeautyconcept.meteorapp.com
+authenticbeautyconcept.mil.tm
 authenticbeautyconcept.minisite.ms
 authenticbeautyconcept.mkm.fan
 authenticbeautyconcept.mocha.app
@@ -6983,6 +6978,7 @@ bonderite.ch
 bonderite.ch.trendhosting.cloud
 bonderite.chatgpt.site
 bonderite.clan.rip
+bonderite.claude.app
 bonderite.claudeusercontent.com
 bonderite.cleverapps.io
 bonderite.cloud-ip.biz
@@ -8444,6 +8440,7 @@ busch-jaeger.ch
 busch-jaeger.ch.trendhosting.cloud
 busch-jaeger.chatgpt.site
 busch-jaeger.clan.rip
+busch-jaeger.claude.app
 busch-jaeger.claudeusercontent.com
 busch-jaeger.cleverapps.io
 busch-jaeger.cloud-ip.biz
@@ -9935,6 +9932,7 @@ cbre.ch.trendhosting.cloud
 cbre.chatgpt.site
 cbre.cl
 cbre.clan.rip
+cbre.claude.app
 cbre.claudeusercontent.com
 cbre.cleverapps.io
 cbre.cloud-ip.biz
@@ -11153,7 +11151,6 @@ cbre.typedream.app
 cbre.ug
 cbre.uk.oxa.cloud
 cbre.uk.primetel.cloud
-cbre.uk.reclaim.cloud
 cbre.umso.co
 cbre.unicloud.pl
 cbre.unison-services.cloud
@@ -11477,6 +11474,7 @@ ceresit.centralus.azurestaticapps.net
 ceresit.ch.trendhosting.cloud
 ceresit.chatgpt.site
 ceresit.clan.rip
+ceresit.claude.app
 ceresit.claudeusercontent.com
 ceresit.cleverapps.io
 ceresit.cloud-ip.biz
@@ -13016,6 +13014,7 @@ cpqcorp.centralus.azurestaticapps.net
 cpqcorp.ch.trendhosting.cloud
 cpqcorp.chatgpt.site
 cpqcorp.clan.rip
+cpqcorp.claude.app
 cpqcorp.claudeusercontent.com
 cpqcorp.cleverapps.io
 cpqcorp.cloud-ip.biz
@@ -13473,6 +13472,7 @@ cpqcorp.mel.cloudlets.com.au
 cpqcorp.merck
 cpqcorp.metaaiusercontent.com
 cpqcorp.meteorapp.com
+cpqcorp.mil.tm
 cpqcorp.minisite.ms
 cpqcorp.mkm.fan
 cpqcorp.mocha.app
@@ -14341,7 +14341,6 @@ dashlane.com
 dashregtech.com
 dashtradedesk.com
 database.dev
-datacamp.com
 datto.com
 dattobackup.com
 davosalestax.com
@@ -15027,6 +15026,7 @@ hpecore.centralus.azurestaticapps.net
 hpecore.ch.trendhosting.cloud
 hpecore.chatgpt.site
 hpecore.clan.rip
+hpecore.claude.app
 hpecore.claudeusercontent.com
 hpecore.cleverapps.io
 hpecore.cloud-ip.biz
@@ -16411,6 +16411,7 @@ hpqcorp.centralus.azurestaticapps.net
 hpqcorp.ch.trendhosting.cloud
 hpqcorp.chatgpt.site
 hpqcorp.clan.rip
+hpqcorp.claude.app
 hpqcorp.claudeusercontent.com
 hpqcorp.cleverapps.io
 hpqcorp.cloud-ip.biz
@@ -16869,6 +16870,7 @@ hpqcorp.mel.cloudlets.com.au
 hpqcorp.merck
 hpqcorp.metaaiusercontent.com
 hpqcorp.meteorapp.com
+hpqcorp.mil.tm
 hpqcorp.minisite.ms
 hpqcorp.mkm.fan
 hpqcorp.mocha.app
@@ -17150,7 +17152,6 @@ hpqcorp.s3-accesspoint.eu-central-2.amazonaws.com
 hpqcorp.s3-accesspoint.eu-north-1.amazonaws.com
 hpqcorp.s3-accesspoint.eu-south-1.amazonaws.com
 hpqcorp.s3-accesspoint.eu-south-2.amazonaws.com
-hpqcorp.s3-accesspoint.eu-west-1.amazonaws.com
 hpqcorp.s3-accesspoint.eu-west-2.amazonaws.com
 hpqcorp.s3-accesspoint.eu-west-3.amazonaws.com
 hpqcorp.s3-accesspoint.il-central-1.amazonaws.com
@@ -17287,7 +17288,6 @@ hpqcorp.s3-website.dualstack.eu-central-1.amazonaws.com
 hpqcorp.s3-website.dualstack.eu-central-2.amazonaws.com
 hpqcorp.s3-website.dualstack.eu-south-1.amazonaws.com
 hpqcorp.s3-website.dualstack.eu-south-2.amazonaws.com
-hpqcorp.s3-website.dualstack.eu-west-1.amazonaws.com
 hpqcorp.s3-website.dualstack.eu-west-3.amazonaws.com
 hpqcorp.s3-website.dualstack.il-central-1.amazonaws.com
 hpqcorp.s3-website.dualstack.me-central-1.amazonaws.com
@@ -17381,7 +17381,6 @@ hpqcorp.s3.eu-central-2.amazonaws.com
 hpqcorp.s3.eu-north-1.amazonaws.com
 hpqcorp.s3.eu-south-1.amazonaws.com
 hpqcorp.s3.eu-south-2.amazonaws.com
-hpqcorp.s3.eu-west-1.amazonaws.com
 hpqcorp.s3.eu-west-2.amazonaws.com
 hpqcorp.s3.eu-west-3.amazonaws.com
 hpqcorp.s3.fr-par.scw.cloud
@@ -17800,11 +17799,9 @@ indola.barsyonline.com
 indola.barsyonline.menu
 indola.barsyonline.shop
 indola.base.ec
-indola.base.shop
 indola.base44-sandbox.com
 indola.base44.app
 indola.be
-indola.beagleboard.io
 indola.bearblog.dev
 indola.beta.wmcloud.org
 indola.bitbucket.io
@@ -17846,6 +17843,7 @@ indola.ch
 indola.ch.trendhosting.cloud
 indola.chatgpt.site
 indola.clan.rip
+indola.claude.app
 indola.claudeusercontent.com
 indola.cleverapps.io
 indola.cloud-ip.biz
@@ -17985,6 +17983,9 @@ indola.emrappui-prod.ap-northeast-1.amazonaws.com
 indola.emrappui-prod.ap-northeast-2.amazonaws.com
 indola.emrappui-prod.ap-northeast-3.amazonaws.com
 indola.emrappui-prod.ap-south-1.amazonaws.com
+indola.emrappui-prod.ap-south-2.amazonaws.com
+indola.emrappui-prod.ap-southeast-1.amazonaws.com
+indola.emrappui-prod.ap-southeast-2.amazonaws.com
 indola.emrappui-prod.ap-southeast-3.amazonaws.com
 indola.emrappui-prod.ap-southeast-4.amazonaws.com
 indola.emrappui-prod.ca-central-1.amazonaws.com
@@ -18014,6 +18015,10 @@ indola.emrnotebooks-prod.ap-east-1.amazonaws.com
 indola.emrnotebooks-prod.ap-northeast-1.amazonaws.com
 indola.emrnotebooks-prod.ap-northeast-2.amazonaws.com
 indola.emrnotebooks-prod.ap-northeast-3.amazonaws.com
+indola.emrnotebooks-prod.ap-south-1.amazonaws.com
+indola.emrnotebooks-prod.ap-south-2.amazonaws.com
+indola.emrnotebooks-prod.ap-southeast-1.amazonaws.com
+indola.emrnotebooks-prod.ap-southeast-2.amazonaws.com
 indola.emrnotebooks-prod.ap-southeast-3.amazonaws.com
 indola.emrnotebooks-prod.ap-southeast-4.amazonaws.com
 indola.emrnotebooks-prod.ca-central-1.amazonaws.com
@@ -18042,6 +18047,9 @@ indola.emrstudio-prod.ap-east-1.amazonaws.com
 indola.emrstudio-prod.ap-northeast-1.amazonaws.com
 indola.emrstudio-prod.ap-northeast-2.amazonaws.com
 indola.emrstudio-prod.ap-northeast-3.amazonaws.com
+indola.emrstudio-prod.ap-south-1.amazonaws.com
+indola.emrstudio-prod.ap-south-2.amazonaws.com
+indola.emrstudio-prod.ap-southeast-1.amazonaws.com
 indola.emrstudio-prod.ap-southeast-2.amazonaws.com
 indola.emrstudio-prod.ap-southeast-3.amazonaws.com
 indola.emrstudio-prod.ap-southeast-4.amazonaws.com
@@ -19589,6 +19597,7 @@ mercadolibreexperience.com.aem.network
 mercadolibreexperience.com.aem.page
 mercadolibreexperience.com.aem.reviews
 mercadolibreexperience.com.affinitylottery.org.uk
+mercadolibreexperience.com.africa
 mercadolibreexperience.com.ai.studio
 mercadolibreexperience.com.ai.vn
 mercadolibreexperience.com.akamaiorigin-staging.net
@@ -19697,6 +19706,7 @@ mercadolibreexperience.com.ch.trendhosting.cloud
 mercadolibreexperience.com.chat
 mercadolibreexperience.com.chatgpt.site
 mercadolibreexperience.com.clan.rip
+mercadolibreexperience.com.claude.app
 mercadolibreexperience.com.claudeusercontent.com
 mercadolibreexperience.com.cleverapps.io
 mercadolibreexperience.com.cloud-ip.biz
@@ -20187,12 +20197,14 @@ mercadolibreexperience.com.mel.cloudlets.com.au
 mercadolibreexperience.com.merck
 mercadolibreexperience.com.metaaiusercontent.com
 mercadolibreexperience.com.meteorapp.com
+mercadolibreexperience.com.mil.tm
 mercadolibreexperience.com.minisite.ms
 mercadolibreexperience.com.mkm.fan
 mercadolibreexperience.com.mocha.app
 mercadolibreexperience.com.mochausercontent.com
 mercadolibreexperience.com.mock.pstmn.io
 mercadolibreexperience.com.moe
+mercadolibreexperience.com.moscow
 mercadolibreexperience.com.ms.fun
 mercadolibreexperience.com.ms.show
 mercadolibreexperience.com.mtls.run.app
@@ -20238,7 +20250,6 @@ mercadolibreexperience.com.mywire.org
 mercadolibreexperience.com.name.tr
 mercadolibreexperience.com.ne.kr
 mercadolibreexperience.com.needle.run
-mercadolibreexperience.com.net.ar
 mercadolibreexperience.com.net.au
 mercadolibreexperience.com.net.bz
 mercadolibreexperience.com.net.nz
@@ -21343,6 +21354,7 @@ natturalabs.centralus.azurestaticapps.net
 natturalabs.ch.trendhosting.cloud
 natturalabs.chatgpt.site
 natturalabs.clan.rip
+natturalabs.claude.app
 natturalabs.claudeusercontent.com
 natturalabs.cleverapps.io
 natturalabs.cloud-ip.biz
@@ -22747,6 +22759,7 @@ nexuzhealth.centralus.azurestaticapps.net
 nexuzhealth.ch.trendhosting.cloud
 nexuzhealth.chatgpt.site
 nexuzhealth.clan.rip
+nexuzhealth.claude.app
 nexuzhealth.claudeusercontent.com
 nexuzhealth.cleverapps.io
 nexuzhealth.cloud-ip.biz
@@ -23207,6 +23220,7 @@ nexuzhealth.mel.cloudlets.com.au
 nexuzhealth.merck
 nexuzhealth.metaaiusercontent.com
 nexuzhealth.meteorapp.com
+nexuzhealth.mil.tm
 nexuzhealth.minisite.ms
 nexuzhealth.mkm.fan
 nexuzhealth.mocha.app
@@ -23338,6 +23352,7 @@ nexuzhealth.onhercules.app
 nexuzhealth.onid.ca
 nexuzhealth.onrender.com
 nexuzhealth.onza.mythic-beasts.com
+nexuzhealth.opentunnel.xyz
 nexuzhealth.operaunite.com
 nexuzhealth.org
 nexuzhealth.org.ee
@@ -24145,6 +24160,7 @@ nimblestorage.centralus.azurestaticapps.net
 nimblestorage.ch.trendhosting.cloud
 nimblestorage.chatgpt.site
 nimblestorage.clan.rip
+nimblestorage.claude.app
 nimblestorage.claudeusercontent.com
 nimblestorage.cleverapps.io
 nimblestorage.cloud
@@ -25694,6 +25710,7 @@ pattex.ch.trendhosting.cloud
 pattex.chatgpt.site
 pattex.cl
 pattex.clan.rip
+pattex.claude.app
 pattex.claudeusercontent.com
 pattex.cleverapps.io
 pattex.cloud-ip.biz
@@ -26183,7 +26200,6 @@ pattex.mel.cloudlets.com.au
 pattex.merck
 pattex.metaaiusercontent.com
 pattex.meteorapp.com
-pattex.mil.tm
 pattex.minisite.ms
 pattex.mkm.fan
 pattex.mocha.app
@@ -26398,7 +26414,6 @@ pattex.rocketpreview.app
 pattex.rs
 pattex.rs.webaccel.jp
 pattex.rt.ht
-pattex.ru
 pattex.run.app
 pattex.ryd.wafaicloud.com
 pattex.s3-1.amazonaws.com
@@ -27170,6 +27185,7 @@ perwoll.ch
 perwoll.ch.trendhosting.cloud
 perwoll.chatgpt.site
 perwoll.clan.rip
+perwoll.claude.app
 perwoll.claudeusercontent.com
 perwoll.cleverapps.io
 perwoll.cloud-ip.biz
@@ -27642,7 +27658,6 @@ perwoll.mel.cloudlets.com.au
 perwoll.merck
 perwoll.metaaiusercontent.com
 perwoll.meteorapp.com
-perwoll.mil.tm
 perwoll.minisite.ms
 perwoll.mkm.fan
 perwoll.mocha.app
@@ -28617,6 +28632,7 @@ plexxi.centralus.azurestaticapps.net
 plexxi.ch.trendhosting.cloud
 plexxi.chatgpt.site
 plexxi.clan.rip
+plexxi.claude.app
 plexxi.claudeusercontent.com
 plexxi.cleverapps.io
 plexxi.cloud-ip.biz
@@ -28640,7 +28656,6 @@ plexxi.cloudns.org
 plexxi.cloudns.pro
 plexxi.cloudns.pw
 plexxi.cloudns.us
-plexxi.cnpy.gdn
 plexxi.co.com
 plexxi.co.de
 plexxi.co.site
@@ -29077,7 +29092,6 @@ plexxi.mel.cloudlets.com.au
 plexxi.merck
 plexxi.metaaiusercontent.com
 plexxi.meteorapp.com
-plexxi.mil.tm
 plexxi.minisite.ms
 plexxi.mkm.fan
 plexxi.mocha.app
@@ -29320,7 +29334,6 @@ plexxi.s3-accesspoint.ap-southeast-4.amazonaws.com
 plexxi.s3-accesspoint.ap-southeast-5.amazonaws.com
 plexxi.s3-accesspoint.ca-central-1.amazonaws.com
 plexxi.s3-accesspoint.ca-west-1.amazonaws.com
-plexxi.s3-accesspoint.cn-north-1.amazonaws.com.cn
 plexxi.s3-accesspoint.cn-northwest-1.amazonaws.com.cn
 plexxi.s3-accesspoint.dualstack.af-south-1.amazonaws.com
 plexxi.s3-accesspoint.dualstack.ap-east-1.amazonaws.com
@@ -29493,7 +29506,6 @@ plexxi.s3-website.dualstack.ap-southeast-4.amazonaws.com
 plexxi.s3-website.dualstack.ap-southeast-5.amazonaws.com
 plexxi.s3-website.dualstack.ca-central-1.amazonaws.com
 plexxi.s3-website.dualstack.ca-west-1.amazonaws.com
-plexxi.s3-website.dualstack.cn-north-1.amazonaws.com.cn
 plexxi.s3-website.dualstack.eu-central-1.amazonaws.com
 plexxi.s3-website.dualstack.eu-central-2.amazonaws.com
 plexxi.s3-website.dualstack.eu-south-1.amazonaws.com
@@ -29551,7 +29563,6 @@ plexxi.s3.ap-southeast-4.amazonaws.com
 plexxi.s3.ap-southeast-5.amazonaws.com
 plexxi.s3.ca-central-1.amazonaws.com
 plexxi.s3.ca-west-1.amazonaws.com
-plexxi.s3.cn-north-1.amazonaws.com.cn
 plexxi.s3.cn-northwest-1.amazonaws.com.cn
 plexxi.s3.dualstack.af-south-1.amazonaws.com
 plexxi.s3.dualstack.ap-east-1.amazonaws.com
@@ -30069,6 +30080,7 @@ prittworld.ch.trendhosting.cloud
 prittworld.chatgpt.site
 prittworld.cl
 prittworld.clan.rip
+prittworld.claude.app
 prittworld.claudeusercontent.com
 prittworld.cleverapps.io
 prittworld.cloud-ip.biz
@@ -30415,6 +30427,7 @@ prittworld.icp1.io
 prittworld.imagine.diy
 prittworld.in.futurecms.at
 prittworld.in.ngrok.io
+prittworld.int.la
 prittworld.intouch.email
 prittworld.io.noc.ruhr-uni-bochum.de
 prittworld.iopsys.se
@@ -30549,6 +30562,7 @@ prittworld.mel.cloudlets.com.au
 prittworld.merck
 prittworld.metaaiusercontent.com
 prittworld.meteorapp.com
+prittworld.mil.tm
 prittworld.minisite.ms
 prittworld.mkm.fan
 prittworld.mocha.app
@@ -31015,7 +31029,6 @@ prittworld.s3.ap-northeast-1.amazonaws.com
 prittworld.s3.ap-northeast-2.amazonaws.com
 prittworld.s3.ap-northeast-3.amazonaws.com
 prittworld.s3.ap-south-1.amazonaws.com
-prittworld.s3.ap-south-2.amazonaws.com
 prittworld.s3.ap-southeast-1.amazonaws.com
 prittworld.s3.ap-southeast-2.amazonaws.com
 prittworld.s3.ap-southeast-3.amazonaws.com
@@ -31550,6 +31563,7 @@ randstad.ch.trendhosting.cloud
 randstad.chatgpt.site
 randstad.cl
 randstad.clan.rip
+randstad.claude.app
 randstad.claudeusercontent.com
 randstad.cleverapps.io
 randstad.cloud-ip.biz
@@ -33036,6 +33050,7 @@ randstadrisesmart.centralus.azurestaticapps.net
 randstadrisesmart.ch.trendhosting.cloud
 randstadrisesmart.chatgpt.site
 randstadrisesmart.clan.rip
+randstadrisesmart.claude.app
 randstadrisesmart.claudeusercontent.com
 randstadrisesmart.cleverapps.io
 randstadrisesmart.cloud-ip.biz
@@ -33525,6 +33540,7 @@ randstadrisesmart.mel.cloudlets.com.au
 randstadrisesmart.merck
 randstadrisesmart.metaaiusercontent.com
 randstadrisesmart.meteorapp.com
+randstadrisesmart.mil.tm
 randstadrisesmart.minisite.ms
 randstadrisesmart.mkm.fan
 randstadrisesmart.mocha.app
@@ -34113,8 +34129,6 @@ randstadrisesmart.static.hf.space
 randstadrisesmart.static.observableusercontent.com
 randstadrisesmart.statichost.page
 randstadrisesmart.statics.cloud
-randstadrisesmart.stg.dev
-randstadrisesmart.stgstage.dev
 randstadrisesmart.storage.supabase.co
 randstadrisesmart.storage.yandexcloud.net
 randstadrisesmart.strapiapp.com
@@ -34521,6 +34535,7 @@ risesmart.ch.trendhosting.cloud
 risesmart.chatgpt.site
 risesmart.cl
 risesmart.clan.rip
+risesmart.claude.app
 risesmart.claudeusercontent.com
 risesmart.cleverapps.io
 risesmart.cloud-ip.biz
@@ -35226,7 +35241,6 @@ risesmart.rma.objectstorage.ch
 risesmart.rocketpreview.app
 risesmart.rs.webaccel.jp
 risesmart.rt.ht
-risesmart.ru
 risesmart.run.app
 risesmart.ryd.wafaicloud.com
 risesmart.s3-1.amazonaws.com
@@ -36080,6 +36094,7 @@ schwarzkopf.ch.trendhosting.cloud
 schwarzkopf.chatgpt.site
 schwarzkopf.cl
 schwarzkopf.clan.rip
+schwarzkopf.claude.app
 schwarzkopf.claudeusercontent.com
 schwarzkopf.cleverapps.io
 schwarzkopf.cloud
@@ -37563,6 +37578,7 @@ schwarzkopfpalette.centralus.azurestaticapps.net
 schwarzkopfpalette.ch.trendhosting.cloud
 schwarzkopfpalette.chatgpt.site
 schwarzkopfpalette.clan.rip
+schwarzkopfpalette.claude.app
 schwarzkopfpalette.claudeusercontent.com
 schwarzkopfpalette.cleverapps.io
 schwarzkopfpalette.cloud-ip.biz
@@ -39021,6 +39037,7 @@ silan.centralus.azurestaticapps.net
 silan.ch.trendhosting.cloud
 silan.chatgpt.site
 silan.clan.rip
+silan.claude.app
 silan.claudeusercontent.com
 silan.cleverapps.io
 silan.cloud-ip.biz
@@ -40100,6 +40117,7 @@ silan.stg.dev
 silan.stgstage.dev
 silan.storage.supabase.co
 silan.storage.yandexcloud.net
+silan.store
 silan.strapiapp.com
 silan.streak-link.com
 silan.streaklinks.com
@@ -40458,6 +40476,7 @@ simplivity.ch
 simplivity.ch.trendhosting.cloud
 simplivity.chatgpt.site
 simplivity.clan.rip
+simplivity.claude.app
 simplivity.claudeusercontent.com
 simplivity.cleverapps.io
 simplivity.cloud-ip.biz
@@ -40935,7 +40954,6 @@ simplivity.mel.cloudlets.com.au
 simplivity.merck
 simplivity.metaaiusercontent.com
 simplivity.meteorapp.com
-simplivity.mil.tm
 simplivity.minisite.ms
 simplivity.mkm.fan
 simplivity.mocha.app
@@ -41005,12 +41023,6 @@ simplivity.noop.app
 simplivity.nordeste-idc.saveincloud.net
 simplivity.notebook-fips.ca-central-1.sagemaker.aws
 simplivity.notebook-fips.ca-west-1.sagemaker.aws
-simplivity.notebook-fips.us-east-1.sagemaker.aws
-simplivity.notebook-fips.us-east-2.sagemaker.aws
-simplivity.notebook-fips.us-gov-east-1.sagemaker.aws
-simplivity.notebook-fips.us-gov-west-1.sagemaker.aws
-simplivity.notebook-fips.us-west-1.sagemaker.aws
-simplivity.notebook-fips.us-west-2.sagemaker.aws
 simplivity.notebook.af-south-1.sagemaker.aws
 simplivity.notebook.ap-east-1.sagemaker.aws
 simplivity.notebook.ap-northeast-1.sagemaker.aws
@@ -41024,8 +41036,6 @@ simplivity.notebook.ap-southeast-3.sagemaker.aws
 simplivity.notebook.ap-southeast-4.sagemaker.aws
 simplivity.notebook.ca-central-1.sagemaker.aws
 simplivity.notebook.ca-west-1.sagemaker.aws
-simplivity.notebook.cn-north-1.sagemaker.com.cn
-simplivity.notebook.cn-northwest-1.sagemaker.com.cn
 simplivity.notebook.eu-central-1.sagemaker.aws
 simplivity.notebook.eu-central-2.sagemaker.aws
 simplivity.notebook.eu-north-1.sagemaker.aws
@@ -41033,17 +41043,6 @@ simplivity.notebook.eu-south-1.sagemaker.aws
 simplivity.notebook.eu-south-2.sagemaker.aws
 simplivity.notebook.eu-west-1.sagemaker.aws
 simplivity.notebook.eu-west-2.sagemaker.aws
-simplivity.notebook.eu-west-3.sagemaker.aws
-simplivity.notebook.il-central-1.sagemaker.aws
-simplivity.notebook.me-central-1.sagemaker.aws
-simplivity.notebook.me-south-1.sagemaker.aws
-simplivity.notebook.sa-east-1.sagemaker.aws
-simplivity.notebook.us-east-1.sagemaker.aws
-simplivity.notebook.us-east-2.sagemaker.aws
-simplivity.notebook.us-gov-east-1.sagemaker.aws
-simplivity.notebook.us-gov-west-1.sagemaker.aws
-simplivity.notebook.us-west-1.sagemaker.aws
-simplivity.notebook.us-west-2.sagemaker.aws
 simplivity.noticeable.news
 simplivity.notion.site
 simplivity.novecore.site
@@ -41943,6 +41942,7 @@ somat.ch
 somat.ch.trendhosting.cloud
 somat.chatgpt.site
 somat.clan.rip
+somat.claude.app
 somat.claudeusercontent.com
 somat.cleverapps.io
 somat.cloud
@@ -43429,6 +43429,7 @@ stmntgrooming.ch
 stmntgrooming.ch.trendhosting.cloud
 stmntgrooming.chatgpt.site
 stmntgrooming.clan.rip
+stmntgrooming.claude.app
 stmntgrooming.claudeusercontent.com
 stmntgrooming.cleverapps.io
 stmntgrooming.cloud-ip.biz
@@ -43909,6 +43910,7 @@ stmntgrooming.mel.cloudlets.com.au
 stmntgrooming.merck
 stmntgrooming.metaaiusercontent.com
 stmntgrooming.meteorapp.com
+stmntgrooming.mil.tm
 stmntgrooming.minisite.ms
 stmntgrooming.mk
 stmntgrooming.mkm.fan
@@ -44847,6 +44849,7 @@ stopaq.centralus.azurestaticapps.net
 stopaq.ch.trendhosting.cloud
 stopaq.chatgpt.site
 stopaq.clan.rip
+stopaq.claude.app
 stopaq.claudeusercontent.com
 stopaq.cleverapps.io
 stopaq.cloud-ip.biz
@@ -46292,6 +46295,7 @@ syoss.ch
 syoss.ch.trendhosting.cloud
 syoss.chatgpt.site
 syoss.clan.rip
+syoss.claude.app
 syoss.claudeusercontent.com
 syoss.cleverapps.io
 syoss.cloud-ip.biz
@@ -47747,6 +47751,7 @@ taft.ch.trendhosting.cloud
 taft.chatgpt.site
 taft.cl
 taft.clan.rip
+taft.claude.app
 taft.claudeusercontent.com
 taft.cleverapps.io
 taft.cloud-ip.biz
@@ -49208,6 +49213,7 @@ tangit.ch
 tangit.ch.trendhosting.cloud
 tangit.chatgpt.site
 tangit.clan.rip
+tangit.claude.app
 tangit.claudeusercontent.com
 tangit.cleverapps.io
 tangit.cloud-ip.biz
@@ -49892,7 +49898,6 @@ tangit.ro
 tangit.rocketpreview.app
 tangit.rs.webaccel.jp
 tangit.rt.ht
-tangit.ru
 tangit.run.app
 tangit.ryd.wafaicloud.com
 tangit.s3-1.amazonaws.com
@@ -50638,6 +50643,7 @@ technomelt.centralus.azurestaticapps.net
 technomelt.ch.trendhosting.cloud
 technomelt.chatgpt.site
 technomelt.clan.rip
+technomelt.claude.app
 technomelt.claudeusercontent.com
 technomelt.cleverapps.io
 technomelt.cloud-ip.biz
@@ -51103,7 +51109,6 @@ technomelt.mel.cloudlets.com.au
 technomelt.merck
 technomelt.metaaiusercontent.com
 technomelt.meteorapp.com
-technomelt.mil.tm
 technomelt.minisite.ms
 technomelt.mkm.fan
 technomelt.mocha.app
@@ -52054,6 +52059,7 @@ tempo-team.centralus.azurestaticapps.net
 tempo-team.ch.trendhosting.cloud
 tempo-team.chatgpt.site
 tempo-team.clan.rip
+tempo-team.claude.app
 tempo-team.claudeusercontent.com
 tempo-team.cleverapps.io
 tempo-team.cloud-ip.biz
@@ -52156,7 +52162,6 @@ tempo-team.dnsabr.com
 tempo-team.dnsup.net
 tempo-team.drr.ac
 tempo-team.dyn.ddnss.de
-tempo-team.dyndns1.de
 tempo-team.dynserv.org
 tempo-team.e.id
 tempo-team.e2b.app
@@ -52369,7 +52374,6 @@ tempo-team.hf.space
 tempo-team.hicam.net
 tempo-team.hlx.live
 tempo-team.hlx.page
-tempo-team.home-webserver.de
 tempo-team.home64.de
 tempo-team.homesecuritymac.com
 tempo-team.homesklep.pl
@@ -52518,6 +52522,7 @@ tempo-team.mel.cloudlets.com.au
 tempo-team.merck
 tempo-team.metaaiusercontent.com
 tempo-team.meteorapp.com
+tempo-team.mil.tm
 tempo-team.minisite.ms
 tempo-team.mkm.fan
 tempo-team.mocha.app
@@ -53064,7 +53069,6 @@ tempo-team.sblo.jp
 tempo-team.schulplattform.de
 tempo-team.scw.site
 tempo-team.seidat.net
-tempo-team.sekd1.beebyteapp.io
 tempo-team.sellfy.store
 tempo-team.seprox.hooc.me
 tempo-team.sg-1.paas.massivegrid.net
@@ -53454,6 +53458,7 @@ teroson.ch
 teroson.ch.trendhosting.cloud
 teroson.chatgpt.site
 teroson.clan.rip
+teroson.claude.app
 teroson.claudeusercontent.com
 teroson.cleverapps.io
 teroson.cloud-ip.biz
@@ -54066,6 +54071,7 @@ teroson.official.ec
 teroson.omg.lol
 teroson.omniwe.site
 teroson.on-fleek.app
+teroson.on-web.fr
 teroson.on.expo.app
 teroson.on.staging.expo.app
 teroson.oncilla.mythic-beasts.com
@@ -54898,7 +54904,9 @@ triplinkintl.com
 trouw.nl
 trovatacash.com
 truelayer-sandbox.com
+truelayer.cloud
 truelayer.com
+truelayer.io
 trumethods.com
 truoptik.com
 trustnota.com
@@ -55117,6 +55125,7 @@ uzleuven.centralus.azurestaticapps.net
 uzleuven.ch.trendhosting.cloud
 uzleuven.chatgpt.site
 uzleuven.clan.rip
+uzleuven.claude.app
 uzleuven.claudeusercontent.com
 uzleuven.cleverapps.io
 uzleuven.cloud-ip.biz
@@ -56835,6 +56844,7 @@ www.amazon.city
 www.amazon.cl
 www.amazon.claims
 www.amazon.clan.rip
+www.amazon.claude.app
 www.amazon.claudeusercontent.com
 www.amazon.cleaning
 www.amazon.click
@@ -57539,6 +57549,7 @@ www.amazon.js.wpenginepowered.com
 www.amazon.ju.mp
 www.amazon.juegos
 www.amazon.kaufen
+www.amazon.kawaiishop.jp
 www.amazon.ke
 www.amazon.keenetic.pro
 www.amazon.keliweb.cloud
@@ -57880,7 +57891,6 @@ www.amazon.om
 www.amazon.omg.lol
 www.amazon.omniwe.site
 www.amazon.on-fleek.app
-www.amazon.on-web.fr
 www.amazon.on.ca
 www.amazon.on.expo.app
 www.amazon.on.staging.expo.app
