@@ -233,6 +233,7 @@ amazon.app.os.fedoraproject.org
 amazon.appengine.flow.ch
 amazon.apps-1and1.com
 amazon.apps-1and1.net
+amazon.apps.devs.ai
 amazon.apps.fbsbx.com
 amazon.apps.grok.bot
 amazon.apps.lair.io
@@ -391,16 +392,12 @@ amazon.career
 amazon.careers
 amazon.carrd.co
 amazon.cars
-amazon.casa
 amazon.casacam.net
-amazon.case
-amazon.cash
-amazon.casino
-amazon.catering
 amazon.cc
 amazon.cdn.amba.host
 amazon.cdn.bubble.io
 amazon.cdn.prod.atlassian-dev.net
+amazon.ceero.site
 amazon.center
 amazon.centralus.azurestaticapps.net
 amazon.ceo
@@ -960,6 +957,7 @@ amazon.gh.srv.us
 amazon.gift
 amazon.gifts
 amazon.giize.com
+amazon.ginta.page
 amazon.git-pages.rit.edu
 amazon.git-repos.de
 amazon.gitbook.io
@@ -2297,7 +2295,6 @@ amazon.uz.ua
 amazon.v0.build
 amazon.vacations
 amazon.val.run
-amazon.vc
 amazon.vegas
 amazon.ventures
 amazon.vercel.app
@@ -2564,6 +2561,7 @@ aqora.naiad.apigee.io
 aqora.naiad.app.amba.host
 aqora.naiad.app.os.fedoraproject.org
 aqora.naiad.appengine.flow.ch
+aqora.naiad.apps.devs.ai
 aqora.naiad.apps.fbsbx.com
 aqora.naiad.apps.grok.bot
 aqora.naiad.apps.lair.io
@@ -2636,6 +2634,7 @@ aqora.naiad.carrd.co
 aqora.naiad.cdn.amba.host
 aqora.naiad.cdn.bubble.io
 aqora.naiad.cdn.prod.atlassian-dev.net
+aqora.naiad.ceero.site
 aqora.naiad.centralus.azurestaticapps.net
 aqora.naiad.ch.trendhosting.cloud
 aqora.naiad.chatgpt.site
@@ -2705,6 +2704,7 @@ aqora.naiad.consent-portal.bedrock-agentcore.us-east-2.amazonaws.com
 aqora.naiad.consent-portal.bedrock-agentcore.us-gov-west-1.amazonaws.com
 aqora.naiad.consent-portal.bedrock-agentcore.us-west-1.amazonaws.com
 aqora.naiad.consent-portal.bedrock-agentcore.us-west-2.amazonaws.com
+aqora.naiad.convex.app
 aqora.naiad.convex.cloud
 aqora.naiad.convex.site
 aqora.naiad.corespeed.app
@@ -2919,6 +2919,7 @@ aqora.naiad.gadget.app
 aqora.naiad.gadget.host
 aqora.naiad.gateway.dev
 aqora.naiad.gh.srv.us
+aqora.naiad.ginta.page
 aqora.naiad.git-pages.rit.edu
 aqora.naiad.git-repos.de
 aqora.naiad.gitbook.io
@@ -3111,7 +3112,6 @@ aqora.naiad.mel.cloudlets.com.au
 aqora.naiad.merck
 aqora.naiad.metaaiusercontent.com
 aqora.naiad.meteorapp.com
-aqora.naiad.mil.tm
 aqora.naiad.minisite.ms
 aqora.naiad.mkm.fan
 aqora.naiad.mocha.app
@@ -3239,6 +3239,7 @@ aqora.naiad.omg.lol
 aqora.naiad.omgs.page
 aqora.naiad.omniwe.site
 aqora.naiad.on-fleek.app
+aqora.naiad.on-web.fr
 aqora.naiad.on.expo.app
 aqora.naiad.on.staging.expo.app
 aqora.naiad.oncilla.mythic-beasts.com
@@ -3354,7 +3355,6 @@ aqora.naiad.s3-accesspoint-fips.us-west-2.amazonaws.com
 aqora.naiad.s3-accesspoint.af-south-1.amazonaws.com
 aqora.naiad.s3-accesspoint.ap-east-1.amazonaws.com
 aqora.naiad.s3-accesspoint.ap-northeast-1.amazonaws.com
-aqora.naiad.s3-accesspoint.ap-northeast-2.amazonaws.com
 aqora.naiad.s3-accesspoint.ap-northeast-3.amazonaws.com
 aqora.naiad.s3-accesspoint.ap-south-1.amazonaws.com
 aqora.naiad.s3-accesspoint.ap-south-2.amazonaws.com
@@ -3510,7 +3510,6 @@ aqora.naiad.s3-website-us-west-1.amazonaws.com
 aqora.naiad.s3-website-us-west-2.amazonaws.com
 aqora.naiad.s3-website.af-south-1.amazonaws.com
 aqora.naiad.s3-website.ap-east-1.amazonaws.com
-aqora.naiad.s3-website.ap-northeast-1.amazonaws.com
 aqora.naiad.s3-website.ap-northeast-2.amazonaws.com
 aqora.naiad.s3-website.ap-northeast-3.amazonaws.com
 aqora.naiad.s3-website.ap-south-1.amazonaws.com
@@ -3928,7 +3927,6 @@ aqora.naiad.www.ck
 aqora.naiad.x443.pw
 aqora.naiad.xmit.co
 aqora.naiad.xmit.dev
-aqora.naiad.xyz
 aqora.naiad.yali.mythic-beasts.com
 aqora.naiad.yolasite.com
 aqora.naiad.you2.pl
@@ -4013,6 +4011,7 @@ askteamclean.apigee.io
 askteamclean.app.amba.host
 askteamclean.app.os.fedoraproject.org
 askteamclean.appengine.flow.ch
+askteamclean.apps.devs.ai
 askteamclean.apps.fbsbx.com
 askteamclean.apps.grok.bot
 askteamclean.apps.lair.io
@@ -4085,6 +4084,7 @@ askteamclean.carrd.co
 askteamclean.cdn.amba.host
 askteamclean.cdn.bubble.io
 askteamclean.cdn.prod.atlassian-dev.net
+askteamclean.ceero.site
 askteamclean.centralus.azurestaticapps.net
 askteamclean.ch.trendhosting.cloud
 askteamclean.chatgpt.site
@@ -4366,6 +4366,7 @@ askteamclean.gadget.app
 askteamclean.gadget.host
 askteamclean.gateway.dev
 askteamclean.gh.srv.us
+askteamclean.ginta.page
 askteamclean.git-pages.rit.edu
 askteamclean.git-repos.de
 askteamclean.gitbook.io
@@ -4557,7 +4558,6 @@ askteamclean.mel.cloudlets.com.au
 askteamclean.merck
 askteamclean.metaaiusercontent.com
 askteamclean.meteorapp.com
-askteamclean.mil.tm
 askteamclean.minisite.ms
 askteamclean.mkm.fan
 askteamclean.mocha.app
@@ -5462,6 +5462,7 @@ authenticbeautyconcept.apigee.io
 authenticbeautyconcept.app.amba.host
 authenticbeautyconcept.app.os.fedoraproject.org
 authenticbeautyconcept.appengine.flow.ch
+authenticbeautyconcept.apps.devs.ai
 authenticbeautyconcept.apps.fbsbx.com
 authenticbeautyconcept.apps.grok.bot
 authenticbeautyconcept.apps.lair.io
@@ -5537,6 +5538,7 @@ authenticbeautyconcept.carrd.co
 authenticbeautyconcept.cdn.amba.host
 authenticbeautyconcept.cdn.bubble.io
 authenticbeautyconcept.cdn.prod.atlassian-dev.net
+authenticbeautyconcept.ceero.site
 authenticbeautyconcept.centralus.azurestaticapps.net
 authenticbeautyconcept.ch
 authenticbeautyconcept.ch.trendhosting.cloud
@@ -5832,6 +5834,7 @@ authenticbeautyconcept.gadget.app
 authenticbeautyconcept.gadget.host
 authenticbeautyconcept.gateway.dev
 authenticbeautyconcept.gh.srv.us
+authenticbeautyconcept.ginta.page
 authenticbeautyconcept.git-pages.rit.edu
 authenticbeautyconcept.git-repos.de
 authenticbeautyconcept.gitbook.io
@@ -7053,6 +7056,7 @@ bonderite.apigee.io
 bonderite.app.amba.host
 bonderite.app.os.fedoraproject.org
 bonderite.appengine.flow.ch
+bonderite.apps.devs.ai
 bonderite.apps.fbsbx.com
 bonderite.apps.grok.bot
 bonderite.apps.lair.io
@@ -7128,6 +7132,7 @@ bonderite.carrd.co
 bonderite.cdn.amba.host
 bonderite.cdn.bubble.io
 bonderite.cdn.prod.atlassian-dev.net
+bonderite.ceero.site
 bonderite.centralus.azurestaticapps.net
 bonderite.ch
 bonderite.ch.trendhosting.cloud
@@ -7328,6 +7333,7 @@ bonderite.emrstudio-prod.ap-northeast-1.amazonaws.com
 bonderite.emrstudio-prod.ap-northeast-2.amazonaws.com
 bonderite.emrstudio-prod.ap-northeast-3.amazonaws.com
 bonderite.emrstudio-prod.ap-south-1.amazonaws.com
+bonderite.emrstudio-prod.ap-south-2.amazonaws.com
 bonderite.emrstudio-prod.ap-southeast-1.amazonaws.com
 bonderite.emrstudio-prod.ap-southeast-2.amazonaws.com
 bonderite.emrstudio-prod.ap-southeast-3.amazonaws.com
@@ -7416,6 +7422,7 @@ bonderite.gadget.app
 bonderite.gadget.host
 bonderite.gateway.dev
 bonderite.gh.srv.us
+bonderite.ginta.page
 bonderite.git-pages.rit.edu
 bonderite.git-repos.de
 bonderite.gitbook.io
@@ -8546,6 +8553,8 @@ busch-jaeger.analytics-gateway.ap-southeast-1.amazonaws.com
 busch-jaeger.analytics-gateway.ap-southeast-2.amazonaws.com
 busch-jaeger.analytics-gateway.eu-central-1.amazonaws.com
 busch-jaeger.analytics-gateway.eu-west-1.amazonaws.com
+busch-jaeger.analytics-gateway.us-east-1.amazonaws.com
+busch-jaeger.analytics-gateway.us-east-2.amazonaws.com
 busch-jaeger.analytics-gateway.us-west-2.amazonaws.com
 busch-jaeger.ap.ngrok.io
 busch-jaeger.api.lp.dev
@@ -8553,6 +8562,7 @@ busch-jaeger.apigee.io
 busch-jaeger.app.amba.host
 busch-jaeger.app.os.fedoraproject.org
 busch-jaeger.appengine.flow.ch
+busch-jaeger.apps.devs.ai
 busch-jaeger.apps.fbsbx.com
 busch-jaeger.apps.grok.bot
 busch-jaeger.apps.lair.io
@@ -8629,6 +8639,7 @@ busch-jaeger.carrd.co
 busch-jaeger.cdn.amba.host
 busch-jaeger.cdn.bubble.io
 busch-jaeger.cdn.prod.atlassian-dev.net
+busch-jaeger.ceero.site
 busch-jaeger.centralus.azurestaticapps.net
 busch-jaeger.ch
 busch-jaeger.ch.trendhosting.cloud
@@ -8919,6 +8930,7 @@ busch-jaeger.gadget.app
 busch-jaeger.gadget.host
 busch-jaeger.gateway.dev
 busch-jaeger.gh.srv.us
+busch-jaeger.ginta.page
 busch-jaeger.git-pages.rit.edu
 busch-jaeger.git-repos.de
 busch-jaeger.gitbook.io
@@ -9120,6 +9132,7 @@ busch-jaeger.mel.cloudlets.com.au
 busch-jaeger.merck
 busch-jaeger.metaaiusercontent.com
 busch-jaeger.meteorapp.com
+busch-jaeger.mil.tm
 busch-jaeger.minisite.ms
 busch-jaeger.mkm.fan
 busch-jaeger.mocha.app
@@ -10073,6 +10086,7 @@ cbre.app
 cbre.app.amba.host
 cbre.app.os.fedoraproject.org
 cbre.appengine.flow.ch
+cbre.apps.devs.ai
 cbre.apps.fbsbx.com
 cbre.apps.grok.bot
 cbre.apps.lair.io
@@ -10157,6 +10171,7 @@ cbre.carrd.co
 cbre.cdn.amba.host
 cbre.cdn.bubble.io
 cbre.cdn.prod.atlassian-dev.net
+cbre.ceero.site
 cbre.centralus.azurestaticapps.net
 cbre.ch
 cbre.ch.trendhosting.cloud
@@ -10483,6 +10498,7 @@ cbre.gadget.app
 cbre.gadget.host
 cbre.gateway.dev
 cbre.gh.srv.us
+cbre.ginta.page
 cbre.git-pages.rit.edu
 cbre.git-repos.de
 cbre.gitbook.io
@@ -10695,6 +10711,7 @@ cbre.mel.cloudlets.com.au
 cbre.merck
 cbre.metaaiusercontent.com
 cbre.meteorapp.com
+cbre.mil.tm
 cbre.minisite.ms
 cbre.mk
 cbre.mkm.fan
@@ -11657,6 +11674,7 @@ ceresit.apigee.io
 ceresit.app.amba.host
 ceresit.app.os.fedoraproject.org
 ceresit.appengine.flow.ch
+ceresit.apps.devs.ai
 ceresit.apps.fbsbx.com
 ceresit.apps.grok.bot
 ceresit.apps.lair.io
@@ -11734,6 +11752,7 @@ ceresit.carrd.co
 ceresit.cdn.amba.host
 ceresit.cdn.bubble.io
 ceresit.cdn.prod.atlassian-dev.net
+ceresit.ceero.site
 ceresit.centralus.azurestaticapps.net
 ceresit.ch.trendhosting.cloud
 ceresit.chatgpt.site
@@ -12029,6 +12048,7 @@ ceresit.gadget.host
 ceresit.gateway.dev
 ceresit.ge
 ceresit.gh.srv.us
+ceresit.ginta.page
 ceresit.git-pages.rit.edu
 ceresit.git-repos.de
 ceresit.gitbook.io
@@ -12365,7 +12385,6 @@ ceresit.omg.lol
 ceresit.omgs.page
 ceresit.omniwe.site
 ceresit.on-fleek.app
-ceresit.on-web.fr
 ceresit.on.expo.app
 ceresit.on.staging.expo.app
 ceresit.oncilla.mythic-beasts.com
@@ -13243,6 +13262,7 @@ cpqcorp.apigee.io
 cpqcorp.app.amba.host
 cpqcorp.app.os.fedoraproject.org
 cpqcorp.appengine.flow.ch
+cpqcorp.apps.devs.ai
 cpqcorp.apps.fbsbx.com
 cpqcorp.apps.grok.bot
 cpqcorp.apps.lair.io
@@ -13315,6 +13335,7 @@ cpqcorp.carrd.co
 cpqcorp.cdn.amba.host
 cpqcorp.cdn.bubble.io
 cpqcorp.cdn.prod.atlassian-dev.net
+cpqcorp.ceero.site
 cpqcorp.centralus.azurestaticapps.net
 cpqcorp.ch.trendhosting.cloud
 cpqcorp.chatgpt.site
@@ -13593,6 +13614,7 @@ cpqcorp.gadget.app
 cpqcorp.gadget.host
 cpqcorp.gateway.dev
 cpqcorp.gh.srv.us
+cpqcorp.ginta.page
 cpqcorp.git-pages.rit.edu
 cpqcorp.git-repos.de
 cpqcorp.gitbook.io
@@ -13911,7 +13933,6 @@ cpqcorp.omg.lol
 cpqcorp.omgs.page
 cpqcorp.omniwe.site
 cpqcorp.on-fleek.app
-cpqcorp.on-web.fr
 cpqcorp.on.expo.app
 cpqcorp.on.staging.expo.app
 cpqcorp.oncilla.mythic-beasts.com
@@ -15080,7 +15101,6 @@ goldmansachs.com
 gomastercard.com.au
 goodcow.com
 gop3.nl
-got2b.com
 gotinder.com
 gouv.qc.ca
 gov.sg
@@ -15143,6 +15163,7 @@ hellofax.com
 hellorory.com
 hellosign.com
 helloworks.com
+henkel-ac.jp
 henkel-adhesives.cn
 henkel-adhesives.com
 henkel-cashback.de
@@ -15273,6 +15294,7 @@ hpecore.apigee.io
 hpecore.app.amba.host
 hpecore.app.os.fedoraproject.org
 hpecore.appengine.flow.ch
+hpecore.apps.devs.ai
 hpecore.apps.fbsbx.com
 hpecore.apps.grok.bot
 hpecore.apps.lair.io
@@ -15345,6 +15367,7 @@ hpecore.carrd.co
 hpecore.cdn.amba.host
 hpecore.cdn.bubble.io
 hpecore.cdn.prod.atlassian-dev.net
+hpecore.ceero.site
 hpecore.centralus.azurestaticapps.net
 hpecore.ch.trendhosting.cloud
 hpecore.chatgpt.site
@@ -15624,6 +15647,7 @@ hpecore.gadget.app
 hpecore.gadget.host
 hpecore.gateway.dev
 hpecore.gh.srv.us
+hpecore.ginta.page
 hpecore.git-pages.rit.edu
 hpecore.git-repos.de
 hpecore.gitbook.io
@@ -15812,11 +15836,9 @@ hpecore.mcpre.ru
 hpecore.media.strapiapp.com
 hpecore.medusajs.site
 hpecore.meinforum.net
-hpecore.mel.cloudlets.com.au
 hpecore.merck
 hpecore.metaaiusercontent.com
 hpecore.meteorapp.com
-hpecore.mil.tm
 hpecore.minisite.ms
 hpecore.mkm.fan
 hpecore.mocha.app
@@ -16694,6 +16716,7 @@ hpqcorp.apigee.io
 hpqcorp.app.amba.host
 hpqcorp.app.os.fedoraproject.org
 hpqcorp.appengine.flow.ch
+hpqcorp.apps.devs.ai
 hpqcorp.apps.fbsbx.com
 hpqcorp.apps.grok.bot
 hpqcorp.apps.lair.io
@@ -16766,6 +16789,7 @@ hpqcorp.carrd.co
 hpqcorp.cdn.amba.host
 hpqcorp.cdn.bubble.io
 hpqcorp.cdn.prod.atlassian-dev.net
+hpqcorp.ceero.site
 hpqcorp.centralus.azurestaticapps.net
 hpqcorp.ch.trendhosting.cloud
 hpqcorp.chatgpt.site
@@ -17044,6 +17068,7 @@ hpqcorp.gadget.app
 hpqcorp.gadget.host
 hpqcorp.gateway.dev
 hpqcorp.gh.srv.us
+hpqcorp.ginta.page
 hpqcorp.git-pages.rit.edu
 hpqcorp.git-repos.de
 hpqcorp.gitbook.io
@@ -17236,6 +17261,7 @@ hpqcorp.mel.cloudlets.com.au
 hpqcorp.merck
 hpqcorp.metaaiusercontent.com
 hpqcorp.meteorapp.com
+hpqcorp.mil.tm
 hpqcorp.minisite.ms
 hpqcorp.mkm.fan
 hpqcorp.mocha.app
@@ -17361,7 +17387,6 @@ hpqcorp.omg.lol
 hpqcorp.omgs.page
 hpqcorp.omniwe.site
 hpqcorp.on-fleek.app
-hpqcorp.on-web.fr
 hpqcorp.on.expo.app
 hpqcorp.on.staging.expo.app
 hpqcorp.oncilla.mythic-beasts.com
@@ -18160,6 +18185,7 @@ indola.apigee.io
 indola.app.amba.host
 indola.app.os.fedoraproject.org
 indola.appengine.flow.ch
+indola.apps.devs.ai
 indola.apps.fbsbx.com
 indola.apps.grok.bot
 indola.apps.lair.io
@@ -18234,6 +18260,7 @@ indola.carrd.co
 indola.cdn.amba.host
 indola.cdn.bubble.io
 indola.cdn.prod.atlassian-dev.net
+indola.ceero.site
 indola.centralus.azurestaticapps.net
 indola.ch
 indola.ch.trendhosting.cloud
@@ -18536,6 +18563,7 @@ indola.gadget.app
 indola.gadget.host
 indola.gateway.dev
 indola.gh.srv.us
+indola.ginta.page
 indola.git-pages.rit.edu
 indola.git-repos.de
 indola.gitbook.io
@@ -18734,7 +18762,6 @@ indola.mel.cloudlets.com.au
 indola.merck
 indola.metaaiusercontent.com
 indola.meteorapp.com
-indola.mil.tm
 indola.minisite.ms
 indola.mkm.fan
 indola.mocha.app
@@ -19872,6 +19899,7 @@ loctite-superljepilo.ba
 loctite.com
 loctite.es
 loctite.it
+loctite.jp
 loctite55.be
 loctite55.ch
 loctite55.ee
@@ -20035,6 +20063,7 @@ mercadolibreexperience.com.apigee.io
 mercadolibreexperience.com.app.amba.host
 mercadolibreexperience.com.app.os.fedoraproject.org
 mercadolibreexperience.com.appengine.flow.ch
+mercadolibreexperience.com.apps.devs.ai
 mercadolibreexperience.com.apps.fbsbx.com
 mercadolibreexperience.com.apps.grok.bot
 mercadolibreexperience.com.apps.lair.io
@@ -20087,6 +20116,7 @@ mercadolibreexperience.com.bmoattachments.org
 mercadolibreexperience.com.bolt.host
 mercadolibreexperience.com.book.online
 mercadolibreexperience.com.boomla.net
+mercadolibreexperience.com.boston
 mercadolibreexperience.com.boutir.com
 mercadolibreexperience.com.bplaced.com
 mercadolibreexperience.com.bplaced.de
@@ -20119,6 +20149,7 @@ mercadolibreexperience.com.cc
 mercadolibreexperience.com.cdn.amba.host
 mercadolibreexperience.com.cdn.bubble.io
 mercadolibreexperience.com.cdn.prod.atlassian-dev.net
+mercadolibreexperience.com.ceero.site
 mercadolibreexperience.com.centralus.azurestaticapps.net
 mercadolibreexperience.com.ch.trendhosting.cloud
 mercadolibreexperience.com.chat
@@ -20417,6 +20448,7 @@ mercadolibreexperience.com.gadget.host
 mercadolibreexperience.com.gateway.dev
 mercadolibreexperience.com.gh.srv.us
 mercadolibreexperience.com.giize.com
+mercadolibreexperience.com.ginta.page
 mercadolibreexperience.com.git-pages.rit.edu
 mercadolibreexperience.com.git-repos.de
 mercadolibreexperience.com.gitbook.io
@@ -20597,6 +20629,7 @@ mercadolibreexperience.com.lolipop.io
 mercadolibreexperience.com.lolipopmc.jp
 mercadolibreexperience.com.lon-1.paas.massivegrid.net
 mercadolibreexperience.com.lon-2.paas.massivegrid.net
+mercadolibreexperience.com.london
 mercadolibreexperience.com.lovable.app
 mercadolibreexperience.com.lovableproject.com
 mercadolibreexperience.com.lp.dev
@@ -20620,6 +20653,7 @@ mercadolibreexperience.com.mel.cloudlets.com.au
 mercadolibreexperience.com.merck
 mercadolibreexperience.com.metaaiusercontent.com
 mercadolibreexperience.com.meteorapp.com
+mercadolibreexperience.com.mil.tm
 mercadolibreexperience.com.minisite.ms
 mercadolibreexperience.com.mkm.fan
 mercadolibreexperience.com.mocha.app
@@ -21735,6 +21769,7 @@ natturalabs.apigee.io
 natturalabs.app.amba.host
 natturalabs.app.os.fedoraproject.org
 natturalabs.appengine.flow.ch
+natturalabs.apps.devs.ai
 natturalabs.apps.fbsbx.com
 natturalabs.apps.grok.bot
 natturalabs.apps.lair.io
@@ -21807,6 +21842,7 @@ natturalabs.carrd.co
 natturalabs.cdn.amba.host
 natturalabs.cdn.bubble.io
 natturalabs.cdn.prod.atlassian-dev.net
+natturalabs.ceero.site
 natturalabs.centralus.azurestaticapps.net
 natturalabs.ch.trendhosting.cloud
 natturalabs.chatgpt.site
@@ -22086,6 +22122,7 @@ natturalabs.gadget.app
 natturalabs.gadget.host
 natturalabs.gateway.dev
 natturalabs.gh.srv.us
+natturalabs.ginta.page
 natturalabs.git-pages.rit.edu
 natturalabs.git-repos.de
 natturalabs.gitbook.io
@@ -22123,8 +22160,6 @@ natturalabs.hercules-dev.com
 natturalabs.here.now
 natturalabs.herokuapp.com
 natturalabs.heteml.net
-natturalabs.heyflow.page
-natturalabs.heyflow.site
 natturalabs.hf.space
 natturalabs.hicam.net
 natturalabs.hlx.live
@@ -22277,6 +22312,7 @@ natturalabs.mel.cloudlets.com.au
 natturalabs.merck
 natturalabs.metaaiusercontent.com
 natturalabs.meteorapp.com
+natturalabs.mil.tm
 natturalabs.minisite.ms
 natturalabs.mkm.fan
 natturalabs.mocha.app
@@ -23173,6 +23209,7 @@ nexuzhealth.apigee.io
 nexuzhealth.app.amba.host
 nexuzhealth.app.os.fedoraproject.org
 nexuzhealth.appengine.flow.ch
+nexuzhealth.apps.devs.ai
 nexuzhealth.apps.fbsbx.com
 nexuzhealth.apps.grok.bot
 nexuzhealth.apps.lair.io
@@ -23246,6 +23283,7 @@ nexuzhealth.carrd.co
 nexuzhealth.cdn.amba.host
 nexuzhealth.cdn.bubble.io
 nexuzhealth.cdn.prod.atlassian-dev.net
+nexuzhealth.ceero.site
 nexuzhealth.centralus.azurestaticapps.net
 nexuzhealth.ch.trendhosting.cloud
 nexuzhealth.chatgpt.site
@@ -23526,6 +23564,7 @@ nexuzhealth.gadget.app
 nexuzhealth.gadget.host
 nexuzhealth.gateway.dev
 nexuzhealth.gh.srv.us
+nexuzhealth.ginta.page
 nexuzhealth.git-pages.rit.edu
 nexuzhealth.git-repos.de
 nexuzhealth.gitbook.io
@@ -24609,6 +24648,7 @@ nimblestorage.app
 nimblestorage.app.amba.host
 nimblestorage.app.os.fedoraproject.org
 nimblestorage.appengine.flow.ch
+nimblestorage.apps.devs.ai
 nimblestorage.apps.fbsbx.com
 nimblestorage.apps.grok.bot
 nimblestorage.apps.lair.io
@@ -24682,6 +24722,7 @@ nimblestorage.carrd.co
 nimblestorage.cdn.amba.host
 nimblestorage.cdn.bubble.io
 nimblestorage.cdn.prod.atlassian-dev.net
+nimblestorage.ceero.site
 nimblestorage.centralus.azurestaticapps.net
 nimblestorage.ch.trendhosting.cloud
 nimblestorage.chatgpt.site
@@ -24966,6 +25007,7 @@ nimblestorage.gadget.app
 nimblestorage.gadget.host
 nimblestorage.gateway.dev
 nimblestorage.gh.srv.us
+nimblestorage.ginta.page
 nimblestorage.git-pages.rit.edu
 nimblestorage.git-repos.de
 nimblestorage.gitbook.io
@@ -25160,6 +25202,7 @@ nimblestorage.mel.cloudlets.com.au
 nimblestorage.merck
 nimblestorage.metaaiusercontent.com
 nimblestorage.meteorapp.com
+nimblestorage.mil.tm
 nimblestorage.minisite.ms
 nimblestorage.mkm.fan
 nimblestorage.mocha.app
@@ -26202,6 +26245,7 @@ pattex.apigee.io
 pattex.app.amba.host
 pattex.app.os.fedoraproject.org
 pattex.appengine.flow.ch
+pattex.apps.devs.ai
 pattex.apps.fbsbx.com
 pattex.apps.grok.bot
 pattex.apps.lair.io
@@ -26278,6 +26322,7 @@ pattex.carrd.co
 pattex.cdn.amba.host
 pattex.cdn.bubble.io
 pattex.cdn.prod.atlassian-dev.net
+pattex.ceero.site
 pattex.centralus.azurestaticapps.net
 pattex.ch
 pattex.ch.trendhosting.cloud
@@ -26581,6 +26626,7 @@ pattex.gadget.app
 pattex.gadget.host
 pattex.gateway.dev
 pattex.gh.srv.us
+pattex.ginta.page
 pattex.git-pages.rit.edu
 pattex.git-repos.de
 pattex.gitbook.io
@@ -27651,6 +27697,12 @@ perfectinfoapi.net
 perfectinformation.com
 persil.de
 persillaundry.com
+personio-dev.com
+personio-internal.de
+personio.com
+personio.de
+personio.tools
+personiowhistleblowing.com
 perwoll.1.azurestaticapps.net
 perwoll.123website.lu
 perwoll.12hp.at
@@ -27710,6 +27762,7 @@ perwoll.apigee.io
 perwoll.app.amba.host
 perwoll.app.os.fedoraproject.org
 perwoll.appengine.flow.ch
+perwoll.apps.devs.ai
 perwoll.apps.fbsbx.com
 perwoll.apps.grok.bot
 perwoll.apps.lair.io
@@ -27785,6 +27838,7 @@ perwoll.carrd.co
 perwoll.cdn.amba.host
 perwoll.cdn.bubble.io
 perwoll.cdn.prod.atlassian-dev.net
+perwoll.ceero.site
 perwoll.centralus.azurestaticapps.net
 perwoll.ch
 perwoll.ch.trendhosting.cloud
@@ -28075,6 +28129,7 @@ perwoll.gadget.host
 perwoll.gateway.dev
 perwoll.ge
 perwoll.gh.srv.us
+perwoll.ginta.page
 perwoll.git-pages.rit.edu
 perwoll.git-repos.de
 perwoll.gitbook.io
@@ -29197,6 +29252,7 @@ plexxi.apigee.io
 plexxi.app.amba.host
 plexxi.app.os.fedoraproject.org
 plexxi.appengine.flow.ch
+plexxi.apps.devs.ai
 plexxi.apps.fbsbx.com
 plexxi.apps.grok.bot
 plexxi.apps.lair.io
@@ -29269,6 +29325,7 @@ plexxi.carrd.co
 plexxi.cdn.amba.host
 plexxi.cdn.bubble.io
 plexxi.cdn.prod.atlassian-dev.net
+plexxi.ceero.site
 plexxi.centralus.azurestaticapps.net
 plexxi.ch.trendhosting.cloud
 plexxi.chatgpt.site
@@ -29550,6 +29607,7 @@ plexxi.gadget.app
 plexxi.gadget.host
 plexxi.gateway.dev
 plexxi.gh.srv.us
+plexxi.ginta.page
 plexxi.git-pages.rit.edu
 plexxi.git-repos.de
 plexxi.gitbook.io
@@ -29741,6 +29799,7 @@ plexxi.mel.cloudlets.com.au
 plexxi.merck
 plexxi.metaaiusercontent.com
 plexxi.meteorapp.com
+plexxi.mil.tm
 plexxi.minisite.ms
 plexxi.mkm.fan
 plexxi.mocha.app
@@ -29867,7 +29926,6 @@ plexxi.omg.lol
 plexxi.omgs.page
 plexxi.omniwe.site
 plexxi.on-fleek.app
-plexxi.on-web.fr
 plexxi.on.expo.app
 plexxi.on.staging.expo.app
 plexxi.oncilla.mythic-beasts.com
@@ -30128,11 +30186,7 @@ plexxi.s3-us-west-2.amazonaws.com
 plexxi.s3-website-ap-northeast-1.amazonaws.com
 plexxi.s3-website-ap-southeast-1.amazonaws.com
 plexxi.s3-website-ap-southeast-2.amazonaws.com
-plexxi.s3-website-eu-west-1.amazonaws.com
 plexxi.s3-website-jp.object.ncpstorage.com
-plexxi.s3-website-sa-east-1.amazonaws.com
-plexxi.s3-website-us-east-1.amazonaws.com
-plexxi.s3-website-us-gov-west-1.amazonaws.com
 plexxi.s3-website-us-west-1.amazonaws.com
 plexxi.s3-website-us-west-2.amazonaws.com
 plexxi.s3-website.af-south-1.amazonaws.com
@@ -30677,6 +30731,7 @@ prittworld.apigee.io
 prittworld.app.amba.host
 prittworld.app.os.fedoraproject.org
 prittworld.appengine.flow.ch
+prittworld.apps.devs.ai
 prittworld.apps.fbsbx.com
 prittworld.apps.grok.bot
 prittworld.apps.lair.io
@@ -30754,6 +30809,7 @@ prittworld.carrd.co
 prittworld.cdn.amba.host
 prittworld.cdn.bubble.io
 prittworld.cdn.prod.atlassian-dev.net
+prittworld.ceero.site
 prittworld.centralus.azurestaticapps.net
 prittworld.ch
 prittworld.ch.trendhosting.cloud
@@ -31052,6 +31108,7 @@ prittworld.gadget.app
 prittworld.gadget.host
 prittworld.gateway.dev
 prittworld.gh.srv.us
+prittworld.ginta.page
 prittworld.git-pages.rit.edu
 prittworld.git-repos.de
 prittworld.gitbook.io
@@ -31156,7 +31213,9 @@ prittworld.jp.object.ncpstorage.com
 prittworld.jp.object.private.ncpstorage.com
 prittworld.js.org
 prittworld.js.wpenginepowered.com
+prittworld.ju.mp
 prittworld.kawaiishop.jp
+prittworld.keliweb.cloud
 prittworld.khsj.cn
 prittworld.kiloapps.ai
 prittworld.kinghost.net
@@ -31247,6 +31306,7 @@ prittworld.mel.cloudlets.com.au
 prittworld.merck
 prittworld.metaaiusercontent.com
 prittworld.meteorapp.com
+prittworld.mil.tm
 prittworld.minisite.ms
 prittworld.mkm.fan
 prittworld.mocha.app
@@ -31883,6 +31943,7 @@ prittworld.studio.eu-west-3.sagemaker.aws
 prittworld.studio.il-central-1.sagemaker.aws
 prittworld.studio.me-central-1.sagemaker.aws
 prittworld.studio.me-south-1.sagemaker.aws
+prittworld.studio.sa-east-1.sagemaker.aws
 prittworld.studio.us-east-1.sagemaker.aws
 prittworld.studio.us-east-2.sagemaker.aws
 prittworld.studio.us-gov-east-1.sagemaker.aws
@@ -32186,6 +32247,7 @@ randstad.app.amba.host
 randstad.app.os.fedoraproject.org
 randstad.appengine.flow.ch
 randstad.apps-1and1.net
+randstad.apps.devs.ai
 randstad.apps.fbsbx.com
 randstad.apps.grok.bot
 randstad.apps.lair.io
@@ -32270,6 +32332,7 @@ randstad.cc
 randstad.cdn.amba.host
 randstad.cdn.bubble.io
 randstad.cdn.prod.atlassian-dev.net
+randstad.ceero.site
 randstad.centralus.azurestaticapps.net
 randstad.ch
 randstad.ch.trendhosting.cloud
@@ -32594,6 +32657,7 @@ randstad.gadget.host
 randstad.game
 randstad.gateway.dev
 randstad.gh.srv.us
+randstad.ginta.page
 randstad.git-pages.rit.edu
 randstad.git-repos.de
 randstad.gitbook.io
@@ -32803,7 +32867,6 @@ randstad.mel.cloudlets.com.au
 randstad.merck
 randstad.metaaiusercontent.com
 randstad.meteorapp.com
-randstad.mil.tm
 randstad.minisite.ms
 randstad.mkm.fan
 randstad.mocha.app
@@ -33717,6 +33780,7 @@ randstadrisesmart.apigee.io
 randstadrisesmart.app.amba.host
 randstadrisesmart.app.os.fedoraproject.org
 randstadrisesmart.appengine.flow.ch
+randstadrisesmart.apps.devs.ai
 randstadrisesmart.apps.fbsbx.com
 randstadrisesmart.apps.grok.bot
 randstadrisesmart.apps.lair.io
@@ -33793,6 +33857,7 @@ randstadrisesmart.carrd.co
 randstadrisesmart.cdn.amba.host
 randstadrisesmart.cdn.bubble.io
 randstadrisesmart.cdn.prod.atlassian-dev.net
+randstadrisesmart.ceero.site
 randstadrisesmart.centralus.azurestaticapps.net
 randstadrisesmart.ch.trendhosting.cloud
 randstadrisesmart.chatgpt.site
@@ -34082,6 +34147,7 @@ randstadrisesmart.gadget.app
 randstadrisesmart.gadget.host
 randstadrisesmart.gateway.dev
 randstadrisesmart.gh.srv.us
+randstadrisesmart.ginta.page
 randstadrisesmart.git-pages.rit.edu
 randstadrisesmart.git-repos.de
 randstadrisesmart.gitbook.io
@@ -35214,6 +35280,7 @@ risesmart.apigee.io
 risesmart.app.amba.host
 risesmart.app.os.fedoraproject.org
 risesmart.appengine.flow.ch
+risesmart.apps.devs.ai
 risesmart.apps.fbsbx.com
 risesmart.apps.grok.bot
 risesmart.apps.lair.io
@@ -35294,6 +35361,7 @@ risesmart.carrd.co
 risesmart.cdn.amba.host
 risesmart.cdn.bubble.io
 risesmart.cdn.prod.atlassian-dev.net
+risesmart.ceero.site
 risesmart.centralus.azurestaticapps.net
 risesmart.ch
 risesmart.ch.trendhosting.cloud
@@ -35589,6 +35657,7 @@ risesmart.gadget.app
 risesmart.gadget.host
 risesmart.gateway.dev
 risesmart.gh.srv.us
+risesmart.ginta.page
 risesmart.git-pages.rit.edu
 risesmart.git-repos.de
 risesmart.gitbook.io
@@ -36728,6 +36797,7 @@ sbgtest.net
 sc-core.net
 sc-corp.net
 scatec.io
+schwarzkopf-henkel.jp
 schwarzkopf.1.azurestaticapps.net
 schwarzkopf.123website.lu
 schwarzkopf.12hp.at
@@ -36789,6 +36859,7 @@ schwarzkopf.app
 schwarzkopf.app.amba.host
 schwarzkopf.app.os.fedoraproject.org
 schwarzkopf.appengine.flow.ch
+schwarzkopf.apps.devs.ai
 schwarzkopf.apps.fbsbx.com
 schwarzkopf.apps.grok.bot
 schwarzkopf.apps.lair.io
@@ -36852,6 +36923,7 @@ schwarzkopf.ca
 schwarzkopf.ca.reclaim.cloud
 schwarzkopf.caffeine.site
 schwarzkopf.caffeine.xyz
+schwarzkopf.cafjs.com
 schwarzkopf.calculators.cx
 schwarzkopf.campaign.gov.uk
 schwarzkopf.canva-apps.cn
@@ -36869,6 +36941,7 @@ schwarzkopf.cc
 schwarzkopf.cdn.amba.host
 schwarzkopf.cdn.bubble.io
 schwarzkopf.cdn.prod.atlassian-dev.net
+schwarzkopf.ceero.site
 schwarzkopf.center
 schwarzkopf.centralus.azurestaticapps.net
 schwarzkopf.ch
@@ -37193,6 +37266,7 @@ schwarzkopf.gadget.host
 schwarzkopf.gateway.dev
 schwarzkopf.gh.srv.us
 schwarzkopf.giize.com
+schwarzkopf.ginta.page
 schwarzkopf.git-pages.rit.edu
 schwarzkopf.git-repos.de
 schwarzkopf.gitbook.io
@@ -37392,6 +37466,7 @@ schwarzkopf.madethis.site
 schwarzkopf.mafelo.net
 schwarzkopf.magicpatterns.app
 schwarzkopf.magicpatternsapp.com
+schwarzkopf.manus.space
 schwarzkopf.mcpre.ru
 schwarzkopf.me
 schwarzkopf.media.strapiapp.com
@@ -37401,6 +37476,7 @@ schwarzkopf.mel.cloudlets.com.au
 schwarzkopf.merck
 schwarzkopf.metaaiusercontent.com
 schwarzkopf.meteorapp.com
+schwarzkopf.mil.tm
 schwarzkopf.minisite.ms
 schwarzkopf.mkm.fan
 schwarzkopf.mocha.app
@@ -37535,7 +37611,6 @@ schwarzkopf.omg.lol
 schwarzkopf.omgs.page
 schwarzkopf.omniwe.site
 schwarzkopf.on-fleek.app
-schwarzkopf.on-web.fr
 schwarzkopf.on.expo.app
 schwarzkopf.on.staging.expo.app
 schwarzkopf.oncilla.mythic-beasts.com
@@ -38318,6 +38393,7 @@ schwarzkopfpalette.apigee.io
 schwarzkopfpalette.app.amba.host
 schwarzkopfpalette.app.os.fedoraproject.org
 schwarzkopfpalette.appengine.flow.ch
+schwarzkopfpalette.apps.devs.ai
 schwarzkopfpalette.apps.fbsbx.com
 schwarzkopfpalette.apps.grok.bot
 schwarzkopfpalette.apps.lair.io
@@ -38390,6 +38466,7 @@ schwarzkopfpalette.carrd.co
 schwarzkopfpalette.cdn.amba.host
 schwarzkopfpalette.cdn.bubble.io
 schwarzkopfpalette.cdn.prod.atlassian-dev.net
+schwarzkopfpalette.ceero.site
 schwarzkopfpalette.centralus.azurestaticapps.net
 schwarzkopfpalette.ch.trendhosting.cloud
 schwarzkopfpalette.chatgpt.site
@@ -38668,6 +38745,7 @@ schwarzkopfpalette.gadget.app
 schwarzkopfpalette.gadget.host
 schwarzkopfpalette.gateway.dev
 schwarzkopfpalette.gh.srv.us
+schwarzkopfpalette.ginta.page
 schwarzkopfpalette.git-pages.rit.edu
 schwarzkopfpalette.git-repos.de
 schwarzkopfpalette.gitbook.io
@@ -39727,6 +39805,7 @@ shaya.com.tr
 shayakahve.com.tr
 shein.com
 sheingsp.com
+shiseido-professional.com
 shiseidoprofessionaledu.co.kr
 shopify.com
 shopify.io
@@ -39807,6 +39886,7 @@ silan.app
 silan.app.amba.host
 silan.app.os.fedoraproject.org
 silan.appengine.flow.ch
+silan.apps.devs.ai
 silan.apps.fbsbx.com
 silan.apps.grok.bot
 silan.apps.lair.io
@@ -39886,6 +39966,7 @@ silan.carrd.co
 silan.cdn.amba.host
 silan.cdn.bubble.io
 silan.cdn.prod.atlassian-dev.net
+silan.ceero.site
 silan.centralus.azurestaticapps.net
 silan.ch.trendhosting.cloud
 silan.chatgpt.site
@@ -40184,6 +40265,7 @@ silan.gadget.app
 silan.gadget.host
 silan.gateway.dev
 silan.gh.srv.us
+silan.ginta.page
 silan.git-pages.rit.edu
 silan.git-repos.de
 silan.gitbook.io
@@ -41289,6 +41371,7 @@ simplivity.app
 simplivity.app.amba.host
 simplivity.app.os.fedoraproject.org
 simplivity.appengine.flow.ch
+simplivity.apps.devs.ai
 simplivity.apps.fbsbx.com
 simplivity.apps.grok.bot
 simplivity.apps.lair.io
@@ -41364,6 +41447,7 @@ simplivity.carrd.co
 simplivity.cdn.amba.host
 simplivity.cdn.bubble.io
 simplivity.cdn.prod.atlassian-dev.net
+simplivity.ceero.site
 simplivity.centralus.azurestaticapps.net
 simplivity.ch
 simplivity.ch.trendhosting.cloud
@@ -41657,6 +41741,7 @@ simplivity.gadget.app
 simplivity.gadget.host
 simplivity.gateway.dev
 simplivity.gh.srv.us
+simplivity.ginta.page
 simplivity.git-pages.rit.edu
 simplivity.git-repos.de
 simplivity.gitbook.io
@@ -42809,6 +42894,7 @@ somat.apigee.io
 somat.app.amba.host
 somat.app.os.fedoraproject.org
 somat.appengine.flow.ch
+somat.apps.devs.ai
 somat.apps.fbsbx.com
 somat.apps.grok.bot
 somat.apps.lair.io
@@ -42884,6 +42970,7 @@ somat.carrd.co
 somat.cdn.amba.host
 somat.cdn.bubble.io
 somat.cdn.prod.atlassian-dev.net
+somat.ceero.site
 somat.centralus.azurestaticapps.net
 somat.ch
 somat.ch.trendhosting.cloud
@@ -43184,6 +43271,7 @@ somat.gadget.app
 somat.gadget.host
 somat.gateway.dev
 somat.gh.srv.us
+somat.ginta.page
 somat.git-pages.rit.edu
 somat.git-repos.de
 somat.gitbook.io
@@ -44327,6 +44415,7 @@ stmntgrooming.apigee.io
 stmntgrooming.app.amba.host
 stmntgrooming.app.os.fedoraproject.org
 stmntgrooming.appengine.flow.ch
+stmntgrooming.apps.devs.ai
 stmntgrooming.apps.fbsbx.com
 stmntgrooming.apps.grok.bot
 stmntgrooming.apps.lair.io
@@ -44404,6 +44493,7 @@ stmntgrooming.carrd.co
 stmntgrooming.cdn.amba.host
 stmntgrooming.cdn.bubble.io
 stmntgrooming.cdn.prod.atlassian-dev.net
+stmntgrooming.ceero.site
 stmntgrooming.centralus.azurestaticapps.net
 stmntgrooming.ch
 stmntgrooming.ch.trendhosting.cloud
@@ -44698,6 +44788,7 @@ stmntgrooming.gadget.app
 stmntgrooming.gadget.host
 stmntgrooming.gateway.dev
 stmntgrooming.gh.srv.us
+stmntgrooming.ginta.page
 stmntgrooming.git-pages.rit.edu
 stmntgrooming.git-repos.de
 stmntgrooming.gitbook.io
@@ -45786,6 +45877,7 @@ stopaq.apigee.io
 stopaq.app.amba.host
 stopaq.app.os.fedoraproject.org
 stopaq.appengine.flow.ch
+stopaq.apps.devs.ai
 stopaq.apps.fbsbx.com
 stopaq.apps.grok.bot
 stopaq.apps.lair.io
@@ -45860,6 +45952,7 @@ stopaq.carrd.co
 stopaq.cdn.amba.host
 stopaq.cdn.bubble.io
 stopaq.cdn.prod.atlassian-dev.net
+stopaq.ceero.site
 stopaq.centralus.azurestaticapps.net
 stopaq.ch.trendhosting.cloud
 stopaq.chatgpt.site
@@ -46148,6 +46241,7 @@ stopaq.gadget.app
 stopaq.gadget.host
 stopaq.gateway.dev
 stopaq.gh.srv.us
+stopaq.ginta.page
 stopaq.git-pages.rit.edu
 stopaq.git-repos.de
 stopaq.gitbook.io
@@ -47267,6 +47361,7 @@ syoss.apigee.io
 syoss.app.amba.host
 syoss.app.os.fedoraproject.org
 syoss.appengine.flow.ch
+syoss.apps.devs.ai
 syoss.apps.fbsbx.com
 syoss.apps.grok.bot
 syoss.apps.lair.io
@@ -47343,6 +47438,7 @@ syoss.ccwu.cc
 syoss.cdn.amba.host
 syoss.cdn.bubble.io
 syoss.cdn.prod.atlassian-dev.net
+syoss.ceero.site
 syoss.centralus.azurestaticapps.net
 syoss.ch
 syoss.ch.trendhosting.cloud
@@ -47645,6 +47741,7 @@ syoss.gadget.app
 syoss.gadget.host
 syoss.gateway.dev
 syoss.gh.srv.us
+syoss.ginta.page
 syoss.git-pages.rit.edu
 syoss.git-repos.de
 syoss.gitbook.io
@@ -47846,6 +47943,7 @@ syoss.mel.cloudlets.com.au
 syoss.merck
 syoss.metaaiusercontent.com
 syoss.meteorapp.com
+syoss.mil.tm
 syoss.minisite.ms
 syoss.mkm.fan
 syoss.mocha.app
@@ -48750,6 +48848,7 @@ taft.app
 taft.app.amba.host
 taft.app.os.fedoraproject.org
 taft.appengine.flow.ch
+taft.apps.devs.ai
 taft.apps.fbsbx.com
 taft.apps.grok.bot
 taft.apps.lair.io
@@ -48830,6 +48929,7 @@ taft.cc
 taft.cdn.amba.host
 taft.cdn.bubble.io
 taft.cdn.prod.atlassian-dev.net
+taft.ceero.site
 taft.center
 taft.centralus.azurestaticapps.net
 taft.ch
@@ -48858,6 +48958,8 @@ taft.cloudns.cx
 taft.cloudns.eu
 taft.cloudns.in
 taft.cloudns.info
+taft.cloudns.org
+taft.cloudns.pro
 taft.cloudns.pw
 taft.cloudns.us
 taft.cloudzyro.app
@@ -48924,6 +49026,7 @@ taft.cust.testing.thingdust.io
 taft.cyon.link
 taft.cz
 taft.daemon.panel.gg
+taft.ddns-ip.net
 taft.ddns.net
 taft.ddnsking.com
 taft.de
@@ -48949,6 +49052,8 @@ taft.discordsays.com
 taft.discordsez.com
 taft.diskussionsbereich.de
 taft.dkonto.pl
+taft.dns-cloud.net
+taft.dns-dynamic.net
 taft.dnsabr.com
 taft.dnsup.net
 taft.docsflowy.site
@@ -49132,6 +49237,7 @@ taft.gadget.app
 taft.gadget.host
 taft.gateway.dev
 taft.gh.srv.us
+taft.ginta.page
 taft.git-pages.rit.edu
 taft.git-repos.de
 taft.gitbook.io
@@ -49199,6 +49305,7 @@ taft.io
 taft.io.noc.ruhr-uni-bochum.de
 taft.iopsys.se
 taft.ip-ddns.com
+taft.ip-dynamic.org
 taft.ipfs.nftstorage.link
 taft.ipfs.storacha.link
 taft.ipfs.w3s.link
@@ -50245,6 +50352,7 @@ tangit.apigee.io
 tangit.app.amba.host
 tangit.app.os.fedoraproject.org
 tangit.appengine.flow.ch
+tangit.apps.devs.ai
 tangit.apps.fbsbx.com
 tangit.apps.grok.bot
 tangit.apps.lair.io
@@ -50321,6 +50429,7 @@ tangit.carrd.co
 tangit.cdn.amba.host
 tangit.cdn.bubble.io
 tangit.cdn.prod.atlassian-dev.net
+tangit.ceero.site
 tangit.centralus.azurestaticapps.net
 tangit.ch
 tangit.ch.trendhosting.cloud
@@ -50610,6 +50719,7 @@ tangit.gadget.app
 tangit.gadget.host
 tangit.gateway.dev
 tangit.gh.srv.us
+tangit.ginta.page
 tangit.git-pages.rit.edu
 tangit.git-repos.de
 tangit.gitbook.io
@@ -51716,6 +51826,7 @@ technomelt.apigee.io
 technomelt.app.amba.host
 technomelt.app.os.fedoraproject.org
 technomelt.appengine.flow.ch
+technomelt.apps.devs.ai
 technomelt.apps.fbsbx.com
 technomelt.apps.grok.bot
 technomelt.apps.lair.io
@@ -51788,6 +51899,7 @@ technomelt.carrd.co
 technomelt.cdn.amba.host
 technomelt.cdn.bubble.io
 technomelt.cdn.prod.atlassian-dev.net
+technomelt.ceero.site
 technomelt.centralus.azurestaticapps.net
 technomelt.ch.trendhosting.cloud
 technomelt.chatgpt.site
@@ -52073,6 +52185,7 @@ technomelt.gadget.app
 technomelt.gadget.host
 technomelt.gateway.dev
 technomelt.gh.srv.us
+technomelt.ginta.page
 technomelt.git-pages.rit.edu
 technomelt.git-repos.de
 technomelt.gitbook.io
@@ -52174,7 +52287,6 @@ technomelt.jp.object.ncpstorage.com
 technomelt.jp.object.private.ncpstorage.com
 technomelt.js.org
 technomelt.js.wpenginepowered.com
-technomelt.ju.mp
 technomelt.kawaiishop.jp
 technomelt.keliweb.cloud
 technomelt.khsj.cn
@@ -53165,6 +53277,7 @@ tempo-team.apigee.io
 tempo-team.app.amba.host
 tempo-team.app.os.fedoraproject.org
 tempo-team.appengine.flow.ch
+tempo-team.apps.devs.ai
 tempo-team.apps.fbsbx.com
 tempo-team.apps.grok.bot
 tempo-team.apps.lair.io
@@ -53240,6 +53353,7 @@ tempo-team.carrd.co
 tempo-team.cdn.amba.host
 tempo-team.cdn.bubble.io
 tempo-team.cdn.prod.atlassian-dev.net
+tempo-team.ceero.site
 tempo-team.centralus.azurestaticapps.net
 tempo-team.ch.trendhosting.cloud
 tempo-team.chatgpt.site
@@ -53522,6 +53636,7 @@ tempo-team.gadget.app
 tempo-team.gadget.host
 tempo-team.gateway.dev
 tempo-team.gh.srv.us
+tempo-team.ginta.page
 tempo-team.git-pages.rit.edu
 tempo-team.git-repos.de
 tempo-team.gitbook.io
@@ -53716,6 +53831,7 @@ tempo-team.mel.cloudlets.com.au
 tempo-team.merck
 tempo-team.metaaiusercontent.com
 tempo-team.meteorapp.com
+tempo-team.mil.tm
 tempo-team.minisite.ms
 tempo-team.mkm.fan
 tempo-team.mocha.app
@@ -54598,6 +54714,7 @@ teroson.apigee.io
 teroson.app.amba.host
 teroson.app.os.fedoraproject.org
 teroson.appengine.flow.ch
+teroson.apps.devs.ai
 teroson.apps.fbsbx.com
 teroson.apps.grok.bot
 teroson.apps.lair.io
@@ -54675,6 +54792,7 @@ teroson.carrd.co
 teroson.cdn.amba.host
 teroson.cdn.bubble.io
 teroson.cdn.prod.atlassian-dev.net
+teroson.ceero.site
 teroson.centralus.azurestaticapps.net
 teroson.ch
 teroson.ch.trendhosting.cloud
@@ -54974,6 +55092,7 @@ teroson.gadget.app
 teroson.gadget.host
 teroson.gateway.dev
 teroson.gh.srv.us
+teroson.ginta.page
 teroson.git-pages.rit.edu
 teroson.git-repos.de
 teroson.gitbook.io
@@ -56266,7 +56385,6 @@ veraz.com.ar
 vercel.com
 vercel.live
 verdia.com
-veriff.com
 verily.com
 verilyme.com
 verisign-grs.com
@@ -56547,6 +56665,7 @@ www.amazon.app
 www.amazon.app.amba.host
 www.amazon.app.os.fedoraproject.org
 www.amazon.appengine.flow.ch
+www.amazon.apps.devs.ai
 www.amazon.apps.fbsbx.com
 www.amazon.apps.grok.bot
 www.amazon.apps.lair.io
@@ -56698,6 +56817,7 @@ www.amazon.cc
 www.amazon.cdn.amba.host
 www.amazon.cdn.bubble.io
 www.amazon.cdn.prod.atlassian-dev.net
+www.amazon.ceero.site
 www.amazon.center
 www.amazon.centralus.azurestaticapps.net
 www.amazon.ceo
@@ -56942,6 +57062,7 @@ www.amazon.cs.keliweb.cloud
 www.amazon.csb.app
 www.amazon.ctfcloud.net
 www.amazon.cust.dev.thingdust.io
+www.amazon.cust.disrec.thingdust.io
 www.amazon.cust.prod.thingdust.io
 www.amazon.cust.testing.thingdust.io
 www.amazon.cv
@@ -57001,7 +57122,6 @@ www.amazon.dns-cloud.net
 www.amazon.dns-dynamic.net
 www.amazon.dnsabr.com
 www.amazon.dnsup.net
-www.amazon.do
 www.amazon.docsflowy.site
 www.amazon.dog
 www.amazon.domains
@@ -57247,6 +57367,7 @@ www.amazon.gh.srv.us
 www.amazon.gift
 www.amazon.gifts
 www.amazon.giize.com
+www.amazon.ginta.page
 www.amazon.git-pages.rit.edu
 www.amazon.git-repos.de
 www.amazon.gitbook.io
@@ -57582,6 +57703,7 @@ www.amazon.meteorapp.com
 www.amazon.mex.com
 www.amazon.mg
 www.amazon.miami
+www.amazon.mil.tm
 www.amazon.minisite.ms
 www.amazon.mk
 www.amazon.mk.ua
@@ -57934,6 +58056,7 @@ www.amazon.report
 www.amazon.republican
 www.amazon.researched.cx
 www.amazon.reservd.com
+www.amazon.reservd.disrec.thingdust.io
 www.amazon.reservd.testing.thingdust.io
 www.amazon.reserve-online.net
 www.amazon.resindevice.io
